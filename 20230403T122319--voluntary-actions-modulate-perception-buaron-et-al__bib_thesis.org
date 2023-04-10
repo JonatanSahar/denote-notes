@@ -1,0 +1,13 @@
+#+title:      Voluntary Actions Modulate Perception, Buaron et al.
+#+date:       [2023-04-03 Mon 12:23]
+#+filetags:   :bib:thesis:
+#+identifier: 20230403T122319
+#+reference:  buaronVoluntaryActionsModulate2020b
+
+This paper investigates how voluntary actions affect sensory modulations in the visual domain.
+The study found that the pattern of behavioral and neural modulations is such that the modulation is stronger in the visual cortex ipsilateral to the hand triggering the stimulus.
+
+In addition the study found that fMRI responses in visual cortices differentiated between stimuli triggered by right/left hand. This suggests that the visual cortex contains the information regarding the active hand, and this information is assumed to arrive there through the mechanism of [[denote:20230402T112858][Efference copy]].
+
+* The experimental procedure
+The experimental procedure involved presenting identical visual stimuli to participants that were either self-triggered (using right/left hand button presses) or triggered by the computer. The participants were asked to judge the relative brightness of the stimuli presented in either the right or left visual field. The study also used a visual localizer task to functionally define the visual cortex. The researchers used GLM with a contrast of right visual field > left visual field to define regions sensitive to visual stimulation in either right or left visual fields.

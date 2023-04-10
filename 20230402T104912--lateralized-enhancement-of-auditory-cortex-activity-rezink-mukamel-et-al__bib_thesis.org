@@ -1,0 +1,10 @@
+#+title:      Lateralized Enhancement of Auditory Cortex Activity Rezink, Mukamel et al
+#+date:       [2023-04-02 Sun 10:49]
+#+filetags:   :bib:thesis:
+#+identifier: 20230402T104912
+#+reference:  reznikLateralizedEnhancementAuditory2014
+
+This paper investigates how the brain processes self-generated sounds compared to externally generated sounds.
+The study found that self-generated sounds enhance activity in the auditory cortex and increase perceptual sensitivity in a lateralized manner. The enhancement in the auditory cortex was stronger when the sound-producing hand was contralateral to the auditory cortex, suggesting a lateralized effect.
+
+ The subjects were asked to perform a task where they either produced a sound themselves or heard an externally generated sound while their brain activity was measured using functional magnetic resonance imaging (fMRI).

@@ -1,0 +1,30 @@
+#+title:      How to read papers
+#+date:       [2023-04-09 Sun 10:27]
+#+filetags:   :thesis:
+#+identifier: 20230409T102750
+
+* general questions to keep in mind
+- what are the prominent theories?
+- what are the main areas of interest?
+- what are the major questions?/ What is this paper asking about laterality in the AC?
+- Who are the important researchers?
+- What are the main methodologies?
+- How is this question related to laterality in the AC?
+
+* specific questions
+- my research question: is there a differece in AC  processing between ipsilateral and contralateral hand-ear cases?
+- what is the effect of *action on perception* shown here?
+- is there a difference in modulation between sides? Based on laterality?
+
+* what do I want to know?
+- differences in perception between self generated and external stimuli
+- differences in perception between stimuli generated with R vs L hands
+
+- laterality dominance:
+    - in which parts of the pathway?
+    - for what kinds of information? Is it different for e.g. Voice and music, or environmental sounds etc.
+- what's the effect of producing a sound on:
+    - the perception (experience) of that sound.
+    - the processing (brain activity) of that sound.
+- what else was done with MVPA in this area? Did anyone else try to decode something from AC activity?
+-

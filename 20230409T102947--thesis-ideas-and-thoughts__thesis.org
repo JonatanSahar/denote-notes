@@ -1,0 +1,35 @@
+#+title:      Thesis ideas and thoughts
+#+date:       [2023-04-09 Sun 10:29]
+#+filetags:   :thesis:
+#+identifier: 20230409T102947
+
+Anything that has to do with my own thoughts and ideas about the project - ideas fro analyses, their meaning, connecting stuff from literature, preparing for writing.
+
+* What are we talking about?
+- The difference in modulation of the auditory cortex between ipsi and contralateral hand playing.
+- The (mechanism of the) effect of action on perception - on processing in fact.
+    + The effect of action on the processing of the action's consequences
+- Efference copies and how they work.
+- Crosstalk between sensory and motor circuits
+- Sensorimotor integration. <<2>>
+
+* Why does it matter?
+- can say something about the mechanism of [[id:20221208T101618.833052][Efference copy]] efferent copies (look at [cite:@buaronVoluntaryActionsModulate2020])  for language about efferent copies and the connection.
+
+
+* Literature connections
+- both reznik papers ([cite:@reznikEnhancedAuditoryEvoked2015;@reznikLateralizedEnhancementAuditory2014])  show that there's more modulation of the auditory cortex when the hand is ipsilateral to the ear .
+- this is also supported by batel's visual paper ([cite:@buaronVoluntaryActionsModulate2020]) showing the same for hand-and-visual-field.
+
+* Introduction ideas
+** goals
+- need to put my research in a broader context
+- need to show I know what's going on in the field
+- need to help someone not from the field understand the work and its importance
+
+** specifics
+- connections between action and perception (both ways, include david schalmer's paper)
+    + sensori-motor integration
+- specifically how action modultes perception
+- efference copy
+- theory of event codes (TEC)

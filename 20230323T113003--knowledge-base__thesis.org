@@ -1,0 +1,138 @@
+#+title:      Knowledge base
+#+date:       [2023-03-23 Thu 11:30]
+#+filetags:   :thesis:
+#+identifier: 20230323T113003
+
+
+* Action modulates perception
+*** SKIM Cardoso-Leite, P., Mamassian, P., Schütz-Bosbach, S., & Waszak, F. (2010). A new look at sensory attenuation: Action-effect anticipation affects sensitivity, not response bias. Psychological science, 21(12), 1740-1745.
+Cardoso-Leite et al. (2010) found that the perception of visual action effects was impaired when the effects were triggered by an action that habitually produced them.
+    • The experiment presented in this article aimed to determine whether learned sensorimotor contingencies truly affect perception, rather than just inducing a response bias.
+    • During the association phase of the experiment, specific actions (left-key and right-key presses) were associated with specific visual effects (tilted Gabor patches).
+    • In the test phase, participants' left-key presses and right-key presses triggered an onset of low contrast tilted Gabor patch on 50% trials while no stimulus was present for remaining 50%.
+    • Results showed that sensitivity(d') to these gabors decreased by 10%, indicating that action does not induce any response bias but changes perception instead.
+
+
+
+*** SKIM Hughes, G., & Waszak, F. (2011). ERP correlates of action effect prediction and visual sensory attenuation in voluntary action. Neuroimage, 56(3), 1632-1640.
+The study by Hughes and Waszak (2011) found that visual stimuli that were triggered by an action were associated with a reduction in the frontoparietal network of ERP components around 150ms after stimulus onset.
+    • The study aimed to explore the physiological measures of sensory attenuation and action effect prediction in visual domain.
+    • The task used in the study was a paradigm where voluntary actions were either associated with a visual action effect or to no effect. This allowed for exploration of both sensory attenuation (by comparing ERPs to action-triggered versus externally triggered stimuli) and action effect prediction (by comparing actions that triggered a stimulus with those that did not)
+    • It was found that cortical responses to visual action effects were reduced, manifesting as a decreased activation of frontoparietal network from 150 ms after stimulus.
+    • Differences between actions with an effect and those without one were observed in lateralized motor potentials which may reflect the cortical correlates for predicting action effects.
+    • Re-activation of lateralized motor activity following onset of the action effect suggests common representation across both visual & motor cortices.
+
+
+*** SKIM Dewey, J. A., & Carr, T. H. (2013). Predictable and self-initiated visual motion is judged to be slower than computer generated motion. Consciousness and cognition, 22(3), 987–995. https://doi.org/10.1016/j.concog.2013.06.007
+The study by Dewey and Carr (2013) found that self-initiated motion is perceived as slower than equivalent but externally generated motion, but only when the motion is produced in a predictable context. This may be due to internally generated predictions produced during action. The study also found that perceived speed was influenced by an interaction between congruence and predictability, with spatially congruent motions influencing speed judgments only when action effect contingencies were unpredictable. The results support the hypothesis that self-initiated action effects are perceived differently from effects with an external origin, suggesting that anticipating the consequences of one's actions has a particular functional significance. (Dewey & Carr, 2013).
+
+
+* Action modulates processing/neural activity
+*** Kavroulakis, E., van Kemenade, B. M., Arikan, B. E., Kircher, T., & Straube, B. (2022). The effect of self‐generated versus externally generated actions on timing, duration, and amplitude of blood oxygen level dependent response for visual feedback processing. Human Brain Mapping, 43(16), 4954-4969.
+The study investigated the effect of self-generated versus externally generated actions on the timing, duration, and amplitude of the blood oxygen level dependent (BOLD) response for visual feedback processing (Kavroulakis et al., 2022). The authors found that self-generated movements resulted in earlier and shorter BOLD responses in multiple brain structures, including visual and somatosensory cortical areas, the cerebellum, basal ganglia, and thalamus. This indicates that the efference copy-based predictive mechanisms enabled earlier processing of action feedback in self-generated movements. The results also showed that the BOLD duration was shorter in cortical and subcortical brain regions in self-generated movements, which was correlated with reduced delay detection performance. The authors concluded that the timing and duration of BOLD responses are important to predict and understand human behavior, and that their results shed new light on the cortico-cerebellar-striatal loops involved in predictive perception of the visual feedback of one's own hand movements.
+
+    •  The study tested the hypothesis that predictive mechanisms for self-generated actions lead to early and shorter neural processing compared with externally generated movements.
+    • We investigated active and passive movements using a custom-made fMRI-compatible movement device. Visual video feedback of the active and passive movements was presented in real-time or with variable delays.
+    •  The reanalysis confirmed previous findings that reduced BOLD response for active compared to passive movements, indicating earlier activation in areas such as supplementary motor area, cerebellum, visual cortices, etc., when performing an action than observing it passively from outside sources.
+    • This suggests that efference copy-based predictions enable quicker processing times between action & its sensory consequences leading to better understanding of how humans perceive their own actions differently from those performed by others
+
+
+*** Schafer, E. W., & Marcus, M. M. (1973). Self-stimulation alters human sensory brain responses. Science (New York, N.Y.), 181(4095), 175–177. https://doi.org/10.1126/science.181.4095.175
+In the study by Schafer and Marcus (1973), the authors investigated the effect of self-administered auditory and visual stimuli on human brain responses as measured by electrocortical potentials. The results showed that self-administered auditory and visual stimuli evoked smaller amplitude and faster post-stimulus timing compared to machine-delivered stimuli. The self-stimulation effect was found to be greater for auditory than visual responses, and greater at the vertex association area than over the occipital cortex for visual responses. These findings suggest that self-stimulation alters human sensory brain responses.
+
+
+*** Stenner, M. P., Bauer, M., Haggard, P., Heinze, H. J., & Dolan, R. (2014). Enhanced alpha-oscillations in visual cortex during anticipation of self-generated visual stimulation. Journal of cognitive neuroscience, 26(11), 2540-2551.
+The study found that the amplitude of alpha-oscillations in the visual cortex increased before the onset of a visual stimulus when the identity and onset of the stimulus were controlled by participants' motor actions. This prestimulus enhancement of alpha amplitude was paralleled by psychophysical judgments of reduced contrast for the stimulus. The findings suggest that alpha-oscillations in the visual cortex preceding self-generated visual stimulation are a likely neurophysiological signature of motor-induced sensory anticipation and mediate sensory attenuation. This is the first study to establish links between a psychophysical measure of sensory attenuation and physiological evidence of anticipatory sensory modulation during an action. (Stenner et al, 2014).
+    • Participants were asked to identify the difference in brightness between two images, and their motor actions were determined when each image was presented.
+    • The intensity of sensory stimuli is reduced when the observer causes them, and this phenomenon can be explained by forward models arising from motor processing.
+    • Alpha oscillations in the visual cortex are enhanced before a stimulus if it was caused by participants' actions, which corresponds to judgments showing lower contrast for these stimuli.
+    • Alpha oscillations likely mediate anticipatory modulation that reduces perceived intensity, potentially related to top down control mechanisms used for prioritizing or gating information.
+
+* Sharpening
+*** READ Action sharpens sensory representations of expected outcomes. 4288 Yon, D., Gilbert, S. J., de Lange, F. P., & Press, C. (2018).
+ [cite:@yonActionSharpensSensory2018]
+In the study by Yon, Gilbert, de Lange, & Press (2018), the authors investigated the relationship between actions and sensory representations of expected outcomes. The results showed that when participants executed hand movements, visual representations of hand movements could be decoded more accurately when they were congruent with the action, leading to enhanced visual processing. The authors found that these decoding enhancements were accompanied by suppressed activity in voxels tuned away from the expected stimulus, consistent with the idea that prediction during action sharpens sensory representations. These results suggest that sensory processing during action is optimized in line with normative models of Bayesian perceptual inference. (Yon, Gilbert, de Lange, & Press, 2018).
+    • The research paper discusses two models of action control: one that suggests expected sensory signals are cancelled, and another which proposes they are represented with greater fidelity (sharpened).
+        ◦ “Sharpening’ models are thought to explain a range of perceptual phenomena whereby observers are biased towards perceiving stimuli that they expect, for instance, perceiving greyscale bananas to be yellow. Under these accounts it is hypothesised that activity in sensory brain areas may in principle be suppressed for expected inputs, but the suppression would not resemble that predicted by the can- cellation account. Specifically, activity should be suppressed only in units tuned away from expected inputs, rather than in units tuned towards these inputs as hypothesised by the cancellation account.”
+        ◦ T”his sharpening is con- sidered to arise through competitive interactions between neural populations tuned towards and away from the expected stimulus, such that activity in unpredicted units is attenuated relative to that in predicted units (e.g., through lateral inhibition)13,17. Predictive signals thereby stop ‘gossiping’ among sensory units21 (for further discussion see ref.22)”
+    • An fMRI experiment was conducted to distinguish between these models. It involved participants executing hand actions while observing movements of an avatar hand.
+    •  Results showed that visual representations were classified more accurately when congruent with the action being executed, indicating sharpening rather than cancellation of expected sensory signals.
+    • This supports a Bayesian model for sensorimotor prediction in which veridical perception is facilitated by sharper representation of anticipated outcomes.
+
+
+
+* Modulation works via an effernce copy
+
+*** Haggard, P., & Whitford, B. (2004). Supplementary motor area provides an efferent signal for sensory suppression. Brain research. Cognitive brain research, 19(1), 52–58. https://doi.org/10.1016/j.cogbrainres.2003.10.018
+Haggard and Whiteford (2004), found evidence that the SMA may provide an efferent signal which is used by other brain areas to modulate somatosensory activity during self-generated movement. This suggests that sensory suppression in voluntary actions can be explained through motor prediction, where a signal from motor areas cancels out any predicted reafferences as a consequence of movement.
+
+    • Voluntary actions produce suppression of neural activity in sensory areas, resulting in reduced levels of conscious sensation. This phenomenon has been linked to motor prediction: an efferent signal from motor areas may cancel out the predicted reafferences as a consequence of movement.
+    • The experiments conducted with eight normal subjects showed that when they made voluntary actions, they perceived the first test MEP to be smaller than on trials where no action was taken - demonstrating sensory suppression. Additionally, delivering prepulses over SMA 10 ms before producing the test pulse almost abolished any observed effects - suggesting that an efferent signal from motor areas is used by other brain regions to modulate somatosensory activity during self-generated movements.
+
+* Action sensory modulation is learning based
+
+*** SKIM Roussel, C., Hughes, G., & Waszak, F. (2013). A preactivation account of sensory attenuation. Neuropsychologia, 51(5), 922-929.
+[cite:@rousselPreactivationAccountSensory2013]
+The article by Roussel, Hughes, and Waszak (2013) presents a new model for sensory attenuation, the phenomenon in which the intensity of action-effects is reduced when they are predictable. The authors propose that voluntary action selection involves the pre-activation of learned action-effects, and they test their predictions in a contrast discrimination task where participants learn action-effect associations between button presses and letter stimuli. The results show a reduction in contrast discrimination sensitivity for stimuli that are congruent with the learned action-effects, and this reduction is driven by an increase in the internal response for lower contrast stimuli. This provides a novel account of how motor prediction drives sensory attenuation of action-effects. The model successfully generated testable predictions and explained the reduction in stimulus discrimination previously observed for accurately predicted action-effects.
+    • Motor prediction can drive sensory attenuation of action-effects.
+    • This was demonstrated through a contrast discrimination task in which participants were trained to learn associations between left and right-hand button presses and letter stimuli with different contrast levels.
+    • Results showed reduced sensitivity for lower contrast stimuli congruent with these learned associations, suggesting that sensory attenuation results from the preactivation of learned actions-effects as predicted by the proposed model.
+
+* Stronger modulation in ipsilateral configuration
+
+* Advantage in contralateral configuration
+
+* Papers from the lab
+*** [[denote:20230403T122319][Voluntary Actions Modulate Perception, Buaron et al.]]
+#+transclude: [[denote:20230403T122319][Voluntary Actions Modulate Perception, Buaron et al.]] :level 3
+
+
+*** [[denote:20230329T121953][Enhanced Auditory Evoked Activity to Self-Generated Sounds Reznik et. al]]
+#+transclude: [[denote:20230329T121953][Enhanced Auditory Evoked Activity to Self-Generated Sounds Reznik et. al]] :level 3
+
+
+*** SKIM Reznik, D., Guttman, N., Buaron, B., Zion-Golumbic, E., & Mukamel, R. (2021). Action-locked neural responses in auditory cortex to self-generated sounds. Cerebral Cortex, 31(12), 5560-5569.
+This MEG study investigates the role of voluntary actions in modulating neural activity in the auditory cortex and perception of sounds presented at auditory hearing threshold. The study shows evidence for efferent signals in human auditory cortex that are locked to voluntary actions coupled with future auditory consequences. The findings suggest that voluntary actions play an important role in perception by directly modulating neural activity in sensory circuits.
+
+- The main results of the paper are:
+    + The study found evidence for efferent signals in human auditory cortex that are locked to voluntary actions coupled with future auditory consequences.
+    + Action-locked evoked-responses were observed in auditory cortex following sound-triggering actions and preceding sound onset.
+    + The study also found increased perceptual salience of faint auditory stimuli compared to otherwise identical sounds perceived in a passive manner.
+    + These findings suggest that voluntary actions play an important role in perception by directly modulating neural activity in sensory circuits.
+
+- citation: [cite:@ActionlockedNeuralResponses]
+
+
+*** SKIM Reznik, D., Simon, S., & Mukamel, R. (2018). Predicted sensory consequences of voluntary actions modulate amplitude of preceding readiness potentials. Neuropsychologia, 119, 302-307.
+This paper investigates the neural signature of voluntary actions and their associated sensory consequences. The authors recorded EEG data from healthy subjects while they performed self-paced button presses with their right index and middle fingers. Button-presses with one finger triggered a sound (motor+sound condition), while button-presses with the other finger did not (motor-only condition). Additionally, subjects listened to externally-generated sounds delivered in expected timings (sound-only condition).
+
+The main results of this paper are that the readiness potential (RP) amplitude was significantly more negative in the motor+sound compared with motor-only conditions, indicating that information regarding expected auditory consequences is represented in the RP preceding voluntary action execution. This study contributes to our understanding of the neural mechanisms underlying voluntary actions and their associated sensory consequences.
+- citation: [cite:@reznikPredictedSensoryConsequences2018b]
+
+
+*** READ Reznik, Henkin, Schadel, Mukamel (2014) Lateralized Enhancement of Auditory Cortex Activity and Increased Sensitivity to Self-Generated Sounds, Nature Communications.
+
+This paper investigates how the brain processes sounds that are self-generated compared to sounds that are externally generated. The study found that when people produce sounds themselves, there is a stronger response in the auditory cortex of the brain compared to when they hear the same sound produced by someone else. This enhancement is stronger when the sound-producing hand is on the opposite side of the brain from the auditory cortex. The study also found that people are more sensitive to self-generated sounds, and that this effect is stronger in the ear opposite to the sound-producing hand. The results suggest that a corollary discharge sent from the motor cortex during voluntary actions enhances activity in the auditory cortex and increases perceptual sensitivity in a lateralized manner.
+
+- citation: [cite:@reznikLateralizedEnhancementAuditory2014]
+
+
+*** READ Reznik, Ossmy, Mukamel (2015) Enhanced Auditory Evoked Activity to Self-Generated S ounds Is Mediated by Primary and Supplementary Motor Cortices, Journal of Neuroscience.
+This paper discusses the modifications of responses in the auditory cortex to self-generated sounds and the potential mechanisms behind these modifications.
+The authors used functional magnetic resonance imaging (fMRI) to record brain activity of human subjects while they performed sound-producing actions with their right hand and compared it to passive listening to identical sounds.
+They found that motor output from the supplementary motor area and left primary motor cortex may be responsible for the modifications in auditory cortex during perception of self-generated sounds. The study also found that modifications in the auditory cortex were invariant to the amount of tactile feedback.
+
+- citation: [cite:@reznikEnhancedAuditoryEvoked2015]
+
+
+*** SKIM Mukamel, Dery () Hadar Dery Paper Draft - Laterality and Learning, .
+[cite:@mukamelHadarDeryPaper]
+
+
+*** READ Dery, Mukamel () Learning of Audio-motor Skill Is Sensitive to  the Lateral Relationship between Trained Hand and Ear, .
+The current paper explores whether manipulating the identity of the sensor involved in an audiomotor task differentially affects sensorimotor integration compared to manipulating the effector used. The authors trained 60 right-handed individuals over two days to perform the same finger sequence on a digital piano, but with auditory feedback presented monaurally to either the left or right ear. Both groups showed improvements in inter-press-interval (IPI) and reduced errors over time, but the group that received auditory feedback to the right ear had more accurate IPIs, suggesting a potential right-ear advantage or contralateral relationship between the active hand and stimulated ear. The findings suggest that sensory regions not only code the sensory consequences of the action but also the identity of the active sensor involved in the action. Previous neuroimaging and behavioral studies support these findings.
+
+
+[cite:@deryLearningAudiomotorSkill]
+
+

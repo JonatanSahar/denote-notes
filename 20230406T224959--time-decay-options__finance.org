@@ -1,0 +1,7 @@
+#+title:      time decay (options)
+#+date:       [2023-04-06 Thu 22:49]
+#+filetags:   :finance:
+#+identifier: 20230406T224959
+
+#+attr_org: :width 950
+[[file:c:/Users/Jonathan/notes/20230406T224959--time-decay-options__finance.org_20230406_232034_kGSAPz.png]]

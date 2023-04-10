@@ -1,0 +1,9 @@
+#+title:      stronger modulation in ipsilateral configuration
+#+date:       [2023-03-29 Wed 11:34]
+#+filetags:   :thesis:
+#+identifier: 20230329T113432
+
+* Reference papers:
+ - [[denote:20230329T113204][Voluntary Actions Modulate Perception Buaron et al.]] - in the visual domain
+ - [[denote:20230329T121953][Enhanced Auditory Evoked Activity to Self-Generated Sounds Reznik et. al]] - in the auditory domain
+

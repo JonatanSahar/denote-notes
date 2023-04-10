@@ -1,0 +1,23 @@
+ # 
+#+title:      Paper summaries from Guy
+#+date:       [2023-03-23 Thu 11:15]
+#+filetags:   :thesis:
+#+identifier: 20230323T111555
+
+
+* Papers:
+*** Schwarz, Pfister, Kluge, Weller, & Kunde, 2018, Do We See It or Not? Sensory Attenuation in the Visual Domain
+In the study "Do We See It or Not? Sensory Attenuation in the Visual Domain" (Schwarz, Pfister, Kluge, Weller, & Kunde, 2018), the authors attempted to replicate previous findings of sensory attenuation in the visual domain (Cardoso-Leite et al., 2010) and found no evidence of sensory attenuation for learned visual action effects in either stimulus detection or stimulus identification tasks. The authors concluded that sensory attenuation is not a universal process and that evidence for its occurrence in the visual domain is limited.
+
+*** Blakemore, S. J., Wolpert, D. M., & Frith, C. D. (1998). Central cancellation of self-produced tickle sensation. Nature neuroscience, 1(7), 635–640. https://doi.org/10.1038/2870
+The study by Blakemore, Wolpert, and Frith (1998) found that self-produced tactile stimuli cause less activation in the somatosensory cortex compared to identical stimuli when produced externally. The researchers propose that the decrease in activity in the somatosensory cortex is due to the match between the predicted sensory feedback of the movement and the actual self-produced stimuli. The study suggests that this prediction occurs in the anterior cerebellar cortex, instead of the somatosensory cortex. (Blakemore, Wolpert, & Frith, 1998).
+    • The research paper suggests that a tactile stimulus produced by oneself is perceived as less ticklish than the same stimulus generated externally.
+    • fMRI was used to examine neural responses when subjects experienced either self-produced or externally produced stimuli.
+    • Results showed more activity in somatosensory cortex for an external stimulation and lesser activity in cerebellum with movement generating a tactile sensation compared to one without it, indicating its involvement in predicting sensory consequences of movements and cancelling out response from self-generated stimulations.
+
+
+(package-initialize)
+(require 'consult ~/doom-emacs/.local/straight/build-28.1/consult/consult.elc)
+(require 'vertico)
+(vertico-mode)
+(setq completion-styles '(substring basic))

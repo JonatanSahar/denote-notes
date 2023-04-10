@@ -1,0 +1,9 @@
+#+title:  advantage in contralateral configuration
+#+date:       [2023-03-29 Wed 13:50]
+#+filetags:   :thesis:
+#+identifier: 20230329T135029
+
+* reference papers:
+-  [[denote:20230402T104912][Lateralized Enhancement of Auditory Cortex Activity Rezink, Mukamel et al]]:
+     [cite:@reznikLateralizedEnhancementAuditory2014]
+     ad

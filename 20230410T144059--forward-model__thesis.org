@@ -1,0 +1,12 @@
+#+title:      Forward model
+#+date:       [2023-04-10 Mon 14:40]
+#+filetags:   :thesis:
+#+identifier: 20230410T144059
+
+The forward model of sensorimotor integration is a computational model that explains how the brain predicts the sensory consequences of motor actions. In other words, it helps the brain anticipate how the world will change as a result of a particular movement.
+
+This model uses sensory feedback from previous movements to predict the expected outcome of a new movement, and then compares that prediction with the actual sensory feedback that occurs during the movement. If there is a mismatch between the predicted and actual feedback, the brain can adjust the movement to achieve the desired outcome.
+
+The forward model is based on the idea that the brain creates internal models of the body and its interactions with the environment, which are constantly updated through sensory feedback. This model is important for tasks such as reaching for an object or walking, where accurate predictions of the sensory consequences of movement are crucial for successful performance.
+
+Overall, the forward model of sensorimotor integration helps the brain plan and execute movements, by allowing it to predict and adjust for the sensory consequences of those movements.xplain the forward model briefly

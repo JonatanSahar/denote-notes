@@ -1,0 +1,24 @@
+#+title:      Enhanced Auditory Evoked Activity to Self-Generated Sounds Reznik et. al
+#+date:       [2023-03-29 Wed 12:19]
+#+filetags:   :bib:thesis:
+#+identifier: 20230329T121953
+#+reference:  reznikEnhancedAuditoryEvoked2015
+
+This paper investigates how the brain processes self-generated sounds compared to externally generated sounds. The study suggests that motor output from the supplementary motor area and left primary motor cortex is the source of signal modification in auditory cortex during perception of self-generated sounds.
+
+* Methods
+The main method used in this study was functional magnetic resonance imaging (fMRI) to record brain activity while participants performed sound-producing actions with their right hand. The experiment involved manipulating the rate of sound-producing actions and the amount of tactile feedback to examine the relative roles of motor and somatosensory cortices in modifying evoked activity in auditory cortex.
+
+* Support for efference copy/corollary discharge
+The results suggest that the SMA and primary motor cortex send a corollary discharge to the auditory system.
+What is the basis of the claim that the supplementary motor area (SMA) and left primary motor cortex are the source of the modulation? The finding that the magnitude of fMRI signal enhancement in the superior temporal gyrus (STG) to active sound generation compared with passive listening covaries with the magnitude of motor output.
+Signal enhancement is stronger in auditory cortex residing in the same hemisphere as the active motor cortex (contralateral to the active hand), and tactile feedback does not seem to play a major role in this effect. These results suggest that signals from contralateral M1 and SMA are a driving modulator of auditory cortex during active sound generation.
+
+* Functional connectivity analysis
+The researchers used functional connectivity analysis to examine brain regions that are functionally connected with auditory seed regions during active sound generation compared with passive listening by using the superior temporal gyrus (STG) as a seed region and performing a correlation-based whole-brain functional connectivity analysis. They found two significant patches of voxels showing higher functional connectivity with the seed regions during active sound generation compared with passive listening. One patch was in the middle dorsal part of the left superior frontal gyrus (SMA), and another one was in the left central sulcus. These results support the notion that these regions mediate the signal enhancement in STGs during active sound generation.
+
+* The main conclusions of the paper are:
+- The brain processes self-generated sounds differently than externally generated sounds.
+- The motor system sends a predictive signal of the expected auditory consequences of the performed action to the auditory cortex, resulting in a different neural response compared to externally generated sounds.
+- Motor output from the supplementary motor area (SMA) and left primary motor cortex is the source of signal modification in auditory cortex during perception of self-generated sounds.
+- Tactile feedback does not seem to play a major role in the effect of signal modification in auditory cortex during perception of self-generated sounds.

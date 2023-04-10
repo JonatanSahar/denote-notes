@@ -1,0 +1,24 @@
+#+title:      butterfly spread (options)
+#+date:       [2023-04-06 Thu 18:07]
+#+filetags:   :finance:
+#+identifier: 20230406T180738
+
+אסטרטגיית השקעה ב[[denote:20230331T071217][אופציות ונילה]]. קצת יותר מסובכת מ[[denote:20230406T101834][straddle]], דורשת קניית ארבע אופציות בשלוש רמות מחיר מימוש (strike price):
+- גבוה
+- בכסף (at the money)
+- נמוך
+
+אפשר לשלב puts וcalls ולקבל פרופילים שונים שיכוונו להניב רווח במקרים שהשוק יציב או תנודתי (volatile).
+
+* סוגי אסטרטגיות:
+*** long call
+#+attr_org :width 50
+[[file:c:/Users/Jonathan/notes/20230406T180738--butterfly-spread-options__finance.org_20230406_191527_dCpXJh.png]]
+
+
+
+*** short call
+*** long put
+*** short put
+*** iron butterfly
+*** reverse iron butterfly
