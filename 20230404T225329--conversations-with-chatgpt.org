@@ -69,9 +69,6 @@ Incidental or Intentional? Different Brain Responses to One's Own Action Sounds 
 
 This paper investigates whether there is a difference in neural representation and impact on performance evaluation between intentional and incidental action sounds. The study compares tap dancing (intentional action sound) and hurdling (incidental action sound) and examines whether observation of these actions leads to stronger attenuation in primary auditory cortex and a stronger mismatch signal when sounds do not match our expectations. The findings suggest that the processing of self-generated action sounds depends on whether we have the intention to produce a sound with our action or not, and action sounds may be more prone to be used as sensory feedback when they are part of the explicit action goal. This research is important for a better understanding of the function of action sounds for learning and controlling sound-producing actions.
 
-Motor-evoked neural responses in auditory cortex are associated with improved sensitivity to self-generated sounds. Reznik, 2020
-
-This paper reports the first direct evidence for efferent signals in sensory cortex that are evoked by voluntary actions coupled with sensory consequences. The authors show that motor-related evoked-responses in auditory cortex precede and correspond with subsequent sound detection, suggesting their functional relevance to auditory processing. This study is important because it sheds light on the neural mechanisms underlying the modulation of sensory perception by voluntary actions and expected sensory consequences.
 
 
 Cancelling cancellation? Sensorimotor control, agency, and prediction

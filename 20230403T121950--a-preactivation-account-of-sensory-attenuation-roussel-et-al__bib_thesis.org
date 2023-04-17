@@ -1,5 +1,0 @@
-#+title:      A Preactivation Account of Sensory Attenuation, Roussel et. al
-#+date:       [2023-04-03 Mon 12:19]
-#+filetags:   :bib:thesis:
-#+identifier: 20230403T121950
-#+reference:  rousselPreactivationAccountSensory2013

@@ -17,7 +17,8 @@ The main method used in this study was functional magnetic resonance imaging (fM
 
 * Support for efference copy/corollary discharge
 The results suggest that the SMA and primary motor cortex send a corollary discharge to the auditory system.
-What is the basis of the claim that the supplementary motor area (SMA) and left primary motor cortex are the source of the modulation? The finding that the magnitude of fMRI signal enhancement in the superior temporal gyrus (STG) to active sound generation compared with passive listening covaries with the magnitude of motor output.
+What is the basis of the claim that the supplementary motor area (SMA) and left primary motor cortex are the source of the modulation? The finding that the magnitude of fMRI signal enhancement in the superior temporal gyrus (STG) to active sound generation compared with passive listening covaries with the magnitude of motor outp ut.
+
 Signal enhancement is stronger in auditory cortex residing in the same hemisphere as the active motor cortex (contralateral to the active hand), and tactile feedback does not seem to play a major role in this effect. These results suggest that signals from contralateral M1 and SMA are a driving modulator of auditory cortex during active sound generation.
 
 * Functional connectivity analysis
