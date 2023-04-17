@@ -5,6 +5,39 @@
 
 A database of papers I may want to read.
 
+* READ How Movement Modulates Hearing
+- link/cite: https://doi.org/10.1146/annurev-neuro-072116-031215
+- type of paper: review
+- why read it?
+  David schneider
+- figures:
+[cite:@schneiderHowMovementModulates2018]
+
+* READ Mechanisms of intentional binding and sensory attenuation: The role of temporal prediction, temporal control, identity prediction, and motor prediction.
+Hughes, 2013
+- link/cite: https://doi.org/10.1037/a0028566
+- type of paper: review
+- why read it?
+
+- figures:
+
+This review article focuses on the sensory processing of action effects and how it differs from the processing of externally triggered stimuli. The article discusses intentional binding and sensory attenuation and their attribution to forward action models. The review systematically investigates the role of temporal prediction, temporal control, identity prediction, and motor prediction in previous reports of sensory attenuation and intentional binding. The authors propose avenues for future research to better understand the role of motor prediction in processing voluntary action effects and how these phenomena fit within a general predictive processing framework. The article also highlights the implications of this research for understanding disorders of agency in schizophrenia.
+
+* READ A review of contemporary ideomotor theory.
+- link/cite: https://doi.org/10.1037/a0020541
+- type of paper: review
+- why read it?
+- figures:
+
+
+* READ Attention and prediction in human audition: a lesson from cognitive psychophysiology
+- link/cite: https://onlinelibrary.wiley.com/doi/10.1111/ejn.12816
+- type of paper: review/theoretical
+- why read it?
+  Centers on audition, relevant to prediction, predictive coding
+- figures:
+  [[file:images/_20230404_093725_Bs9HEK.png]]
+
 * READ Yon, D., Gilbert, S. J., de Lange, F. P., & Press, C. (2018). Action sharpens sensory representations of expected outcomes. Nature communications, 9(1), 4288.
 [cite:@yonActionSharpensSensory2018 ]
 
@@ -13,6 +46,33 @@ A database of papers I may want to read.
 
 * READ Roussel, C., Hughes, G., & Waszak, F. (2013). A preactivation account of sensory attenuation. Neuropsychologia, 51(5), 922-929.
 [cite:@rousselPreactivationAccountSensory2013]
+
+* READ Moving Forward: On the Limits of Motor-Based Forward Models.
+- link/cite: https://doi.org/10.1016/j.tics.2019.06.008
+- type of paper: theoretical
+- why read it?
+  A critical view on the forward model/efference copy paradigm when applied to extra-bodily stimuli
+- figures:
+  [[file:_20230404_094731_hYaAkO.png]]
+
+* READ A synaptic and circuit basis for corollary discharge in the auditory cortex
+- link/cite: https://www.nature.com/articles/nature13724
+- type of paper: study & theory
+- why read it?
+  A physiological basis for efference copy in mice
+- figures:
+
+This paper investigates how motor-related signals from the motor cortex influence auditory cortical activity in mice, and the synaptic and circuit mechanisms underlying this interplay. The research findings suggest that a subset of neurons in the secondary motor cortex that innervate the auditory cortex and are active during movement drive motor-related changes in auditory cortical dynamics, likely facilitating hearing and auditory-guided behaviors. The study used in vivo intracellular recordings and optogenetics in mice.
+
+* READ Perceived Loudness of Self-Generated Sounds Is Differentially Modified by Expected Sound. Reznik, 2015
+- link/cite: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127651
+- type of paper: study
+- why read it?
+  Discusses and compares different possible perceptual modulations/effects that can arise from efferece copies in the auditory domain
+- figures:
+[[file:_20230404_141537_YIy4D7.png]]
+
+This paper is about how performing voluntary actions with sensory consequences can modify physiological and behavioral responses relative to passive experiences of the same sensory input, and how these modifications are mediated by efference copies sent from motor cortex to sensory regions. The paper specifically focuses on examining the type of perceptual modification (enhancement vs. attenuation) reported by healthy human subjects when manipulating the intensity of self-generated and externally-generated sounds in the auditory domain. The study found that the intensity of self-generated sounds can lead to both perceived loudness enhancement and attenuation, depending on the specific sensory context of the voluntary actions.
 
 * SKIM What exactly is missing here? The sensory processing of unpredictable omissions is modulated by the specificity of expected action-effects.
 - link/cite: 10.1111/EJN.14899
@@ -34,21 +94,6 @@ The study highlights the top-down effects of action intention on the sensory pro
 
 This study investigates how predictions affect perception by measuring the brain's response to the omission of a predicted auditory stimulus. The authors replicated a previous study and found that specific predictions about the identity of the upcoming stimulus are necessary to observe an omission response in the brain. They also found evidence for both specific and unspecific predictions along the sound processing hierarchy, suggesting that
 
-* SKIM Attention and prediction in human audition: a lesson from cognitive psychophysiology
-- link/cite: https://onlinelibrary.wiley.com/doi/10.1111/ejn.12816
-- type of paper: review/theoretical
-- why read it?
-  Centers on audition, relevant to prediction, predictive coding
-- figures:
-  [[file:_20230404_093725_Bs9HEK.png]]
-
-* READ Moving Forward: On the Limits of Motor-Based Forward Models.
-- link/cite: https://doi.org/10.1016/j.tics.2019.06.008
-- type of paper: theoretical
-- why read it?
-  A critical view on the forward model/efference copy paradigm when applied to extra-bodily stimuli
-- figures:
-  [[file:_20230404_094731_hYaAkO.png]]
 
 * SKIM  A cortical filter that learns to suppress the acoustic consequences of movement
 - link/cite: 10.1038/S41586-018-0520-5
@@ -59,15 +104,6 @@ This study investigates how predictions affect perception by measuring the brain
   [[file:_20230404_101611_Mhi6f8.png]]
 
 The study explores the neural mechanisms that allow us to distinguish sounds that arise from our movements from those that come from the environment. They used mice in an acoustic virtual reality setting to identify the neural circuits responsible for suppressing movement-related sounds and the behavioral consequences of this experience. The findings suggest that motor cortical inputs to the auditory cortex shape a sensory filter that can suppress predictable acoustic consequences of movement and enhance auditory discrimination during movement.
-
-* READ A synaptic and circuit basis for corollary discharge in the auditory cortex
-- link/cite: https://www.nature.com/articles/nature13724
-- type of paper: study & theory
-- why read it?
-  A physiological basis for efference copy in mice
-- figures:
-
-This paper investigates how motor-related signals from the motor cortex influence auditory cortical activity in mice, and the synaptic and circuit mechanisms underlying this interplay. The research findings suggest that a subset of neurons in the secondary motor cortex that innervate the auditory cortex and are active during movement drive motor-related changes in auditory cortical dynamics, likely facilitating hearing and auditory-guided behaviors. The study used in vivo intracellular recordings and optogenetics in mice.
 
 * SKIM Precise movement-based predictions in the mouse auditory cortex
 - link/cite: https://doi.org/10.1016/j.cub.2022.09.064
@@ -85,16 +121,6 @@ This paper investigates how motor-related signals from the motor cortex influenc
 - figures:
 
 The article discusses how expectations based on structure in sensory signals facilitate decision-making in visual perception, and explores the ways in which expectations modulate neural signals and behavior in humans and primates. It considers how expectations bias visual activity and how neural signals differ between expected and unexpected stimuli. The article also discusses how expectations may influence decision signals and their relationship with attention and adaptation.
-
-* READ Perceived Loudness of Self-Generated Sounds Is Differentially Modified by Expected Sound. Reznik, 2015
-- link/cite: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127651
-- type of paper: study
-- why read it?
-  Discusses and compares different possible perceptual modulations/effects that can arise from efferece copies in the auditory domain
-- figures:
-[[file:_20230404_141537_YIy4D7.png]]
-
-This paper is about how performing voluntary actions with sensory consequences can modify physiological and behavioral responses relative to passive experiences of the same sensory input, and how these modifications are mediated by efference copies sent from motor cortex to sensory regions. The paper specifically focuses on examining the type of perceptual modification (enhancement vs. attenuation) reported by healthy human subjects when manipulating the intensity of self-generated and externally-generated sounds in the auditory domain. The study found that the intensity of self-generated sounds can lead to both perceived loudness enhancement and attenuation, depending on the specific sensory context of the voluntary actions.
 
 * SKIM The temporal dynamics of the perceptual consequences of action-effect prediction
 
@@ -123,13 +149,6 @@ The study provides empirical evidence for efference-copy models of motor control
 Relates to [cite:@satoActionObservationModulates2008].
 The perception of sensory effects generated by one's own actions is typically reduced compared to those generated by external sources, but it is unclear if this is unique to self-generated actions. Recent research suggests that the reduction in perception is due to action preparation, rather than actual execution, so this effect may also occur for anticipated actions of others. However, a study comparing the perceived loudness of self-generated sounds and sounds generated by others found that the attenuation effect was unique to self-generation and not affected by anticipation of others' actions.
 
-* SKIM A review of contemporary ideomotor theory.
-- link/cite: https://doi.org/10.1037/a0020541
-- type of paper: review
-- why read it?
-- figures:
-
-
 * SKIM Precise movement-based predictions in the mouse auditory cortex
 - link/cite: https://www.sciencedirect.com/science/article/abs/pii/S0960982222016062
 - type of paper: study
@@ -145,21 +164,6 @@ The perception of sensory effects generated by one's own actions is typically re
 - figures:
 
 [cite:@schneiderReflectionsActionSensory2020]
-
-* SKIM How Movement Modulates Hearing
-- link/cite: https://doi.org/10.1146/annurev-neuro-072116-031215
-- type of paper: review
-- why read it?
-  David schneider
-- figures:
-[cite:@schneiderHowMovementModulates2018]
-
-* READ Dynamics of hemispheric specialization and integration in the context of motor control
-- link/cite: https://www.nature.com/articles/nrn1849#ref-CR80
-- type of paper: review
-- why read it?
-  it's a review paper about laterality in voluntary action
-- figures:
 
 * SKIM Hemispheric asymmetry of transcallosalinhibition in man
 - link/cite: https://scholar.google.com/scholar_lookup?title=Hemispheric%20asymmetry%20of%20transcallosal%20inhibition%20in%20man&journal=Exp.%20Brain%20Res.&doi=10.1007%2FBF00231987&volume=104&pages=527-533&publication_year=1995&author=Netz%2CJ&author=Ziemann%2CU&author=Homberg%2CV
