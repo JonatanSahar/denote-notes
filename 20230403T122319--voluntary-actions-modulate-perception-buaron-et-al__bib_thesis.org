@@ -5,7 +5,7 @@
 #+reference:  buaronVoluntaryActionsModulate2020b
 
 This paper investigates how voluntary actions affect sensory modulations in the visual domain.
-The study found that the pattern of behavioral and neural modulations is such that the modulation is stronger in the visual cortex ipsilateral to the hand triggering the stimulus.
+The study found that there was significant modulation of perceived brightness in self-generated vs externally-generated (identical) stimuli, and that the pattern of behavioral and neural modulations is such that the modulation is stronger in the visual cortex contralateral to the hand triggering the stimulus.
 
 In addition the study found that fMRI responses in visual cortices differentiated between stimuli triggered by right/left hand. This suggests that the visual cortex contains the information regarding the active hand, and this information is assumed to arrive there through the mechanism of [[denote:20230402T112858][Efference copy]].
 

@@ -24,8 +24,16 @@ The study by Hughes and Waszak (2011) found that visual stimuli that were trigge
 
 
 *** SKIM Dewey, J. A., & Carr, T. H. (2013). Predictable and self-initiated visual motion is judged to be slower than computer generated motion. Consciousness and cognition, 22(3), 987–995. https://doi.org/10.1016/j.concog.2013.06.007
-The study by Dewey and Carr (2013) found that self-initiated motion is perceived as slower than equivalent but externally generated motion, but only when the motion is produced in a predictable context. This may be due to internally generated predictions produced during action. The study also found that perceived speed was influenced by an interaction between congruence and predictability, with spatially congruent motions influencing speed judgments only when action effect contingencies were unpredictable. The results support the hypothesis that self-initiated action effects are perceived differently from effects with an external origin, suggesting that anticipating the consequences of one's actions has a particular functional significance. (Dewey & Carr, 2013).
+The study by Dewey and Carr (2013) found that self-initiated motion is perceived as slower than equivalent but externally generated motion, but only when the motion is produced in a predictable context. This may be due to internally generated predictions produced during action. The study also found that perceived speed was influenced by an interaction between congruence and    predictability, with spatially congruent motions influencing speed judgments only when action effect contingencies were unpredictable. The results support the hypothesis that self-initiated action effects are perceived differently from effects with an external origin, suggesting that anticipating the consequences of one's actions has a particular functional significance. (Dewey & Carr, 2013).
 
+
+*** DONE Yon, D., Gilbert, S. J., de Lange, F. P., & Press, C. (2018). Action sharpens sensory representations of expected outcomes. Nature communications, 9(1), 4288.
+The study investigated how sensorimotor prediction affects sensory processing during action. The results suggest that expected sensory signals are represented with greater fidelity (sharpened) during action, facilitating veridical perception of action outcomes in an inherently uncertain sensory world.
+[cite:@yonActionSharpensSensory2018 ]
+
+
+*** READ Roussel, C., Hughes, G., & Waszak, F. (2013). A preactivation account of sensory attenuation. Neuropsychologia, 51(5), 922-929.
+[cite:@rousselPreactivationAccountSensory2013]
 
 * Action modulates processing/neural activity
 *** Kavroulakis, E., van Kemenade, B. M., Arikan, B. E., Kircher, T., & Straube, B. (2022). The effect of self‐generated versus externally generated actions on timing, duration, and amplitude of blood oxygen level dependent response for visual feedback processing. Human Brain Mapping, 43(16), 4954-4969.
@@ -47,6 +55,11 @@ The study found that the amplitude of alpha-oscillations in the visual cortex in
     • The intensity of sensory stimuli is reduced when the observer causes them, and this phenomenon can be explained by forward models arising from motor processing.
     • Alpha oscillations in the visual cortex are enhanced before a stimulus if it was caused by participants' actions, which corresponds to judgments showing lower contrast for these stimuli.
     • Alpha oscillations likely mediate anticipatory modulation that reduces perceived intensity, potentially related to top down control mechanisms used for prioritizing or gating information.
+
+*** DONE Yon, D., Gilbert, S. J., de Lange, F. P., & Press, C. (2018). Action sharpens sensory representations of expected outcomes. Nature communications, 9(1), 4288.
+The study investigated how sensorimotor prediction affects sensory processing during action. The results suggest that expected sensory signals are represented with greater fidelity (sharpened) during action, facilitating veridical perception of action outcomes in an inherently uncertain sensory world.
+[cite:@yonActionSharpensSensory2018 ]
+
 
 * Sharpening
 *** READ Action sharpens sensory representations of expected outcomes. 4288 Yon, D., Gilbert, S. J., de Lange, F. P., & Press, C. (2018).
@@ -135,4 +148,7 @@ The current paper explores whether manipulating the identity of the sensor invol
 
 [cite:@deryLearningAudiomotorSkill]
 
+
+*** READ Buaron, B., Reznik, D., Gilron, R. E., & Mukamel, R. (2020). Voluntary actions modulate perception and neural representation of action-consequences in a hand-dependent manner. Cerebral Cortex, 30(12), 6097-6107.
+[cite:@buaronVoluntaryActionsModulate2020b]
 

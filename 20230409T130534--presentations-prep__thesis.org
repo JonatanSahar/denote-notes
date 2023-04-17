@@ -1,78 +1,121 @@
 #+title:      Presentations prep
 #+date:       [2023-04-09 Sun 13:05]
 #+filetags:   :thesis:
-+identifier: 20230409T130534
+#+identifier: 20230409T130534
 
 
 * Sagol seminar
-1. Introduction (1-2 minutes)
-     - who I am, a word about the lab and motor learning
-     - a word about sensorimotor integration
-     - briefly introduce the topic
-         + what is sensory modulation? Daily life examples.
-         + theoretical model: Efference copy and the forward model.
 
-     - highlight the key questions and the research aims
-         + What is the difference in modulation of the auditory cortex between ipsi and contra-lateral hand-ear configuration.
-         + The mechanism of the effect of action on the processing of the action's consequences
-         + Crosstalk between sensory and motor circuits
-         + Sensorimotor integration - in order for integration to happen, we must differentiate the results of our actions from unrelated effects in the environment.
+*** Introduction + literature review (4 minutes)
 
-2. Literature review (2-3 minutes)
-     Summarize the relevant literature related to laterality in audiomotor integration
-     Highlight previous research findings on this topic
-
+***** Structure:
+         - who I am, a word about the lab and motor learning
+         - a word about sensorimotor integration
+         - briefly introduce the topic:
+             + what is sensory modulation? Daily life examples.
+             + action affects perception (lit)
+             + action affects processing (lit)
+             + theoretical model: Efference copy and the forward model.
+             + the effects of laterality (lit)
+         - key questions and the research aims:
+             + What is the difference in modulation of the auditory cortex between ipsi and contralateral hand-ear configurations.
+                 what is the effect on neural activity?
+                 in which areas along the auditory pathway?
+             + Further understanding of the mechanism of modulation of action (auditory) consequences' processing
+                 cancellation vs sharpening
+                 more evidence of efference copy
+             + Crosstalk between sensory and motor circuits
+             + Sensorimotor integration - in order for integration to happen, we must differentiate the results of our actions from unrelated effects in the environment.
+***** Text:
+- Intro
      Pretty much all of our interactions with the world are based in motor action. Furthermore, almost all of these interactions are aimed at producing some effect in the world - an effect which is perceivable by our own senses.
+
      The process of learning (during development and as adults alike) to act in a way that matches our wants is a process of/a process that builds upon sensorimotor integration: the ability of the CNS to process incoming sensory stimuli, and coordinate them with its own motor commands.
-     A cornerstone/a prerequisite of sensorimotor integration is the ability to distinguish and differentially process the sensory consequences of our own actions. Indeed there is a large body of research that demonstrates the ways in which we perceive the same stimulus differently when it's self generated as opposed to passively perceived.
-     - Some examples from our lab:
-         * Buaron 2020: stronger perceptual effect (active vs passive stimulus).
-         * Reznik 2014: lower (binaural) hearing threshold for self generated sounds
-         * Reznik 2021: difference in modulation between conditions - above threshold sounds are attenuated, near threshold sounds are strengthened
 
-     - And also how the brain processes them differently:
-         + Reznik 2014: stronger modulation (enhancement of activity) of the auditory cortex in the ipsilateral configuration
-         + Reznik 2015: stronger activation in auditory cortex for self generated vs passive stimuli
-         + Reznik 2018: stronger readiness potential (RP) for actions coupled to sound vs actions not coupled
-         + shows that the sensory consequence is encoded in the action.
-         + Reznik 2021: evidence of efference copy: action (time-)locked evoked responses in auditory cortex were observed /before/ sound onset.
+     A cornerstone/a prerequisite of sensorimotor integration is the ability to distinguish and differentially process the sensory consequences of our own actions. Indeed there is a large body of research that demonstrates the ways in which we *perceive* and *process* the same stimulus differently when it's self generated as opposed to passively perceived.
 
-     The main theoretical framework that aims to explain this mechanism is called the [[denote:20230410T144059][Forward model]]: suggesting that when a motor command leaves the motor cortex to the brainstem and beyond, information about the command, termed an [[denote:20230402T112858][Efference copy]] is transmitted over to (the relevant? Some evidence for this, see David Schneider's papers: [cite:@schneiderHowMovementModulates2018; @schneiderReflectionsActionSensory2020; @audettePreciseMovementbasedPredictions2022]) sensory cortices, where it's used to anticipate the action's sensory consequences, and drives the predictions against which prediction errors can be detected and used to update the movement and/or the internal model.
+     Examples from our lab:
+    - perception:
+        + Buaron 2020: stronger perceptual effect (active vs passive stimulus).
+        + Reznik 2014: lower (binaural) hearing threshold for self generated sounds
+        + Reznik 2021: difference in modulation between conditions - above threshold sounds are attenuated, near threshold sounds are strengthened
+    - processing:
+        + Reznik 2014: stronger modulation (enhancement of activity) of the auditory cortex in the ipsilateral configuration
+        + Reznik 2015: stronger activation in auditory cortex for self generated vs passive stimuli
+        + Reznik 2018: stronger readiness potential (RP) for actions coupled to sound vs actions not coupled
+        + shows that the sensory consequence is encoded in the action.
+        + Reznik 2021: evidence of efference copy: action (time-)locked evoked responses in auditory cortex were observed /before/ sound onset.
 
-     This efference copy arrives at the sensory cortex before the onset of the stimulus and so can affect its processing.
+        The main theoretical framework that aims to explain this mechanism is called the [[denote:20230410T144059][Forward model]]: suggesting that when a motor command leaves the motor cortex to the brainstem and beyond, information about the command, termed an [[denote:20230402T112858][Efference copy]] is transmitted over to (the relevant? Some evidence for this, see [[denote:20230411T171156][David Schneider]]'s papers) sensory cortices, where it's used to anticipate the action's sensory consequences, and drives the predictions against which prediction errors can be detected and used to update the movement and/or the internal model.
+        This is actually a standard and well known idea of internal models in control theory (engineering)
 
-     - Several studies in the lab demonstrated that the lateral configuration of the affector (e.g the hand producing the stimulus/sound) and the effector (the sense organ receiving it) is of significance:
-         + Buaron 2020: in the visual domain, ipsilateral configuration creates stronger neural modulation
-         + Buaron 2020: it's possible to decode the active hand from auditory cortex ROI
-         + Reznik 2014: lower monaural threshold in the ipsilateral configuration
-         + Reznik 2015: stronger activation in ipsilateral vs contralateral configuration
-         +
+        This efference copy arrives at the sensory cortex before the onset of the stimulus and so can affect its processing. [cite:@motorevoked_reznik_2020]
 
+- Cancellation vs sharpening:
+        Most results over the years have shown an effect of attenuation of self-generated sounds (and other sensory stimuli), both in the perceptual and neural activation aspects.
+        However, in recent years it has been proposed that the underlying mechanism of this attenuation (or cancellation as it's also known) is in fact one of /sharpening/ - a narrowing of individual neurons' tuning curves. See [cite:@yonActionSharpensSensory2018]
 
+        In this case, an overall lower response is expected because only neurons which are specifically tuned to, or prefer, this stimulus' properties (frequency/location/color/etc.) will activate to a significant degree.
+        This is something that we will be considering in our analysis.
 
-3. Methods (2 minutes)
-     - fMRI is acquiring the BOLD response which is known (has been shown) to be well correlated with local field potentials (LFP) as recorded by extracellular electrodes.
-     - GLM is an analysis of BOLD responses given a series of timed stimuli of several types. We look at the time course of BOLD signal in a voxel, and at the time course of the different stimuli. For each stimulus type we create a modeled response using an idealized BOLD response function (double gamma HRF). We then use a regression algorithm to find the best coefficients to these modeled response functions such that the residual error is minimal.
-       This beta value tells us _how much of the activity in that voxel_ is due to the neurons there responding to each stimulus type.
-       We then compare these beta values between conditions to get a measure of how this brain region differentially responds to these conditions.
+- laterality
+       Several studies in the lab demonstrated that the lateral configuration of the affector (e.g the hand producing the stimulus/sound) and the effector (the sense organ receiving it) is of significance:
+    * Buaron 2020: in the visual domain, ipsilateral configuration creates stronger neural modulation
+    * Buaron 2020: it's possible to decode the active hand from auditory cortex ROI
+    * Reznik 2014: lower monaural threshold in the ipsilateral configuration
+    * Reznik 2015: stronger activation in ipsilateral vs contralateral configuration
+    * Dery (in prep): better learning of a motor sequence+timing in the *contralateral* configuration (different from the rest!)
+
+    But, as is often said - "the exact mechanism of action of this phenomenon is not yet clear", so my research is about making a step in that direction.
+
+- key questions and the research aims:
+    * What is the difference in modulation of the auditory cortex between ipsi and contralateral hand-ear configurations.
+        - what is the effect on neural activity?
+        - in which areas along the auditory pathway?
+    * Further understanding of the mechanism of modulation of action (auditory) consequences' processing
+        - cancellation vs sharpening
+        - more evidence of efference copy
+    * Crosstalk between sensory and motor circuits
+    * Sensorimotor integration - in order for integration to happen, we must differentiate the results of our actions from unrelated effects in the environment.
+
+*** Methods (2 minutes)
+     - *fMRI* is acquiring the BOLD response which is known (has been shown) to be well correlated with local field potentials (LFP) as recorded by extracellular electrodes.
+     - *GLM* is an analysis of BOLD responses given a series of timed stimuli of several types. We look at the time course of BOLD signal in a voxel, and at the time course of the different stimuli. For each stimulus type we create a modeled response using an idealized BOLD response function (double gamma HRF). We then use a regression algorithm to find the best coefficients (betas) to these modeled response functions such that the residual error is minimal.
+       This beta value tells us _how much of the activity in that voxel_ is due to the neurons there responding to each stimulus type. The idea is to design the experiment in a way that the difference between the conditions will be as much as possible only that aspect which we are trying to isolate - and so any change in neural activity could be assigned to this difference.
+       We then compare these beta values between conditions to get a measure of how this brain region differentially responds to these conditions, and we apply a statistical test (t test) to determin the significance of this difference in the (driving force behind the) activation of the the voxel between the the conditions.
+
        *Add a figure with the different time courses and betas etc.*
+     #+attr_org: :width 500
+        [[file:c:/Users/Jonathan/notes/images/20230409T130534--presentations-prep__thesis.org_20230412_104736_eItKLw.png]]
+       [[file:c:/Users/Jonathan/notes/images/20230409T130534--presentations-prep__thesis.org_20230412_104815_wJRqB8.png]]
+       [[file:c:/Users/Jonathan/notes/images/20230409T130534--presentations-prep__thesis.org_20230412_104904_jmaYjO.png]]
      - in MVPA (multi voxel pattern analysis) we essentially try to decode information from brain ares. We're asking: given the neural activity in this region, can we determine which external stimulus was presented at that time?
        The areas we decode from are typically "neighborhoods" of 3x3x3 voxels, and the values we get from this method are _classification accuracies_, i.e what was the percent of correct samples (e.g stimuli blocks) that we classified correctly.
        We keep the value in the central voxel, and we can compare the classification accuracy between different areas and different stimuli, and we can also infer about the information content of the activity in that area (like in Buaron 2022, where hand identity was decoded from V1)
 
-4. Experimental design (2 minutes)
-   - The experiment is conducted inside the MRI scanner. Subjects hold a response box with R and L buttons, and noise isolating earphones. Each block is 8 seconds long with 8 seconds for signal wash-out. Before each block, subject are instructed with which hand they are to press the button to initiate the sound.
-   - Subject use either their L or R hands to trigger sounds, and the sounds are presented monaurally.
-   - There are 4 runs, each run is dedicated to a single ear.
-   - The design is a 2x2, so we get all 4 combinations of (RH, LH)x(RE, LE)
-   - The analysis is done per ear - so that each run can be analyzed separately.
-   - For the GLM part, the first-level will compare RH vs LH pressing per run, the second-level will average the results per ear (so averaging two runs per each ear), and the third level will average and check for significance on the group level - averaging across subjects.
+*** Experimental design (2 minutes)
+     - The experiment is conducted inside the MRI scanner. Subjects hold a response box with R and L buttons, and noise isolating earphones. Each block is 8 seconds long with 8 seconds for signal wash-out. Before each block, subject are instructed with which hand they are to press the button to initiate the sound.
+     - Subject use either their L or R hands to trigger sounds, and the sounds are presented monaurally.
+     - There are 4 runs, each run is dedicated to a single ear.
+     - The design is a 2x2, so we get all 4 combinations of (RH, LH)x(RE, LE)
+     - The analysis is done per ear - so that each run can be analyzed separately.
 
-5. Results (2-3 minutes)
+     - GLM:
+         + For the GLM part, the first-level will compare RH vs LH per run, the second-level will average the results per ear (so averaging two runs per each ear), and the third level will average and check for significance on the group level - averaging across subjects.
+         + All of the above is done on ROIs based on a motor and auditory localizers run before the main experimental part
+
+     - MVPA:
+         + Using MVPA, we can check if it's possible to decode (=classify) the identity of the hand which was the affector (like in Buaron 2020), and whether there's a difference in the classification accuracy between the contra and ipsi configurations
+         + This will be done in anatomical ROIs (based on an atlas), to check for effects in specific parts of the auditory pathway
+         + also using MVPA, if there's simply an overall attenuation in neural response to self-generated stimuli, we'd expect to see a decline in classification accuracy, while a mechanism of sharpening should yield similar classification accuracies beteween self- and externally-generated sounds.
+             *However, we can't run this analysis with the data collected in this experiment - since we don't have passive and self-generated blocks in the same run, and so we can't compare them.*
+
+
+*** Results (2-3 minutes)
    So far I only have data from two pilot runs which just shows a sanity check that the auditory and motor cortices are both activated.
 
-6. Conclusion and implications (1-2 minutes)
+*** Conclusion and implications (1-2 minutes)
      - Summarize the main conclusions you drew from your study
      - Discuss the implications of your findings and how they contribute to the field of audiomotor integration
 
-7. Q&A (1-2 minutes)
+*** Q&A (1-2 minutes)
