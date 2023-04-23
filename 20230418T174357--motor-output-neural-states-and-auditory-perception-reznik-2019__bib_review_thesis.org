@@ -1,0 +1,8 @@
+#+title:      Motor Output, Neural States and Auditory Perception, Reznik 2019
+#+date:       [2023-04-18 Tue 17:43]
+#+filetags:   :bib:review:thesis:
+#+identifier: 20230418T174357
+#+reference:  reznikMotorOutputNeural2019c
+
+
+* reading notes

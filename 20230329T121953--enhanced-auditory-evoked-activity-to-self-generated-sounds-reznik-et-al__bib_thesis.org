@@ -4,7 +4,12 @@
 #+identifier: 20230329T121953
 #+reference:  reznikEnhancedAuditoryEvoked2015
 
-This paper investigates how the brain processes self-generated sounds compared to externally generated sounds. The study suggests that motor output from the supplementary motor area and left primary motor cortex is the source of signal modification in auditory cortex during perception of self-generated sounds.
+This paper investigates how the brain processes self-generated sounds compared to externally generated sounds.
+The study suggests that motor output from the supplementary motor area and left primary motor cortex is the source of signal modification in auditory cortex during perception of self-generated sounds.
+
+* Main results:
+- There is an enhancement of the neural activity in the auditory cortex in the self-generated case
+- Signal enhancement is stronger in auditory cortex residing in the same hemisphere as the active motor cortex (contralateral to the active hand)
 
 * Main conclusions:
 - The brain processes self-generated sounds differently than externally generated sounds.
@@ -13,11 +18,12 @@ This paper investigates how the brain processes self-generated sounds compared t
 - Tactile feedback does not seem to play a major role in the effect of signal modification in auditory cortex during perception of self-generated sounds.
 
 * Methods
-The main method used in this study was functional magnetic resonance imaging (fMRI) to record brain activity while participants performed sound-producing actions with their right hand. The experiment involved manipulating the rate of sound-producing actions and the amount of tactile feedback to examine the relative roles of motor and somatosensory cortices in modifying evoked activity in auditory cortex.
+The main method used in this study was fMRI to record brain activity while participants performed sound-producing actions with their right hand. The experiment involved manipulating the rate of sound-producing actions and the amount of tactile feedback to examine the relative roles of motor and somatosensory cortices in modifying evoked activity in auditory cortex.
 
 * Support for efference copy/corollary discharge
 The results suggest that the SMA and primary motor cortex send a corollary discharge to the auditory system.
-What is the basis of the claim that the supplementary motor area (SMA) and left primary motor cortex are the source of the modulation? The finding that the magnitude of fMRI signal enhancement in the superior temporal gyrus (STG) to active sound generation compared with passive listening covaries with the magnitude of motor outp ut.
+What is the basis of the claim that the supplementary motor area (SMA) and left primary motor cortex are the source of the modulation?
+The finding that the magnitude of fMRI signal enhancement in the superior temporal gyrus (STG) to active sound generation compared with passive listening *covaries* with the magnitude of motor outp ut.
 
 Signal enhancement is stronger in auditory cortex residing in the same hemisphere as the active motor cortex (contralateral to the active hand), and tactile feedback does not seem to play a major role in this effect. These results suggest that signals from contralateral M1 and SMA are a driving modulator of auditory cortex during active sound generation.
 

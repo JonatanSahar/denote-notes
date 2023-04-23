@@ -1,0 +1,26 @@
+#+title:      Action-Locked Neural Responses in Auditory Cortex to Self-Generated Sounds, Reznik 2021
+#+date:       [2023-04-18 Tue 12:45]
+#+filetags:   :bib:thesis:
+#+identifier: 20230418T124523
+#+reference:  actionlocked_reznik_2021
+
+* reading notes
+This was a MEG study.
+Subjects either pressed a button to generate a sound, heard the sound predictably following a visual cue, or pressed a button with no sound.
+All sounds were faint, so subjects detected them in a little over 50% of trials. They looked at hit vs miss trials in some analyses.
+There was a set delay between the press/cue and the sound, and this allowed them to look at action-locked and sound-locked brain responses separately.
+They found action-locked responses in the auditory cortex before sound onset (only in the condition of button-press-with-sound).
+They found an attenuated neural response in the auditory cortex for in the active condition
+
+
+* short summary
+
+This MEG study investigates the role of voluntary actions in modulating neural activity in the auditory cortex and perception of sounds presented at auditory hearing threshold. The study shows evidence for efferent signals in human auditory cortex that are locked to voluntary actions coupled with future auditory consequences. The findings suggest that voluntary actions play an important role in perception by directly modulating neural activity in sensory circuits.
+
+- Main results:
+    + action-locked evoked-responses in auditory cortex preceded sound onset.
+    + Increased perceptual salience of faint auditory stimuli compared to otherwise identical sounds perceived in a passive manner.
+    + decreased neural activity in auditory cortex in the self-generated condition
+    + These findings suggest that voluntary actions play an important role in perception by directly modulating neural activity in sensory circuits.
+
+- citation: [cite:@ActionlockedNeuralResponses]

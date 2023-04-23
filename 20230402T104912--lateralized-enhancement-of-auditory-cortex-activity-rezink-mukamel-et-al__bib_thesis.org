@@ -1,10 +1,30 @@
-#+title:      Lateralized Enhancement of Auditory Cortex Activity Rezink, Mukamel et al
+#+title:      Lateralized Enhancement of Auditory Cortex Activity Rezink, Mukamel et al.
 #+date:       [2023-04-02 Sun 10:49]
 #+filetags:   :bib:thesis:
 #+identifier: 20230402T104912
 #+reference:  reznikLateralizedEnhancementAuditory2014
 
-This paper investigates how the brain processes self-generated sounds compared to externally generated sounds.
-The study found that self-generated sounds enhance activity in the auditory cortex and increase perceptual sensitivity in a lateralized manner. The enhancement in the auditory cortex was stronger when the sound-producing hand was contralateral to the auditory cortex, suggesting a lateralized effect.
+* reading notes
+Subjects either played (one handed, binaural feedback) or heard (binaural) a short piano sequence inside the MRI scanner.
+they looked for areas where the neural activity was attenutated in the self-generated case vs the external case - but didn't find anything in the auditory cortex.
+** enhanced neural activity
+They did find that there was increased neural activity in the auditory cortex (in the STG) for the self-generated case.
+In therms of laterality: they also foind that there was a greater increase in neural activity in the cortex that was *contralateral* to it (so the motor cortex was *ispilateral* to the auditory cortex)
+** srtronger  functional connectivity
+They did a functional connectivity analysis (PPI) and found similar results: when subjects played with the L hand the R auditory cortex was most strongly connected to the R motor cortex (across the whole brain, and particularly more than to the L motor cortex), and the opposite when they played with the R hand.
+** lower hearing threshold
+In a different task, subjects pressed a button to produce a faint pure tone (monaural). They found that the the hearing threshold was lower for the active condition.
+In therms of laterality: the also found that the hearing threshold was lower for the ipsilateral hand-ear configuration (So again ipsilateral motor-auditory cortices)
 
- The subjects were asked to perform a task where they either produced a sound themselves or heard an externally generated sound while their brain activity was measured using functional magnetic resonance imaging (fMRI).
+
+* short summary
+This paper compares how the brain processes self-generated vs externally generated sounds.
+The subjects were asked to perform a task where they either produced a sound themselves or heard an externally generated sound while their brain activity was measured using functional magnetic resonance imaging (fMRI).
+The study found that self-generated sounds enhance *activity* in the auditory cortex and *increase perceptual* sensitivity in a *lateralized* manner. The enhancement in the auditory cortex was stronger when the sound-producing hand was contralateral to the auditory cortex, suggesting a lateralized effect.
+
+Main findings:
+  1. enhancement rather than suppression for the active case
+  2. stronger enhancement for ipsilateral (cortices) configuration
+  3. stronger functional connectivity to the ipsilateral cortex in single hand playing (binaural sound)
+  4. lower hearing threshold for the active condition
+  5. lower hearing threshold for the ipsilateral (cortices) configuration

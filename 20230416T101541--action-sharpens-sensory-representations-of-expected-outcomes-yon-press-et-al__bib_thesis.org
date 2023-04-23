@@ -1,0 +1,19 @@
+#+title:      Action Sharpens Sensory Representations of Expected Outcomes, Yon, Press et. al
+#+date:       [2023-04-16 Sun 10:15]
+#+filetags:   :bib:thesis:
+#+identifier: 20230416T101541
+#+reference:  yonActionSharpensSensory2018
+
+The study investigated how sensorimotor prediction affects sensory processing during action. The results suggest that expected sensory signals are represented with greater fidelity (sharpened) during action, facilitating veridical perception of action outcomes in an inherently uncertain sensory world.
+
+
+* reading notes
+cancellation/attenuation theory derived from the forward model is in contradiction to ideas coming from predictive processing/coding - which says that the brain would give *more* weight to sensory input which matches its predictions (=Bayesian priors).
+according to that account, this "giving weight" means in practice that there should be an attenuation of activity  - but only in units tuned away from the expected stimulus, so that the expected results are enhanced  (if they exist) compared to environmental noise.
+
+This is supported by studies about prediction - but not in action-generated stimuli: in this study they had subjects make finger abductions while watching an avatar do either congruent (same finger) or incongruent (different finger) movement, and tested decoding accuracy of which finger *was observed* to move (index vs pinky).
+If the cancellation account is correct, then there should be impaired decoding on congruent trials as well as on incongruent ones - but they found increased decoding accuracy in congruent vs incongruent trials suggesting that visual cortex neurons were "sharpened" towards the expected movement.
+
+* questions
+How does this idea explain the attenuated perception accounts?
+maybe it only explains the attenuated fMRI/EEG signal results, and there is still some other mechanism that mediates the attenuation in perception.

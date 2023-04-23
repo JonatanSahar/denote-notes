@@ -1,0 +1,6 @@
+#+title:      GLM analysis is measuring signal amplitude
+#+date:       [2023-04-20 Thu 10:26]
+#+filetags:   :thesis:
+#+identifier: 20230420T102603
+
+Even though _in fact_ GLM looks at how much of the signal is explained by a modeled response to a condition - when comparing conditions, the comparison is more significant the larger the difference in signal amplitude (in that voxel) between the conditions

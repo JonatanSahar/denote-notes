@@ -6,3 +6,9 @@
 * reference location of A1 and A2 in MRI scans from wikipedia
 #+attr_org: :width 500
 [[file:images/reference-auditory-cortex-MRI.png]]
+* code snippets:
+- ripgrep through denote directory, removing IDs:
+#+name: get-denote-files
+    #+begin_src sh
+  rg -i --color always buaron . | sed "s/[T0-9]*--//g" |sed "s/\[denote:[T0-9]*\]//g"|sed "s/\.\\\//g"
+#+end_src

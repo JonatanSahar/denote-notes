@@ -6,7 +6,33 @@
 
 * Sagol seminar
 
-*** Introduction + literature review (4 minutes)
+*** story:
+There is a lot of evidence that shows we perceive and process self generated stimuli differently than externally generated ones.
+Most often the evidence point to an attenuation in both: reduced neural activity and a less intense perception of the sensory consequences of our actions in comparison to externally generated ones.
+
+There is evidence from our lab that the lateral configuration of affector and effector matters to this modulation - most often, more pronounced effects were observed when the motor and sensory cortices are in the same hemisphere, but not always - Dery et al. showed improved sensorimotor learning in the contralateral configuration.
+
+I'd like to talk about two relevant theoretical underpinnings:
+The first is the long standing idea of the forward model - where an efference copy is used to compare predicted consequences with actual ones. But there are many open questions:
+How does this manifest in the brain?
+How is the signal transmitted?
+To which modal cortices - all of them? Based on the specific prediction?
+How are predictions made based on the action?
+How is the modulation determined (enhance/attenuate)?
+
+The idea of sharpening is a recent theoretical progress in terms of the modulation of neural activity (rather than perception).
+It is evidence based, and was put forward in an attempt to reconcile all of the above with predictions from predictive coding/processing, which says that it's advantagious to give more rather than less weight to inputs matching our expectations.
+In essence it suggests that the results which show neural attenuation are in fact neural sharpening - the narrowing of individual neurons' tuning curves, such that each unit responds more specifically to its prefered attribute (frequency in this case). This also raises a lot of questions:
+How does it explain accounts of perceptual attenuation?
+Is this in fact the same process observed in all previous literature, or are there several modes of modulation operating in different ways?
+
+The aim of this research is to advance our understanding around all of these questions, and specifically in terms of the mechanism of the effect of the lateral configuration on the modulation of auditory processing.
+
+The
+
+
+*** Introduction
+
 
 ***** Structure:
          - who I am, a word about the lab and motor learning
@@ -53,7 +79,7 @@
 
 - Cancellation vs sharpening:
         Most results over the years have shown an effect of attenuation of self-generated sounds (and other sensory stimuli), both in the perceptual and neural activation aspects.
-        However, in recent years it has been proposed that the underlying mechanism of this attenuation (or cancellation as it's also known) is in fact one of /sharpening/ - a narrowing of individual neurons' tuning curves. See [cite:@yonActionSharpensSensory2018]
+        However, in recent years it has been proposed that the underlying mechanism of this attenuation (or     cancellation as it's also known) is in fact one of /sharpening/ - a narrowing of individual neurons' tuning curves. See [cite:@yonActionSharpensSensory2018]
 
         In this case, an overall lower response is expected because only neurons which are specifically tuned to, or prefer, this stimulus' properties (frequency/location/color/etc.) will activate to a significant degree.
         This is something that we will be considering in our analysis.

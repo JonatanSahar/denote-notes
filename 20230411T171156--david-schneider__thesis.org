@@ -1,0 +1,7 @@
+#+title:      David Schneider
+#+date:       [2023-04-11 Tue 17:11]
+#+filetags:   :thesis:
+#+identifier: 20230411T171156
+
+Notable papers
+[cite:@schneiderHowMovementModulates2018; @schneiderReflectionsActionSensory2020; @audettePreciseMovementbasedPredictions2022]
