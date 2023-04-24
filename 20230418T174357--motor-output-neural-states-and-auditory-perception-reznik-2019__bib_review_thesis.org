@@ -4,5 +4,16 @@
 #+identifier: 20230418T174357
 #+reference:  reznikMotorOutputNeural2019c
 
-
 * reading notes
+Sensory perception is complex and dependent on the internal state and external situation in the environment (drift-diffusion for example).
+
+Modulation of self-generated stimuli may be useful in several ways: protecting he sensory pathway form overstimulation, sustaining the illusion of a stable and continuous sensory image (like with sacccades), supporting the sense of self and agency through corroborating our predictions related to our own actions.
+
+It's harder study speech sounds even though they are most ecological, because when we speak we hear ourselves through bone consuction in addition to air, and also the muscle movement alters the ear structure and the sound we hear.
+
+There are no known anatomical connections between the primary motor and the primary auditory cortices in humans, but there are known anatomical connections between secondary areas (in mice), and also functional connectivity andother anatomical connections in primates and humans.
+
+There are known connections between auditory and motor areas across the animal kingdom. Specifically in mice, motor neurons have excitatory connections to auditory pyramidal cells and also to auditory inhibitory cells which inhibit these pyramidal cells.
+
+There are both excitatory and inhibitory connections between motor and auditory cortices in mice and bats. Specifically, there are mroe connections from the secondary motor cortex to inhibitory neurons, and this increased inhibition is applied to both signal and noise, which elevates SNR.
+Motor action has also been shown (rats and bats) to create sharpening - narrowing neurons' tuning curves.
