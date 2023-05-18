@@ -3,30 +3,16 @@
 #+filetags:   :thesis:
 #+identifier: 20230409T093744
 
-* Previous work/motivation
-*** Reznik 2014: single hand playing piano in the MRI scanner, binaural feedback
-         a. *stronger modulation* of contralateral auditory cortex relative to playing hand (in active > passive condition)
-              a. accordingly - *lower (=better) hearing threshold* in the ear ipsilateral to the playing hand (so the auditory cortex is contralateral)
-         b. during the task, the contralateral audiory cortex had the strongest *functional connectivity* (across the brain) to the motor cortex
+* Design
 
-*** Buaron 2020: same sensory (visual) consequence for different motor actions (right/left button press)
-         a. sensory modulation of self generated actions is dependent on laterality : *stronger modulation in the ipsilateral condition* (motor and visual cortex in the same hemisphere)
-         b. possible to *decode the operating hand from the activity* in the visual cortex.
-
-*** Dery (2022? In process): behavioral task, learning a single hand piano sequence with monaural feedback
-         a. *better learning* in left hand contralateral condition
-         b. *better cross education* for left hand contralateral condition  (right hand learning from left)
-
-** Design
-
-***  Localizers:
+**  Localizers:
     - Two localizers:
         + motor only
         + auditory only
 
     - One run each. (*question:* is it enough trials?)
 
-*  Block design and timings
+**  Block design and timings
   - An 8 seconds fixation break between blocks for signal washout
   - 2 seconds instruction slide
   - 4 runs - divided by ear. 2 x LE, 2 x RE
@@ -41,7 +27,7 @@
       - T1 4:26
   - *total time in scanner: 57 min* (without spare time for talking and rest between runs)
 
-* Conditions
+** Conditions
     - subjects will be playing the keyboard inside the MRI scanner
     - Blocks of RH-RE RH-LE LH-RE LH-LE
     - In each block participants will be asked to play twice in a row at their own pace
@@ -77,10 +63,26 @@ We can consider DTI based on the length of the pilot - we don't have anyone to a
 
 
 * Special notes
-*** *arm length* must be *at least* 55cm shoulder to wrist, and 75cm eye-line to wrist height along the thigh.
-*** we don't want subjects with any experience playig the pian (so they won't have expectation about the order of the notes)
-*** לוודא שהם לא במהלך ניסוי אחר, ולא 3 חודשים מניסוי קודם
-*** TODO ask the Maya to change the names of the scans in the protocol to:
-  - audiomotor_runNum
-  - motorLoc_runNum
-  - auditoryLoc_runNum
+
+* check list preliminary talk
+1. Thank you
+2. Metal form
+3. ID photocopy
+4. Explain experiment
+5. Explain the task
+6. Ask about movies
+
+* check list experiment
+1. Set control box input settings
+2. Set computer volume to max
+3. Adjust MRI volume
+4. Set computer to extend screens
+5. Sound check (before entering the bore)
+6. Keyboard check
+7. Explain instructions again
+8. 2x motor localizer
+9. 2x auditory localizer
+10. Put on a movie, scan FLAIR
+11. Explain the task again
+12. Verify which ear to start on
+13. 4x experimental run
