@@ -121,6 +121,7 @@ Baess, 2009
 - why read it?
   another support for attenuation of processing
 - figures:
+
 * Sharpening
 *** READ Action sharpens sensory representations of expected outcomes. 4288 Yon, D., Gilbert, S. J., de Lange, F. P., & Press, C. (2018).
  [cite:@yonActionSharpensSensory2018]
@@ -173,20 +174,22 @@ The findings suggest that sensory regions not only code the sensory consequences
 
 references only
 
-* Action modulates perception
 
-* Action modulates processing
+* Categories
+*** Action modulates perception
 
-* Sharpening
+*** Action modulates processing
 
-* Modulation works via an effernce copy
+*** Sharpening
 
-* Action sensory modulation is learning based
+*** Modulation works via an effernce copy
 
-* Stronger modulation in ipsilateral configuration
+*** Action sensory modulation is learning based
 
-* Advantage in contralateral configuration
+*** Stronger modulation in ipsilateral configuration
 
-* Sensorymotor learning is sensitive to the lateral configuration
+*** Advantage in contralateral configuration
 
-* Papers from the lab
+*** Sensorymotor learning is sensitive to the lateral configuration
+
+*** Papers from the lab

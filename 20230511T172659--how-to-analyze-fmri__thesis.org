@@ -1,0 +1,109 @@
+#+title:      How to analyze fMRI
+#+date:       [2023-05-11 Thu 17:26]
+#+filetags:   :thesis:
+#+identifier: 20230511T172659
+
+* connect to the MRI center file
+***** Other locations in file manager
+***** smb://mrilabfs.tau.ac.il/mri_rm_lab$
+***** username/password - same as in TAU, with TAU/ as prefix: TAU/sahar
+
+
+* Order the data on my computer:
+*** BIDS  folder structure
+The standard way to order and share imaging data
+https://bids.neuroimaging.io/
+
+Batel has a script for that :)
+
+* types of scans
+***** Mprage - anatomical
+***** cmrr - functional
+***** each scan name contains the number of volumes, and a name we can choose
+***** there's an _sbref scan for each scan: used for motion correction, we don't use it usually
+***** each dicom is 3D at a given Tr
+***** use the 2nd mprage dir - has been filtered
+* analyzing with FSL
+Can open individual tools from command line - for GUI, call tool with capital letter (otherwise is calls the function directly)
+*** BET
+    Extract the brain only
+    need to do only once - for the anatomical data, FEAT later uses it
+    give it the anatomical DICOM
+
+*** FEAT - first level
+***** Data:
+            Preprocessing & GLM analysis
+            first level: single run
+            second level: multiple runs
+            group analysis
+            fulle analyis = inc. running a GLM
+            highpass filter = 100HZ
+
+***** pre-stats
+            Keep defaults, and add slice time correction = interleaved
+
+***** registration
+            For main functional image - select anatomical_brain image (from BET)
+            For the standard space -  use full search & 12 DOF
+
+***** Stats
+            Need to create an EVs (events) files for every kind of event that happend in the scan, with fields:
+            - onset
+            - duration
+            - weight
+
+            Setting up the GLM: choose "Full model  setup"
+            create a page for each EV
+            custom 3 column format
+            HRF: double gamma
+            define contrasts in 2nd tab
+
+***** post-stats = multi comparisons correction
+            Don't need for first-level - set to "none"
+
+***** save!  before hitting go
+            Creates a "batch" file : .fsf
+
+***** go
+            Creates a folder with a .feat suffix
+            Creates a FEAT report html that updates in real time:
+            - registration: shows the quailty of registration
+            - pre-stats: motion correction data
+            - stats: the details of the statistical model etc.
+            - Post-stats: multiple comparisons info, if we chose to let it run that for us (we don't it doesn't have FDR correction)
+
+            Can run from command line as "feat path/to/design.fsf"
+
+***** load
+            load an existing .fsf file
+            can create an empty .fsf with names of vars in "", and then populate file with a script
+
+
+***** output:
+            Work with filtered_Func_data feed into FSLeye
+
+            cope files: the different contrasts we computed: we can use them later for the higher order analysis.
+
+            in stat directory:
+            - pe*.nii: the beta value for each event* in EVs: NIFTI files with the beta value for each voxel
+            - tstat*.nii.gz - the t-values for each voxel
+
+            In reg directory:
+            Feat doen't apply the transformation to MNI - the coomputations for doing so are in reg dir.
+
+            Also in reg - hires_head - the anatomical head
+
+*** FEAT - higher level
+    Analyze multiple runs from the same esubject
+    input the cope files from previous analysis of all runs
+    averages the different run + transforms to MNI space
+
+*** FSLeyes
+    Presentation of images
+
+*** dcm2nii - external app
+    Convert DICOM to NIFTI
+
+* more info on FSL - videos from jeanette mamford https://www.youtube.com/watch?v=lCwewJJPd5U&list=PLB2iAtgpI4YHlH4sno3i3CUjCofI38a-3
+* Code -
+main_visualPerceptionAnalysis.m in Batel's code base

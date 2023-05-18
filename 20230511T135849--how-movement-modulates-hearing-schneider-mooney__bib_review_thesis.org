@@ -1,0 +1,10 @@
+#+title:      How Movement Modulates Hearing, Schneider & Mooney
+#+date:       [2023-05-11 Thu 13:58]
+#+filetags:   :bib:review:thesis:
+#+identifier: 20230511T135849
+#+reference:  schneiderHowMovementModulates2018
+
+* reading notes
+A possible role of motor auditory modulation are the reallocation of neural resources from processing information sources which are less reliable during movement (=auditory) to other modalities, like vision.
+
+Since the auditory consequences of our actions are so varied, the canceling-type modulation of the auditory system must be very adaptive.

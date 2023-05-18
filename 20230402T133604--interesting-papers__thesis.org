@@ -5,7 +5,7 @@
 
 A database of papers I may want to read.
 
-* READ Motor output, neural states and auditory perception
+* DONE Motor output, neural states and auditory perception
 - link/cite: 10.1016/j.neubiorev.2018.10.021[cite:@reznikMotorOutputNeural2019c]
 - type of paper: review
 - why read it?
