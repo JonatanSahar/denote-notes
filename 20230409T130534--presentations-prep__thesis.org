@@ -79,7 +79,7 @@ The
 
 - Cancellation vs sharpening:
         Most results over the years have shown an effect of attenuation of self-generated sounds (and other sensory stimuli), both in the perceptual and neural activation aspects.
-        However, in recent years it has been proposed that the underlying mechanism of this attenuation (or     cancellation as it's also known) is in fact one of /sharpening/ - a narrowing of individual neurons' tuning curves. See [cite:@yonActionSharpensSensory2018]
+        However, in recent years it has been proposed that the underlying mechanism of this attenuation (or cancellation as it's also known) is in fact one of /sharpening/ - a narrowing of individual neurons' tuning curves. See [cite:@yonActionSharpensSensory2018]
 
         In this case, an overall lower response is expected because only neurons which are specifically tuned to, or prefer, this stimulus' properties (frequency/location/color/etc.) will activate to a significant degree.
         This is something that we will be considering in our analysis.

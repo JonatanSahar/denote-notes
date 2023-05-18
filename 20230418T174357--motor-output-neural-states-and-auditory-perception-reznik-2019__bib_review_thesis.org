@@ -4,16 +4,71 @@
 #+identifier: 20230418T174357
 #+reference:  reznikMotorOutputNeural2019c
 
+Lots of good references
+
+
+* summary
+
+The literature outlines several main effects of action on processing:
+- attenuation of neural population activity
+- narrowing of tuning curves
+- increased SNR
+- shift in auditory cortex activity from synchronized to desynchronized modes of operation
+
+  The first three are caused by inhibitory connections between the motor cortex and inhibitory interneurons in the auditory cortex. The fourth is caused by the simultaneous activation and inhibition of the interneurons and the pyramidal cells.
+
+Attenuation of population activity accounts for decreased perceived volume of supra-threshold sounds.
+Increased SNR is responsible for higher detection in faint conditions.
+Narrow tuning curves are responsible for higher sensitivity in both faint and supra-threshold conditions.
+The shift in population activity patterns is related to apparent enhancement of neural actiovity through the negative effect (correlation) of synchronized oscillations on BOLD signal.
+
+
+Salient sounds:
+#+attr_org: :width 500
+[[file:c:/Users/Jonathan/notes/images/20230418T174357--motor-output-neural-states-and-auditory-perception-reznik-2019__bib_review_thesis.org_20230424_111638_3Gb9jq.png]]
+
+
+Faint sounds:
+#+attr_org: :width 500
+[[file:c:/Users/Jonathan/notes/images/20230418T174357--motor-output-neural-states-and-auditory-perception-reznik-2019__bib_review_thesis.org_20230424_111744_MCjfM4.png]]
+
 * reading notes
+** intro
 Sensory perception is complex and dependent on the internal state and external situation in the environment (drift-diffusion for example).
 
 Modulation of self-generated stimuli may be useful in several ways: protecting he sensory pathway form overstimulation, sustaining the illusion of a stable and continuous sensory image (like with sacccades), supporting the sense of self and agency through corroborating our predictions related to our own actions.
 
 It's harder study speech sounds even though they are most ecological, because when we speak we hear ourselves through bone consuction in addition to air, and also the muscle movement alters the ear structure and the sound we hear.
 
-There are no known anatomical connections between the primary motor and the primary auditory cortices in humans, but there are known anatomical connections between secondary areas (in mice), and also functional connectivity andother anatomical connections in primates and humans.
+There are no known anatomical connections between the primary motor and the primary auditory cortices in humans, but there are known anatomical connections between secondary areas (in mice), and also functional connectivity and  other anatomical connections in primates and humans.
 
 There are known connections between auditory and motor areas across the animal kingdom. Specifically in mice, motor neurons have excitatory connections to auditory pyramidal cells and also to auditory inhibitory cells which inhibit these pyramidal cells.
 
 There are both excitatory and inhibitory connections between motor and auditory cortices in mice and bats. Specifically, there are mroe connections from the secondary motor cortex to inhibitory neurons, and this increased inhibition is applied to both signal and noise, which elevates SNR.
 Motor action has also been shown (rats and bats) to create sharpening - narrowing neurons' tuning curves.
+
+The model that they propose is that in salient conditions the overall activation of the auditory cortex is high, and the inhibition by the motor cortex attenuates the overall response and increases frequency differentiation.
+In faint sound conditions, there's a low overall activation of there auditory cortex and the signal may get drowned by the environmental noise. When modulated by the motor cortex, activation due to environmental noise, which is caused by units with wide tuning curves , is nullified, and signal-related activation remains. While its also attenuated somewhat, the SNR is significantly increased significantly, which may explain the increased volume at near threshold conditions.
+** in salient conditions
+On the neural level, turns out that synchronized activation and inhibition cause a change in firing pattern - moving from synchronized (phasic) to de-synchronized (tonic) and this is reflected ina change in the power spectrum from low-frequency to high-frequency. This synchronized activation/inhibition is exactly what happen with the motor input to the auditory cortex - targeting both inhibitory and pyramidal cells there.
+This de-synchronized activity in the auditory cortex has been shown to be connected with higher SNR, higher reliability and precision in stimulus representation.
+The motor cortex brings the auditory cortex into a desynchronized state, which increases its SNR and improves the accuracy of its responses to stimuli.
+
+Tuning curves broaden with increased amplitude (volume).
+
+- There are many studies that show perceptual attenuation in supra-threshold conditions. This is line with a general attenuation in activity, since volume/loudness is associated with the overall population response, and under global inhibition there's indeed less overall activity.
+- EEG and MEG studies show an attenuation of N1/M100 and P1 responses to self-generated sounds
+- [cite:@reznikEnhancedAuditoryEvoked2015] shows a direct evidence of coupling (funcional) between motor activity (M1 and SMA) and auditory evoked responses.
+  Also showing that the modulation increases with increased motor activation (rate of button presses)
+
+ There are many studies showing both perceptual and processing attenuation and the connection between motor and auditory areas. Conflicting accounts of attenuation and enhancement of auditory cortex activity may be due to the stimuli: a repeated train of stimuli is known to increase low frequency power, which is negatively correlated with the BOLD signal. Since motor engagement attenuates these neural responses it displays as an enhancement of the signal.
+
+ Apparent enhancement of auditory cortex activity is in fact another case of attenuation, but speficially of low frequency activity which is itelf attenuating the BOLD response (so inhibiting the inhibitor creates an enhancement)
+
+ From several animal studies it seems that _intentional_ action to produce sounds is not necessary for the modulation of the auditory cortex - when action it temporally connected with sound, and even in optogenetic experiments where the motor cortex was stimulated in anesthetized mice, there was reduced evoked response to sounds at the same time.
+** in faint conditions
+There's an increase in sensitivity, both in amplitude (sound/no sound) and in the temporal domain (was the second of three sounds closer in time to the first one or the third one).
+
+Auditory processing with motor engagement in faint sound scenarios is "better" in two key aspects:  1. SNR is higher (measured as the ration of sound-evoked activity to activity in the absence of sound), and 2. there's a higher firing rate, and lower variability in the desynchronized mode vs the synchronized one. (Recall the desynchronized state is brought about by motor activation inhibiting and activating the auditory cortex simultaneously).
+
+Generally in faint conditions, sensitivity is about how salient the stimulus is in comparison to the level of background activity. This background activity is stronger when there are synchronized low-frequency oscillations, and that's reduced by motor engagement.
