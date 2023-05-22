@@ -1,0 +1,60 @@
+#+title: Thesis draft
+#+date:       [2023-03-29 Wed 15:54]
+#+filetags:   :thesis:
+#+identifier: 20230329T155402
+
+* Literature review
+** Structure
+
+**** I. Introduction
+- Background: Explain the importance of auditory-motor interactions and how they play a crucial role in our ability to perceive and generate actions that create auditory consequences.
+- Significance of studying the effect of hand-ear laterality on auditory processing: Discuss the potential implications of this research for understanding auditory-motor integration mechanisms, and how it could contribute to our knowledge of hemispheric lateralization and multisensory integration.
+- Perception and processing of self-generated stimuli:
+  + key findings relating to the differences from externally generated stimuli
+  + key findings relating to affector/effector laterality and affector/cortex laterality
+
+**** II. Auditory-motor interactions
+- Theoretical models: Discuss the different theoretical models proposed to explain the interactions between the auditory and motor systems. For example, predictive coding, efference copy, and the mirror neuron system.
+- Empirical evidence: Summarize key empirical findings about the role of the motor cortex in modulating auditory processing, and how motor information can influence auditory perception and vice versa. Provide examples of studies that have used different methods to explore these interactions, such as neuroimaging, transcranial magnetic stimulation (TMS), and behavioral experiments.
+
+**** III. Hand-ear laterality and its impact on auditory processing
+- Definition of laterality: Define what is meant by the terms contralateral and ipsilateral, and explain how they relate to auditory-motor interactions.
+- Literature review of studies examining the effects of laterality: Summarize findings from previous studies that have investigated the impact of hand-ear laterality on auditory processing. Include studies that have investigated both contralateral and ipsilateral configurations. Provide an overview of the different methods used to measure auditory processing, such as pure-tone audiometry, speech perception tests, and electrophysiological recordings.
+- Evidence for and against the existence of contralateral and ipsilateral differences: Discuss the evidence both for and against the idea that contralateral and ipsilateral configurations may lead to different patterns of auditory-motor interactions. For example, some studies have reported that auditory-motor interactions are stronger when the ear and hand are on the same side, while others have found no difference between contralateral and ipsilateral configurations. Include results pertaining to audiomotor learning.
+
+**** IV. Conclusion
+- Summary: Briefly summarize the key points discussed in the literature review, including the theoretical and empirical work on auditory-motor interactions, and the evidence for and against the impact of hand-ear laterality on these interactions.
+- Gaps and limitations: Discuss any gaps or limitations in the current understanding of these issues, and suggest areas for future research. For example, it may be important to investigate whether the effects of laterality on auditory-motor interactions vary depending on the type of auditory stimulus or motor action being performed.
+- Relevance to current research: Explain why this literature review is relevant to the current study, and how it informs the research question and hypotheses being tested.
+** Draft
+**** I. Introduction
+**** II. Auditory-motor interactions
+**** III. Hand-ear laterality and its impact on auditory processing
+**** IV. Conclusion
+* Methods
+** Subjects
+Thirty-three participants were recruited, all of them healthy, right handed (self-reported, Edinburgh Handedness Inventory),
+and had normal or corrected to normal vision.
+The study conformed to the guidelines that were approved by the ethical committee in Tel-Aviv University and the Helsinki Committee of the Sheba Medical Center. All participants provided written informed consent to participate in the study and were compensated for their time.
+** fMRI Session
+The aim of this session was to examine whether neural activations in auditory cortex, evoked by action-triggered auditory consequences, depend on the stimulus-triggering hand. To this end, participants triggered identical visual stimuli using either their right or left hand.
+
+The fMRI session included one anatomical run and a total of eight functional runs: two motor-only runs, two auditory-only runs, and four audiomotor experimental runs.
+Auditory-only runs were meant for localizing the auditory pathway, motor-only runs were meant for localizing the motor cortex and to examine the a-priory modulating effect of the motor cortex on the auditory system (i.e. In the absence of auditory stimuli), and the audiomotor runs were designed to examine the differential effect of triggering auditory stimuli using the right versus the left hand per ear (i.e. activating the sound with the contralateral vs ipsilateral hand with regards to the ear).
+
+All functional runs were organized in a block design, and all consisted of 20 blocks with an 8s rest period before the first block and between each consecutive block pair. During the rest period participants were requested to fixate on a black cross in the middle of the screen, and block onset was cued by the cross' color changing to green. Before the color changed, either the letter "R" or the letter "L" were displayed for 1s, replacing the cross.
+In the motor-only and the audiomotor conditions the appearance of the green cross was the cue for the participants to initiate a set of eight button presses with either their left or right thumbs, as indicated by the presented letter. Once eight button presses were completed, the screen's background flashed green as an indication to stop pressing. In the audiomotor condition each button press triggered a single monaural tone of a fixed 400ms duration, while in the motor-only condition button presses were unaccompanied by sound. In the auditory-only condition, participants were instructed to listen without pressing, while eight tones (identical to the ones in the audiomotor condition) were played to either their left or right ears, again terminating with the screen flashing green.
+
+Participants always underwent the motor-only condition first, and the auditory-only condition second, in order to avoid creating an association between the motor action and its consequences that would affect brain activation during motor-only runs.
+
+The order of right and left hand blocks in the motor-only and audiomotor conditions, and of right and left ear blocks in the auditory-only condition were randomized.
+Within each audiomotor run the stimulated ear was kept constant while the active hand changed between blocks.
+There were a total of 20 blocks per hand in the motor-only condition, and 20 blocks per ear in the auditory-only condition. In the audiomotor condition there were two runs per ear, totaling 40 blocks per ear, and 20 blocks per hand-ear combination.
+
+Stimuli were presented on a 32" monitor and viewed by the participants through a mirror placed on the MRI head coil.
+
+ In order to keep participants attentive, in case the wrong hand was used the screen flashed red, and they were requested to pay more attention at the end of the run.
+ Blocks in which the wrong hand was used, or not all eight button presses were performed, or too many button presses were performed were excluded from the analysis.
+
+** fMRI Data Acquisition TODO: verify pulse sequence parameters
+ Functional imaging was performed on a Siemens Magnetom Prisma 3T Scanner (Siemens Healthcare)with a 64-channel head coil at the Tel-Aviv University Strauss Center for Computational Neuroimaging. In all functional scans, an interleaved multiband gradient-echo echo-planar pulse sequence was used. 66 slices were acquired for each volume, providing whole-brain coverage (slice thickness 2 mm; voxel size 2 mm isotropic; TR = 1000 ms; TE = 30 ms; flip angle = 82. ; field of view= 192 mm; acceleration factor = 2). For anatomical reference, a whole-brain high resolution T1-weighted scan (slice thickness 1 mm; voxel size 1 mm isotropic; TR = 1000 ms; TE = 2. 99 ms; flip angle = 7. ; field of view= 224 mm) was acquired for each participant.

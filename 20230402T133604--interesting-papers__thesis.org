@@ -234,3 +234,19 @@ inputs
 - why read it?
   a contrasting view about stimulus-driven vs voluntary actions, claiming that even stimulus-driven actions create action-effect bindings
 - figures:
+* SKIM Parallel processing streams for motor output and sensory prediction during action preparation
+- link/cite: https://journals.physiology.org/doi/full/10.1152/jn.00616.2014
+- type of paper: study
+- why read it?
+  evidence of auditory modulation being predictive, like the reznik paper
+- figures:
+
+The paper discusses sensory attenuation, or the perception of self-generated actions as less intense than identical, externally generated stimuli. The study found evidence for a predictive modulation in sensory cortex that is independent of general expectations, attention, and task load. This modulation was found through motor priming, which enhances subjective experience of agency and leads to stronger sensory attenuation and a transient signal in auditory cortex before stimulus onset. The findings support the idea of a sensory modulation prior to self-generated sensations and parallel to motor output.
+* SKIM Sensory suppression of brain responses to self-generated sounds is observed with and without the perception of agency
+- link/cite: https://www.sciencedirect.com/science/article/pii/S0010945216300569?casa_token=_5b-P4z3n-gAAAAA:Oy-Li2luOjgkXuZQarC0mWMDz-ZR1rhZuCai8b78mwFRc6FAH1Nnix1eqSULFOfn0cIKYQ
+- type of paper: study
+- why read it?
+  auditory modulation in relation with sense of agency
+- figures:
+
+The brain shows less response to self-generated sounds compared to externally generated ones, possibly due to a mechanism that distinguishes the sensory consequence of one's own actions from other sensory input. However, it is unclear how this sensory suppression is related to judgments of agency. Results from the study suggest that N1 amplitude suppression to self-generated sounds is not affected by the timing of an action's effect, and does not influence agency judgments, but the suppression of the P2 component may be more directly related to the experience of agency.
