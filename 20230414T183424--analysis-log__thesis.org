@@ -3,10 +3,37 @@
 #+filetags:   :thesis:
 #+identifier: 20230414T183424
 
+* log
+*** 28.5
+First entry.
+Currently 5 (4.5) viable subjects.
+103 still waiting for a re-scan of the anatomy, delayed on account of new earring
+102 excluded for left-handedness, 107 for too many errors.
+
+Noticed that 2nd level averages are displayed on the MNI brain but couldn't figure out why it's not in the original space.
+
+Still need to create the 3rd level template.
+
+Tried to run the analysis for 103 regardless of cropped anatomical scan. Forgot to remove the first scan's EV from raw/behavioral. Re-ran it. Need to verify it didn't fail and run 2nd level as well.
+*** 29.5
+Ran 2nd level on inbal's data (sub 103), as the 1st level looked alright re registration.
+Ran 3rd level (woohoo!) Using subjects 101, 104, 105, 106 - so without inbal for now, waiting on the results to show roy.
+Used https://www.youtube.com/watch?v=nyajZKJ-uwk&list=PLB2iAtgpI4YHlH4sno3i3CUjCofI38a-3&index=16 as instructions.
+
 * scripts, file names and code snippets
 - for displaying all 1st level or 2nd level GLM for a subject, using fsleyes:
-  - checkFirstLevel.py
-  - checkSecondLevel.py
+    - checkFirstLevel.py
+    - checkSecondLevel.py
+- for creating the 3rd level analysis in FSL:
+    + cope1/2 meaning in 2nd level .gfeat dirs:
+        - In the outer level (which comes from the 1st level analysis):
+                Cope1: the dir of R>L contrasts
+                Cope2: the dir of L>R contrasts
+        - in the inner level:
+                Cope 1 is the mean image itself. So 101_audiomotor_LE_mean.gfeat/cope2.feat/stats/cope1.nii.gz
+                is the mean image of L>R contrast in the LE of subject 101
+    + command:
+          ls /media/user/Data/fmri-data/analysis-output/10[1456]/functional/10*_audiomotor_LE_mean.gfeat/cope2.feat/stats/cope1.nii.gz
 
 * prompts for chatgpt etc.:
 - Summarizing and Analysis:
@@ -30,3 +57,4 @@
   "Explain how [qualitative/quantitative] research methods can be used to address [research question]:"
   "Describe the advantages of using a mixed-methods approach for studying [topic]:"
   "Recommend best practices for data collection and analysis in [field/research context]:"
+

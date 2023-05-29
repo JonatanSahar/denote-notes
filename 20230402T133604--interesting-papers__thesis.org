@@ -5,18 +5,19 @@
 
 A database of papers I may want to read.
 
-* DONE Motor output, neural states and auditory perception
-- link/cite: 10.1016/j.neubiorev.2018.10.021[cite:@reznikMotorOutputNeural2019c]
-- type of paper: review
+* READ Attention and prediction in human audition: a lesson from cognitive psychophysiology
+- link/cite: https://onlinelibrary.wiley.com/doi/10.1111/ejn.12816
+- type of paper: review/theoretical
 - why read it?
-  Daniel and Roy's review of sensorimotor integration
+  Centers on audition, relevant to prediction, predictive coding
 - figures:
+  [[file:images/_20230404_093725_Bs9HEK.png]]
 
 * DONE How Movement Modulates Hearing
 - link/cite: https://doi.org/10.1146/annurev-neuro-072116-031215
 - type of paper: review
 - why read it?
-  David schneider
+  shows decoding of active hand from the auditory cortex - unstimulated - even before movement intiation
 - figures:
 [cite:@schneiderHowMovementModulates2018]
 
@@ -26,9 +27,7 @@ Hughes, 2013
 - type of paper: review
 - why read it?
 
-- figures:
-
-This review article focuses on the sensory processing of action effects and how it differs from the processing of externally triggered stimuli. The article discusses intentional binding and sensory attenuation and their attribution to forward action models. The review systematically investigates the role of temporal prediction, temporal control, identity prediction, and motor prediction in previous reports of sensory attenuation and intentional binding. The authors propose avenues for future research to better understand the role of motor prediction in processing voluntary action effects and how these phenomena fit within a general predictive processing framework. The article also highlights the implications of this research for understanding disorders of agency in schizophrenia.
+The study found that movement planning influences early sensory areas in the brain. Using fMRI, they showed that specific movement information can be decoded from neural activity in the early auditory cortex before the movement happens. This motor-related information is separate from sensory-related information and is present even when movements are visually cued. The findings suggest that action planning involves modulating sensory areas based on the intended action.
 
 * READ A review of contemporary ideomotor theory.
 - link/cite: https://doi.org/10.1037/a0020541
@@ -36,14 +35,6 @@ This review article focuses on the sensory processing of action effects and how 
 - why read it?
 - figures:
 
-
-* READ Attention and prediction in human audition: a lesson from cognitive psychophysiology
-- link/cite: https://onlinelibrary.wiley.com/doi/10.1111/ejn.12816
-- type of paper: review/theoretical
-- why read it?
-  Centers on audition, relevant to prediction, predictive coding
-- figures:
-  [[file:images/_20230404_093725_Bs9HEK.png]]
 
 * READ Yon, D., Gilbert, S. J., de Lange, F. P., & Press, C. (2018). Action sharpens sensory representations of expected outcomes. Nature communications, 9(1), 4288.
 [cite:@yonActionSharpensSensory2018 ]
@@ -57,7 +48,6 @@ This review article focuses on the sensory processing of action effects and how 
 - why read it?
   A critical view on the forward model/efference copy paradigm when applied to extra-bodily stimuli
 - figures:
-  [[file:_20230404_094731_hYaAkO.png]]
 
 * READ A synaptic and circuit basis for corollary discharge in the auditory cortex
 - link/cite: https://www.nature.com/articles/nature13724
@@ -234,7 +224,8 @@ inputs
 - why read it?
   a contrasting view about stimulus-driven vs voluntary actions, claiming that even stimulus-driven actions create action-effect bindings
 - figures:
-* SKIM Parallel processing streams for motor output and sensory prediction during action preparation
+
+* Parallel processing streams for motor output and sensory prediction during action preparation
 - link/cite: https://journals.physiology.org/doi/full/10.1152/jn.00616.2014
 - type of paper: study
 - why read it?
@@ -242,7 +233,8 @@ inputs
 - figures:
 
 The paper discusses sensory attenuation, or the perception of self-generated actions as less intense than identical, externally generated stimuli. The study found evidence for a predictive modulation in sensory cortex that is independent of general expectations, attention, and task load. This modulation was found through motor priming, which enhances subjective experience of agency and leads to stronger sensory attenuation and a transient signal in auditory cortex before stimulus onset. The findings support the idea of a sensory modulation prior to self-generated sensations and parallel to motor output.
-* SKIM Sensory suppression of brain responses to self-generated sounds is observed with and without the perception of agency
+
+*  Sensory suppression of brain responses to self-generated sounds is observed with and without the perception of agency
 - link/cite: https://www.sciencedirect.com/science/article/pii/S0010945216300569?casa_token=_5b-P4z3n-gAAAAA:Oy-Li2luOjgkXuZQarC0mWMDz-ZR1rhZuCai8b78mwFRc6FAH1Nnix1eqSULFOfn0cIKYQ
 - type of paper: study
 - why read it?
