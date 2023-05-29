@@ -4,8 +4,35 @@
 #+identifier: 20230323T113003
 
 
+* Reviews
+
+*** DONE Motor output, neural states and auditory perception
+- link/cite: 10.1016/j.neubiorev.2018.10.021[cite:@reznikMotorOutputNeural2019c]
+- type of paper: review
+- why read it?
+  Daniel and Roy's review of sensorimotor integration
+- figures:
+
+*** DONE How Movement Modulates Hearing
+- link/cite: https://doi.org/10.1146/annurev-neuro-072116-031215
+- type of paper: review
+- why read it?
+  David schneider
+- figures:
+[cite:@schneiderHowMovementModulates2018]
+
+*** DONE Mechanisms of intentional binding and sensory attenuation: The role of temporal prediction, temporal control, identity prediction, and motor prediction.
+Hughes, 2013
+- link/cite: https://doi.org/10.1037/a0028566
+- type of paper: review
+- why read it?
+
+- figures:
+
+This review article focuses on the sensory processing of action effects and how it differs from the processing of externally triggered stimuli. The article discusses intentional binding and sensory attenuation and their attribution to forward action models. The review systematically investigates the role of temporal prediction, temporal control, identity prediction, and motor prediction in previous reports of sensory attenuation and intentional binding. The authors propose avenues for future research to better understand the role of motor prediction in processing voluntary action effects and how these phenomena fit within a general predictive processing framework. The article also highlights the implications of this research for understanding disorders of agency in schizophrenia.
+
 * Action modulates perception
-*** SKIM Cardoso-Leite, P., Mamassian, P., Schütz-Bosbach, S., & Waszak, F. (2010). A new look at sensory attenuation: Action-effect anticipation affects sensitivity, not response bias. Psychological science, 21(12), 1740-1745.
+*** Cardoso-Leite, P., Mamassian, P., Schütz-Bosbach, S., & Waszak, F. (2010). A new look at sensory attenuation: Action-effect anticipation affects sensitivity, not response bias. Psychological science, 21(12), 1740-1745.
 Cardoso-Leite et al. (2010) found that the perception of visual action effects was impaired when the effects were triggered by an action that habitually produced them.
     • The experiment presented in this article aimed to determine whether learned sensorimotor contingencies truly affect perception, rather than just inducing a response bias.
     • During the association phase of the experiment, specific actions (left-key and right-key presses) were associated with specific visual effects (tilted Gabor patches).
@@ -14,7 +41,7 @@ Cardoso-Leite et al. (2010) found that the perception of visual action effects w
 
 
 
-*** SKIM Hughes, G., & Waszak, F. (2011). ERP correlates of action effect prediction and visual sensory attenuation in voluntary action. Neuroimage, 56(3), 1632-1640.
+*** Hughes, G., & Waszak, F. (2011). ERP correlates of action effect prediction and visual sensory attenuation in voluntary action. Neuroimage, 56(3), 1632-1640.
 The study by Hughes and Waszak (2011) found that visual stimuli that were triggered by an action were associated with a reduction in the frontoparietal network of ERP components around 150ms after stimulus onset.
     • The study aimed to explore the physiological measures of sensory attenuation and action effect prediction in visual domain.
     • The task used in the study was a paradigm where voluntary actions were either associated with a visual action effect or to no effect. This allowed for exploration of both sensory attenuation (by comparing ERPs to action-triggered versus externally triggered stimuli) and action effect prediction (by comparing actions that triggered a stimulus with those that did not)
@@ -23,7 +50,7 @@ The study by Hughes and Waszak (2011) found that visual stimuli that were trigge
     • Re-activation of lateralized motor activity following onset of the action effect suggests common representation across both visual & motor cortices.
 
 
-*** SKIM Dewey, J. A., & Carr, T. H. (2013). Predictable and self-initiated visual motion is judged to be slower than computer generated motion. Consciousness and cognition, 22(3), 987–995. https://doi.org/10.1016/j.concog.2013.06.007
+*** Dewey, J. A., & Carr, T. H. (2013). Predictable and self-initiated visual motion is judged to be slower than computer generated motion. Consciousness and cognition, 22(3), 987–995. https://doi.org/10.1016/j.concog.2013.06.007
 The study by Dewey and Carr (2013) found that self-initiated motion is perceived as slower than equivalent but externally generated motion, but only when the motion is produced in a predictable context. This may be due to internally generated predictions produced during action. The study also found that perceived speed was influenced by an interaction between congruence and    predictability, with spatially congruent motions influencing speed judgments only when action effect contingencies were unpredictable. The results support the hypothesis that self-initiated action effects are perceived differently from effects with an external origin, suggesting that anticipating the consequences of one's actions has a particular functional significance. (Dewey & Carr, 2013).
 
 
@@ -39,7 +66,7 @@ This MEG study investigates the role of voluntary actions in modulating neural a
 - citation: [cite:@ActionlockedNeuralResponses]
 
 
-*** READ Reznik, Henkin, Schadel, Mukamel (2014) Lateralized Enhancement of Auditory Cortex Activity and Increased Sensitivity to Self-Generated Sounds, Nature Communications.
+*** Reznik, Henkin, Schadel, Mukamel (2014) Lateralized Enhancement of Auditory Cortex Activity and Increased Sensitivity to Self-Generated Sounds, Nature Communications.
 
 This paper investigates how the brain processes sounds that are self-generated compared to sounds that are externally generated. The study found that when people produce sounds themselves, there is a stronger response in the auditory cortex of the brain compared to when they hear the same sound produced by someone else. This enhancement is stronger when the sound-producing hand is on the opposite side of the brain from the auditory cortex. The study also found that people are more sensitive to self-generated sounds, and that this effect is stronger in the ear opposite to the sound-producing hand. The results suggest that a corollary discharge sent from the motor cortex during voluntary actions enhances activity in the auditory cortex and increases perceptual sensitivity in a lateralized manner.
 
