@@ -1,0 +1,20 @@
+#+title:      Mechanisms of Intentional Binding and Sensory Attenuation: The Role of Temporal Prediction, Temporal Control, Identity Prediction, and Motor Prediction, Huges 2013
+#+date:       [2023-05-23 Tue 12:30]
+#+filetags:   :bib:review:thesis:
+#+identifier: 20230523T123038
+#+reference:  hughesMechanismsIntentionalBinding20120521
+
+* short summary:
+The authors make the point that most experiments that show sensory attenuation use a contrast between self-generated and externally-generated stimuli, even though this contrast can't distinguish between temporal control and motor identity prediction.
+They suggest other conditions (involving two possible sensory outcomes that may be predictable or unpredictable in both self- and externally- generated conditions) which can be contrasted in order to isolate the specific processes involved.
+
+As for sensory attenuation, it seems to be driven by temporal prediction and control, but also by motor identity prediction: the ability to predict what kind of stimulus, e.g. Which sound, will be presented based on our motor actions.
+It's also strongly influenced by the (belief in the) causal relationship between the action and its consequence, or between the cue and the following stimulus.
+
+The authors say that almost no studies have been able distinguish between the effect of temporal control and motor identity prediction - so we're not really sure if the attenuation results we have are showing an attenuation in processing/perception of /any/ stimulus that we judge to be the consequence of our action (based on timing), or if that attenuation is targeting the specific stimulus that we produced.
+
+* reading notes
+This review is asking specifically about intentional binding and sensory attenuation - are they really caused by the brain's (successful) prediction of the action's effect.
+
+(ideomotor theory) There is a lot of evidence showing that the coding of actions includes the representation of their effects in some way: e.g. actions are slower when they are incongruent with a previously learned effect.
+

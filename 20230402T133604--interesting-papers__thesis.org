@@ -12,7 +12,7 @@ A database of papers I may want to read.
   Daniel and Roy's review of sensorimotor integration
 - figures:
 
-* READ How Movement Modulates Hearing
+* DONE How Movement Modulates Hearing
 - link/cite: https://doi.org/10.1146/annurev-neuro-072116-031215
 - type of paper: review
 - why read it?
@@ -20,9 +20,9 @@ A database of papers I may want to read.
 - figures:
 [cite:@schneiderHowMovementModulates2018]
 
-* READ Mechanisms of intentional binding and sensory attenuation: The role of temporal prediction, temporal control, identity prediction, and motor prediction.
+* DONE Mechanisms of intentional binding and sensory attenuation: The role of temporal prediction, temporal control, identity prediction, and motor prediction.
 Hughes, 2013
-- link/cite: https://doi.org/10.1037/a0028566
+- link/cite: https://doi.org/10.1037/a0028566, [cite:@hughesMechanismsIntentionalBinding20120521]
 - type of paper: review
 - why read it?
 
