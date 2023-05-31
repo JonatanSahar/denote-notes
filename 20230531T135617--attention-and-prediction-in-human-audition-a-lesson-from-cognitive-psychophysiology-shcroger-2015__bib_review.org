@@ -1,0 +1,5 @@
+#+title: Attention and Prediction in Human Audition: A Lesson from Cognitive Psychophysiology, Shcroger 2015
+#+date:       [2023-05-31 Wed 13:56]
+#+filetags:   :bib:review:
+#+identifier: 20230531T135617
+#+reference:  schrogerAttentionPredictionHuman2015
