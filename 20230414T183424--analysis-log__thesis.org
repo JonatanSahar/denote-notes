@@ -19,6 +19,9 @@ Tried to run the analysis for 103 regardless of cropped anatomical scan. Forgot 
 Ran 2nd level on inbal's data (sub 103), as the 1st level looked alright re registration.
 Ran 3rd level (woohoo!) Using subjects 101, 104, 105, 106 - so without inbal for now, waiting on the results to show roy.
 Used https://www.youtube.com/watch?v=nyajZKJ-uwk&list=PLB2iAtgpI4YHlH4sno3i3CUjCofI38a-3&index=16 as instructions.
+Talked to roy and shahar, we said that the results are consistent with the findings on same-hemisphere modulation being stronger than the contralateral case. I said it looks to me like the modulation doesn't seem to related much to the stimulated ear at all. We saw significant activation in the unstimulated auditory cortex.
+
+We said I'll re-run the analysis with all 5 contrasts, and also run the 3rd level auditory-only analysis, so we can see e.g. the activation in the unstimulated cortex without motor action.
 
 * scripts, file names and code snippets
 - for displaying all 1st level or 2nd level GLM for a subject, using fsleyes:
