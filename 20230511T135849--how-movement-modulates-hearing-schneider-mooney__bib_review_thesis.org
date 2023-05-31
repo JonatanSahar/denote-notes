@@ -17,3 +17,5 @@ From electrophysiological recordings it seems that the areas being suppressed ar
 
 (Vocalization)  The modulation of the auditory cortex is predictive, i.e. the modulation is targeting a specific, predicted auditory consequence. We know this because when the sound characteristics of the produced vocalization are changed, then the auditory cortex is excited instead of suppressed (marmosets), or suppressed to a lesser degree (humans).
 The specific attributes of the auditory consequence which is predicted based on motor action are the ones being suppressed through modulation. In humans, the suppression of vocalizations targets the sound of the average utterance of a given word - the more different the utterance is from the average, the less its processing will be affected.
+
+More highlights in the paper file

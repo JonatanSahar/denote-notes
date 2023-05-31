@@ -13,12 +13,19 @@ A database of papers I may want to read.
 - figures:
   [[file:images/_20230404_093725_Bs9HEK.png]]
 
-* READ Motor Planning Modulates Neural Activity Patterns in Early Human Auditory Cortex
-- link/cite: https://academic.oup.com/cercor/article/31/6/2952/6123366
-- type of paper: theoretical
+* DONE How Movement Modulates Hearing
+- link/cite: https://doi.org/10.1146/annurev-neuro-072116-031215
+- type of paper: review
 - why read it?
   shows decoding of active hand from the auditory cortex - unstimulated - even before movement intiation
 - figures:
+[cite:@schneiderHowMovementModulates2018]
+
+* DONE Mechanisms of intentional binding and sensory attenuation: The role of temporal prediction, temporal control, identity prediction, and motor prediction.
+Hughes, 2013
+- link/cite: https://doi.org/10.1037/a0028566, [cite:@hughesMechanismsIntentionalBinding20120521]
+- type of paper: review
+- why read it?
 
 The study found that movement planning influences early sensory areas in the brain. Using fMRI, they showed that specific movement information can be decoded from neural activity in the early auditory cortex before the movement happens. This motor-related information is separate from sensory-related information and is present even when movements are visually cued. The findings suggest that action planning involves modulating sensory areas based on the intended action.
 

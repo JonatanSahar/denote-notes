@@ -1,0 +1,8 @@
+#+title:      Attention and Prediction in Human Audition: A Lesson from Cognitive Psychophysiology, Schroger et al.
+#+date:       [2023-05-24 Wed 09:09]
+#+filetags:   :bib:review:thesis:
+#+identifier: 20230524T090924
+#+reference:  schrogerAttentionPredictionHuman2015a
+
+* reading notes
+Prediction is top-down:from higher levels in the processing hierarchy to lower ones. Attention is gain modulation of the prediction error signal, so bottom-up.
