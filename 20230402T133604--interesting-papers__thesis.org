@@ -32,6 +32,16 @@ The study found that movement planning influences early sensory areas in the bra
 * READ Yon, D., Gilbert, S. J., de Lange, F. P., & Press, C. (2018). Action sharpens sensory representations of expected outcomes. Nature communications, 9(1), 4288.
 [cite:@yonActionSharpensSensory2018 ]
 
+* READ Auditory hemispheric asymmetry as a specialization
+for actions and objects
+- link/cite: https://www.biorxiv.org/content/biorxiv/early/2023/04/19/2023.04.19.537361.full.pdf
+  [cite:@robertAuditoryHemisphericAsymmetry2023]
+- type of paper: study
+- why read it?
+  it proposes that the two hemispheres specialize in different kinds (content) of auditory stimuli
+- figures:
+
+
 * READ papers from litmaps
 [cite:@auditory_korka_2022; @cortical_schneider_2018; @synaptic_schneider_2014; @review_shin_2010; @corollary_crapse_2008; @moving_dogge_2019; @cancelling_press_2023]
 
@@ -235,3 +245,11 @@ The paper discusses sensory attenuation, or the perception of self-generated act
 - figures:
 
 The brain shows less response to self-generated sounds compared to externally generated ones, possibly due to a mechanism that distinguishes the sensory consequence of one's own actions from other sensory input. However, it is unclear how this sensory suppression is related to judgments of agency. Results from the study suggest that N1 amplitude suppression to self-generated sounds is not affected by the timing of an action's effect, and does not influence agency judgments, but the suppression of the P2 component may be more directly related to the experience of agency.
+* READ Going down to go up: understanding human auditory cognition by investigating cortical–subcortical interactions
+
+- link/cite: https://www.sciencedirect.com/science/article/pii/S1364661322002078#bb0005
+  [cite:@zatorreGoingGoUnderstanding2022]
+- type of paper: theoretical
+- why read it?
+  explores the subcortical part of the auditory system and its part in processing
+- figures:

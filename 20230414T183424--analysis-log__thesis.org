@@ -19,21 +19,43 @@ Tried to run the analysis for 103 regardless of cropped anatomical scan. Forgot 
 Ran 2nd level on inbal's data (sub 103), as the 1st level looked alright re registration.
 Ran 3rd level (woohoo!) Using subjects 101, 104, 105, 106 - so without inbal for now, waiting on the results to show roy.
 Used https://www.youtube.com/watch?v=nyajZKJ-uwk&list=PLB2iAtgpI4YHlH4sno3i3CUjCofI38a-3&index=16 as instructions.
+*** 30.5
+Running 101's auditory 1st level again (for 5 copes)
+running 101's 2nd level on audiomotor, waiting to run on auditory.
+Running 3rd level on 101, 104, 105, 106 on audiomotor
+
+Talked with roy about third level analysis, said it's compatible with reznik in terms of ispilateral enhancement of activity ([cite:@reznikEnhancedAuditoryEvoked2015], [cite:@reznikLateralizedEnhancementAuditory2014])
+we saw significant activation in the "unstimulated" auditory cortex.
+He wants to do an active vs. Passive contrast even though they're in different runs. Need to figure out how to do this.
+Currently re-running 101's motor-onl (for 5 copes).
+
+TDOO:
+run 101's motor-only 2nd level
+run motor-only 3rd level.
+
+*** 31.5
+Looking at motor only results, pretty clear that the left hand activates a much wider area of the cortex - probably because when you're an expert (all subs are R handed) you activate the required areas more specifically.
+
+TODO: read papers by bob zattore
 
 * scripts, file names and code snippets
 - for displaying all 1st level or 2nd level GLM for a subject, using fsleyes:
     - checkFirstLevel.py
     - checkSecondLevel.py
 - for creating the 3rd level analysis in FSL:
-    + cope1/2 meaning in 2nd level .gfeat dirs:
-        - In the outer level (which comes from the 1st level analysis):
-                Cope1: the dir of R>L contrasts
-                Cope2: the dir of L>R contrasts
-        - in the inner level:
-                Cope 1 is the mean image itself. So 101_audiomotor_LE_mean.gfeat/cope2.feat/stats/cope1.nii.gz
-                is the mean image of L>R contrast in the LE of subject 101
-    + command:
-          ls /media/user/Data/fmri-data/analysis-output/10[1456]/functional/10*_audiomotor_LE_mean.gfeat/cope2.feat/stats/cope1.nii.gz
+        for CN in `seq 5`; do echo ""; echo ; "cope$CN"; echo "--------"; ls /media/user/Data/fmri-data/analysis-output/10[1456]/functional/*motorLoc_mean.gfeat/cope$CN.feat/stats/cope1.nii.gz; done
+        then paste each block into FSL
+- cope numbers meaning in 2nd level .gfeat dirs:
+    - In the outer level (which comes from the 1st level analysis, each is a directory):
+            Cope1: R>L
+            Cope2: L>R
+            Cope3: R>rest
+            Cope4: L>rest
+            Cope5: L+R>rest (the given ear auditory, while motor action is performed)
+    - in the inner level:
+            Cope1 is the mean image itself.
+            So 101_audiomotor_LE_mean.gfeat/cope2.feat/stats/cope1.nii.gz
+            is the mean image of L>R contrast in the LE of subject 10   1
 
 * prompts for chatgpt etc.:
 - Summarizing and Analysis:
