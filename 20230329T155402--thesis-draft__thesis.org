@@ -5,7 +5,6 @@
 
 * Literature review
 ** Structure
-
 **** I. Introduction
 - Background: Explain the importance of auditory-motor interactions and how they play a crucial role in our ability to perceive and generate actions that create auditory consequences.
 - Significance of studying the effect of hand-ear laterality on auditory processing: Discuss the potential implications of this research for understanding auditory-motor integration mechanisms, and how it could contribute to our knowledge of hemispheric lateralization and multisensory integration.
@@ -14,23 +13,36 @@
   + key findings relating to affector/effector laterality and affector/cortex laterality
 
 **** II. Auditory-motor interactions
-- Theoretical models: Discuss the different theoretical models proposed to explain the interactions between the auditory and motor systems. For example, predictive coding, efference copy, and the mirror neuron system.
+- Briefly review the basic neuroanatomy and neurophysiology of the auditory and motor cortices, and what is known about connections between them. For example, refer to feedforward and feedback mechanisms between the motor and auditory cortices and the role of inhibitory interneurons in the auditory cortex.
+- Theoretical models: Discuss the different theoretical models proposed to explain the interactions between the auditory and motor systems. For example, predictive coding, efference copy, neural sharpening, and the mirror neuron system.
 - Empirical evidence: Summarize key empirical findings about the role of the motor cortex in modulating auditory processing, and how motor information can influence auditory perception and vice versa. Provide examples of studies that have used different methods to explore these interactions, such as neuroimaging, transcranial magnetic stimulation (TMS), and behavioral experiments.
 
 **** III. Hand-ear laterality and its impact on auditory processing
 - Definition of laterality: Define what is meant by the terms contralateral and ipsilateral, and explain how they relate to auditory-motor interactions.
-- Literature review of studies examining the effects of laterality: Summarize findings from previous studies that have investigated the impact of hand-ear laterality on auditory processing. Include studies that have investigated both contralateral and ipsilateral configurations. Provide an overview of the different methods used to measure auditory processing, such as pure-tone audiometry, speech perception tests, and electrophysiological recordings.
+- Literature review of studies examining the impact of hand-ear laterality on auditory processing:
+    + Describe the experimental designs and methodologies used in studies investigating laterality effects, and the different methods used to measure auditory processing, such as pure-tone audiometry, speech perception tests, and electrophysiological recordings.
+    + Summarize and compare the findings of different studies, identifying commonalities and differences in the effect of ipsi- and contralateral hand movements on the auditory system.
+    + Discuss the implications of these findings for our understanding of laterality effects in the auditory-motor system.
 - Evidence for and against the existence of contralateral and ipsilateral differences: Discuss the evidence both for and against the idea that contralateral and ipsilateral configurations may lead to different patterns of auditory-motor interactions. For example, some studies have reported that auditory-motor interactions are stronger when the ear and hand are on the same side, while others have found no difference between contralateral and ipsilateral configurations. Include results pertaining to audiomotor learning.
 
-**** IV. Conclusion
+**** IV. Clinical implications of altered auditory-motor interactions and laterality effects
+- Review the current knowledge on clinical conditions associated with altered auditory-motor interactions.
+- Focus on the laterality effects observed in these conditions, and examine how they could be related to the modulation of the auditory cortex by the motor cortex in a laterality-dependent manner.
+- Highlight potential clinical implications for understanding laterality effects in the auditory-motor system.
+**** V. Conclusion
 - Summary: Briefly summarize the key points discussed in the literature review, including the theoretical and empirical work on auditory-motor interactions, and the evidence for and against the impact of hand-ear laterality on these interactions.
 - Gaps and limitations: Discuss any gaps or limitations in the current understanding of these issues, and suggest areas for future research. For example, it may be important to investigate whether the effects of laterality on auditory-motor interactions vary depending on the type of auditory stimulus or motor action being performed.
 - Relevance to current research: Explain why this literature review is relevant to the current study, and how it informs the research question and hypotheses being tested.
+
 ** Draft
 **** I. Introduction
 **** II. Auditory-motor interactions
+Theoretical models propose that the auditory and motor systems are highly interconnected, allowing for a close interaction between these two systems. One of the theoretical models is predictive coding, which suggests that the motor system generates a prediction of sensory inputs that the auditory system will receive, and the auditory system uses this prediction to optimize its processing. Efference copy proposes that the motor system sends a copy of the command to move a body part to the auditory system, allowing it to distinguish between self-generated and external sounds. The mirror neuron system suggests that the motor system is involved in the perception of action and allows for imitation and learning of new movements.
+
+Empirical evidence supports the role of the motor cortex in modulating auditory processing. For example, studies using neuroimaging and TMS have shown increased activation or disruption of the motor cortex resulting in changes in auditory processing. Behavioral studies have also shown that motor information can influence auditory perception and vice versa, such as when lip-reading improves speech perception or when musical training enhances motor skills. Overall, the empirical evidence suggests that auditory-motor interactions are complex and dynamic, with both systems influencing each other.
 **** III. Hand-ear laterality and its impact on auditory processing
 **** IV. Conclusion
+
 * Methods
 ** Subjects
 Thirty-three participants were recruited, all of them healthy, right handed (self-reported, Edinburgh Handedness Inventory),

@@ -1,0 +1,40 @@
+#+title:      Theory of Event Coding (TEC) V2.0: Representing and Controlling Perception and Action, Hommel 2019
+#+date:       [2023-05-31 Wed 16:04]
+#+filetags:   :bib:
+#+identifier: 20230531T160412
+#+reference:  hommelTheoryEventCoding2019a
+
+Can you say what does TEC imply about the processing of the consequences of one's own action ?
+
+The Theory of Event Coding (TEC) proposes that the processing of the consequences of one's own action relies on similar representational mechanisms as the processing of the perception of external events. This includes the overlap of neural codes between perception, action, and their consequences, allowing for efficient processing and integration of information.
+
+So there's no difference between processing an external stimulus and one that is self-generated
+
+According to TEC, the processing of self-generated stimuli relies on similar representational mechanisms as the processing of external stimuli. However, there may still be differences in the neural activity patterns and in the way the brain attributes causality to self-generated vs. externally generated events. Overall, TEC suggests that perception, action, and their consequences are tightly linked in the brain, regardless of the source of the inputs.
+
+Are you familiar with the idea of efference copy in the context of sensory processing of motor action consequences?
+
+
+Yes, I am familiar with the concept of efference copy in the context of sensory processing of motor action consequences. Efference copy is a type of internal motor signal that is sent to sensory areas of the brain to predict the expected sensory consequences of an upcoming motor action. This prediction allows the brain to distinguish between sensory signals that are self-generated and those that are externally generated, and ultimately contributes to our sense of agency over our own actions. The idea of efference copy is closely related to the TEC, as they both suggest that the brain uses internal predictive models to integrate sensory and motor information.
+
+ What are the differences between efference copy and the ideas of TEC?
+
+
+Efference copy and TEC are related concepts, but they differ in their focus and the level of processing they describe.
+
+Efference copy is a specific type of internal motor signal that is sent to sensory areas of the brain to predict the expected sensory consequences of an upcoming motor action. The efference copy signal is used to cancel out the expected sensory feedback from a self-generated action, so that the brain can distinguish between sensory signals that are self-generated and those that come from the external environment.
+
+TEC, on the other hand, is a broad theory of how perception, action, and their consequences are represented and processed in the brain. TEC suggests that there is an overlap of neural codes between perception, action, and their consequences, allowing for efficient processing and integration of information. TEC proposes that sensory and motor representations are tightly linked in the brain, and that the brain uses internal models to predict the expected sensory consequences of an action.
+
+So while efference copy is a specific type of internal motor signal, TEC is a more general theory about how perception and action are processed and integrated in the brain, including the processing of sensory consequences of motor actions.
+
+Yes, but it seems to me that there is still a significant difference with regards to the mechanism of the modulation of perception/processing by action: if under TEC there is a common coding between an action and its consequences, then it sound to me like the modulation of perception is somehow more immediate and "gestalt", while efference copy seems to imply a more linear order of events
+
+
+You are correct that there is a difference in the mechanism of the modulation of perception/processing by action between TEC and efference copy.
+
+TEC proposes a common coding between an action and its consequences, which allows for an immediate and holistic modulation of perception and processing. In other words, the neural representation of an action and its sensory consequences are closely linked and processed together, allowing for rapid and efficient integration of information.
+
+Efference copy, on the other hand, involves a more linear order of events. The efference copy signal is sent before the motor command is executed, allowing the brain to predict the expected sensory consequences of an upcoming motor action. This prediction is then used to cancel out the expected sensory feedback from a self-generated action and distinguish it from external sensory input.
+
+So while both TEC and efference copy involve the modulation of perception/processing by action, they differ in the level of processing and the timing of the signal. TEC proposes a more immediate and holistic integration of sensory and motor information, while efference copy involves a predictive signal sent before the motor command is executed.
