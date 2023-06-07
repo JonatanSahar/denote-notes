@@ -11,7 +11,6 @@
 - why read it?
   Daniel and Roy's review of sensorimotor integration
 - figures:
-
 *** DONE How Movement Modulates Hearing
 - link/cite: https://doi.org/10.1146/annurev-neuro-072116-031215
 - type of paper: review
@@ -19,7 +18,6 @@
   David schneider
 - figures:
 [cite:@schneiderHowMovementModulates2018]
-
 *** DONE Mechanisms of intentional binding and sensory attenuation: The role of temporal prediction, temporal control, identity prediction, and motor prediction.
 Hughes, 2013
 - link/cite: https://doi.org/10.1037/a0028566
@@ -29,22 +27,6 @@ Hughes, 2013
 - figures:
 
 This review article focuses on the sensory processing of action effects and how it differs from the processing of externally triggered stimuli. The article discusses intentional binding and sensory attenuation and their attribution to forward action models. The review systematically investigates the role of temporal prediction, temporal control, identity prediction, and motor prediction in previous reports of sensory attenuation and intentional binding. The authors propose avenues for future research to better understand the role of motor prediction in processing voluntary action effects and how these phenomena fit within a general predictive processing framework. The article also highlights the implications of this research for understanding disorders of agency in schizophrenia.
-
-** DONE Attention and prediction in human audition: a lesson from cognitive psychophysiology
-- link/cite: https://onlinelibrary.wiley.com/doi/10.1111/ejn.12816
-- type of paper: review/theoretical
-- why read it?
-  Centers on audition, relevant to prediction, predictive coding
-- figures:
-  [[file:images/_20230404_093725_Bs9HEK.png]]
-
-temporal prediction, temporal control, identity prediction, and motor prediction.
-Hughes, 2013
-- link/cite: https://doi.org/10.1037/a0028566, [cite:@hughesMechanismsIntentionalBinding20120521]
-- type of paper: review
-- why read it?
-
-The study found that movement planning influences early sensory areas in the brain. Using fMRI, they showed that specific movement information can be decoded from neural activity in the early auditory cortex before the movement happens. This motor-related information is separate from sensory-related information and is present even when movements are visually cued. The findings suggest that action planning involves modulating sensory areas based on the intended action.
 
 * Action modulates perception
 *** Cardoso-Leite, P., Mamassian, P., Schütz-Bosbach, S., & Waszak, F. (2010). A new look at sensory attenuation: Action-effect anticipation affects sensitivity, not response bias. Psychological science, 21(12), 1740-1745.
@@ -174,6 +156,7 @@ In the study by Yon, Gilbert, de Lange, & Press (2018), the authors investigated
     • An fMRI experiment was conducted to distinguish between these models. It involved participants executing hand actions while observing movements of an avatar hand.
     •  Results showed that visual representations were classified more accurately when congruent with the action being executed, indicating sharpening rather than cancellation of expected sensory signals.
     • This supports a Bayesian model for sensorimotor prediction in which veridical perception is facilitated by sharper representation of anticipated outcomes.
+
 
 
 * Modulation works via an effernce copy

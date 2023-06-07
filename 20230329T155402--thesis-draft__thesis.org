@@ -12,6 +12,7 @@
   + key findings relating to the differences from externally generated stimuli
   + key findings relating to affector/effector laterality and affector/cortex laterality
 
+
 **** II. Auditory-motor interactions
 - Briefly review the basic neuroanatomy and neurophysiology of the auditory and motor cortices, and what is known about connections between them. For example, refer to feedforward and feedback mechanisms between the motor and auditory cortices and the role of inhibitory interneurons in the auditory cortex.
 - Theoretical models: Discuss the different theoretical models proposed to explain the interactions between the auditory and motor systems. For example, predictive coding, efference copy, neural sharpening, and the mirror neuron system.
@@ -29,6 +30,7 @@
 - Review the current knowledge on clinical conditions associated with altered auditory-motor interactions.
 - Focus on the laterality effects observed in these conditions, and examine how they could be related to the modulation of the auditory cortex by the motor cortex in a laterality-dependent manner.
 - Highlight potential clinical implications for understanding laterality effects in the auditory-motor system.
+
 **** V. Conclusion
 - Summary: Briefly summarize the key points discussed in the literature review, including the theoretical and empirical work on auditory-motor interactions, and the evidence for and against the impact of hand-ear laterality on these interactions.
 - Gaps and limitations: Discuss any gaps or limitations in the current understanding of these issues, and suggest areas for future research. For example, it may be important to investigate whether the effects of laterality on auditory-motor interactions vary depending on the type of auditory stimulus or motor action being performed.
@@ -36,10 +38,23 @@
 
 ** Draft
 **** I. Introduction
+/Background: the importance of auditory-motor interactions, how they play a crucial role in our ability to perceive and generate actions that create auditory consequences./
+- motor action is the basis for our interaction with the world
+- motor learning is basic and crucial
+- motor learning is a process of sensorimotor integration
+- sensorimotor integration requires and implies differential processing of self generated vs externally generated stimuli
+- this has been suggested and shown to rely on interactions between the motor system and the various sensory systems.
+
+Motor action is arguably at the basis of all of our interactions with the world: moving through our environment, manipulating it, speaking and even our directing our gaze to take in our surroundings. Motor learning, is therefore an essential process, basic to our existence and our experience as leaving things. Motor learning it turn is a process of sensorimotor integration - the ability of the CNS to match synchronize our actions and their perceived sensory consequences.
+The current understanding is/research over the past couple of decades suggests that the motor system and the various sensory systems are closely intertwined: it's been suggested that motor cortex activation is paramount in our understanding of observed action via the mirror neurons system,
+
 **** II. Auditory-motor interactions
 Theoretical models propose that the auditory and motor systems are highly interconnected, allowing for a close interaction between these two systems. One of the theoretical models is predictive coding, which suggests that the motor system generates a prediction of sensory inputs that the auditory system will receive, and the auditory system uses this prediction to optimize its processing. Efference copy proposes that the motor system sends a copy of the command to move a body part to the auditory system, allowing it to distinguish between self-generated and external sounds. The mirror neuron system suggests that the motor system is involved in the perception of action and allows for imitation and learning of new movements.
 
 Empirical evidence supports the role of the motor cortex in modulating auditory processing. For example, studies using neuroimaging and TMS have shown increased activation or disruption of the motor cortex resulting in changes in auditory processing. Behavioral studies have also shown that motor information can influence auditory perception and vice versa, such as when lip-reading improves speech perception or when musical training enhances motor skills. Overall, the empirical evidence suggests that auditory-motor interactions are complex and dynamic, with both systems influencing each other.
+- current understanding is that the motor system and the various sensory systems are closely intertwined, and it's also involved in our semantic representation of actions, both planned and perceived.
+- mirror neurons are thought to facilitate/stand at the basis of our ability to understand others' actions
+- TEC theorizes and there is experimental support to the idea that action consequences share an underlying neural code/activation with the motor plan/command that engenders them.
 **** III. Hand-ear laterality and its impact on auditory processing
 **** IV. Conclusion
 
