@@ -17,7 +17,7 @@ Motor action is arguably at the basis of all of our interactions with the world:
 The current understanding is/research over the past couple of decades suggests that the motor system and the various sensory systems are closely intertwined: it's been suggested that motor cortex activation is paramount in our understanding of observed action via the mirror neurons system,
 TODO: complete.
 
-There are findings showing both attenuation and enhancement, this study hope to add to our understanding of why that is so.
+There are findings showing both attenuation and enhancement (TODO: add citations), this study hope to add to our understanding of why that is so.
 ***** why is it important to study laterality?
 + the motor and auditory systems are both lateralized, so laterality may make a difference
 + structural effects of shorter neural path between areas in the same hemisphere
