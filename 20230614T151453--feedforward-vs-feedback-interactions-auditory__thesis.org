@@ -1,0 +1,7 @@
+#+title:      Feedforward vs feedback interactions (auditory)
+#+date:       [2023-06-14 Wed 15:14]
+#+filetags:   :thesis:
+#+identifier: 20230614T151453
+
+Feedforward interactions often involve/rely on prediction. These are situations where motor action is modulated or planned so as to match a desired sensory effect. For example - tapping your foot to the beat.
+Feedback interactions are those where reafferent auditory feedback guides alterations and adjustments in motor actions.

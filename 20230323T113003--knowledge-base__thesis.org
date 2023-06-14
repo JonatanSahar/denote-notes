@@ -99,7 +99,7 @@ This paper investigates how the brain processes sounds that are self-generated c
 - link/cite: https://www.nature.com/articles/s41467-017-02038-6
 - type of paper: study
 - why read it?
-  it talks about predictive coding in the auditory pathway, and shows a "gradient" of the part of prediction and prediction error along the pathway. talking about the balance or interplay of prediction and low level input, bottom-up vs top-down
+  It talks about predictive coding in the auditory pathway, and shows a "gradient" of the part prediction and prediction error play along the pathway. Talking about the balance or interplay of prediction and low level input, bottom-up vs top-down
 - figures:
 
 The study investigated how single neurons in the auditory pathways of rats and mice respond to sequences of sounds, focusing on the aspect of predictive coding. Main findings of the study were:
@@ -118,6 +118,14 @@ The study investigated how single neurons in the auditory pathways of rats and m
 
 The significance of these findings is manifold. Firstly, they provide evidence for the predictive coding framework within the auditory processing, wherein the brain is constantly making predictions about sensory input and adjusting based on the error between prediction and actual input. Secondly, the identification of hierarchical organization of predictive coding in auditory pathways sheds light on the complexity of auditory perception and processing. Lastly, by establishing and validating rodent models for studying predictive coding and mismatch responses, the findings open avenues for further research into the cellular mechanisms of neural disorders characterized by deficits in predictive coding, such as schizophrenia. This can have important implications for translational neuroscience and the development of treatments for such disorders.
 * laterality in the auditory system
+** SKIM Auditory hemispheric asymmetry as a specialization for actions and objects
+- link/cite: https://www.biorxiv.org/content/10.1101/2023.04.19.537361v1
+- type of paper: theoretical
+- why read it?
+  in depth discussion lateral differenced in auditory processing
+- figures:
+
+it discusses the idea and supporting evidence that the two hemispheres specialize in processing different aspects of an auditory stimulus, namely temporal vs frequecy-domain features, and derived from that - specialize in processing and recognizing object sounds and action sounds.
 * Action modulates processing
 *** Kavroulakis, E., van Kemenade, B. M., Arikan, B. E., Kircher, T., & Straube, B. (2022). The effect of self‐generated versus externally generated actions on timing, duration, and amplitude of blood oxygen level dependent response for visual feedback processing. Human Brain Mapping, 43(16), 4954-4969.
 The study investigated the effect of self-generated versus externally generated actions on the timing, duration, and amplitude of the blood oxygen level dependent (BOLD) response for visual feedback processing (Kavroulakis et al., 2022). The authors found that self-generated movements resulted in earlier and shorter BOLD responses in multiple brain structures, including visual and somatosensory cortical areas, the cerebellum, basal ganglia, and thalamus. This indicates that the efference copy-based predictive mechanisms enabled earlier processing of action feedback in self-generated movements. The results also showed that the BOLD duration was shorter in cortical and subcortical brain regions in self-generated movements, which was correlated with reduced delay detection performance. The authors concluded that the timing and duration of BOLD responses are important to predict and understand human behavior, and that their results shed new light on the cortico-cerebellar-striatal loops involved in predictive perception of the visual feedback of one's own hand movements.

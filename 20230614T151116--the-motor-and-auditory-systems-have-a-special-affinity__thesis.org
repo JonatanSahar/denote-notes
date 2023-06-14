@@ -1,0 +1,7 @@
+#+title:      The motor and auditory systems have a special affinity
+#+date:       [2023-06-14 Wed 15:11]
+#+filetags:   :thesis:
+#+identifier: 20230614T151116
+
+For example, it's natural to tap one's foot to a musical beat, but not to a rhythmic visual event, such as a bouncing ball, suggesting a priviliged link between auditory and motor systems in the time domain.
+From [cite:@zatorreWhenBrainPlays2007]

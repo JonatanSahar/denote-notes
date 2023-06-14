@@ -1,0 +1,6 @@
+#+title:      The right hemisphere preferentially processes tones
+#+date:       [2023-06-14 Wed 15:06]
+#+filetags:   :thesis:
+#+identifier: 20230614T150600
+
+From [cite:@zatorreWhenBrainPlays2007], maybe because [[denote:20230614T114916][auditory cortex responses are laterlized based on the type of salient acoustic features]], and may be because of further specialization in abstract knowledge domains such as language (not mutually exclusive).
