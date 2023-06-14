@@ -1,0 +1,13 @@
+#+title:      Neurons along the Auditory Pathway Exhibit a Hierarchical Organization of Prediction Error, Parras 2017
+#+date:       [2023-06-13 Tue 15:55]
+#+filetags:   :bib:thesis:
+#+identifier: 20230613T155540
+#+reference:  parrasNeuronsAuditoryPathway2017
+
+
+The authors examined the response to an oddball paradigm along the auditory pathway in mice.
+They found that as they progressed to higher-level regions, and especially comparing the lemniscal to non-lemniscal pathway, that the proportion of the response which was explained by prediction error increased.
+Unsure how they measured this - how is prediction error measured?
+
+/"The response patterns we observed confirm that subcortical, first-order nuclei are mostly sensitive to global or pattern probability generated in the classical oddball paradigm, while higher levels are more sensitive to local relationships between sounds (transitional probabilities), exactly as observed in human MMN studies42,46. Thus, our data are consistent with a passive stimulusspecific adaptation underlying oddball responses in the lemniscal midbrain and thalamus26,47. By contrast, the responses we observe in high-order regions support a generative mechanism of Bayesian inference being at play in auditory cortex and highorder subcortical stations of perceptual processing3. The contrast between first-order and high-order neuronal mismatch is particularly clear within the auditory thalamus. Responses to the deviant condition are more adapted than to the cascade sequence condition, exactly as predicted by the SSA model in narrow frequency channels26. However, median of the index of neuronal prediction error is significantly positive at the high-order thalamus, indicating actual prediction error. Thus, in the case of prediction error, we have shown that the higher-order midbrain and thalamus behave like the auditory cortex. It is likely that the enhancement of responses to deviant tones seen at subcortical levels is modulated, at least in part, by top–down cortical influences48– 51, and this is precisely what the hierarchical predictive coding framework would suggest12, 51. Indeed, the lower levels of prediction error seen in the high-order midbrain in the anesthetized preparation, as compared to the awake condition, suggests that descending connections play a role deviance detection, and are therefore reduced by anesthesia."/
+

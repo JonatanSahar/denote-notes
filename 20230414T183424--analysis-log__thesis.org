@@ -33,6 +33,9 @@ Looking at motor only results, pretty clear that the left hand activates a much 
 
 TODO: read papers by bob zattore
 
+*** 2.6
+After running looking at the motor only and auditory only, it's pretty clear that the audiomotor condition, at this time and using GLM, doesn't differentially activate the auditory cortex
+
 * scripts, file names and code snippets
 - for displaying all 1st level or 2nd level GLM for a subject, using fsleyes:
     - checkFirstLevel.py
