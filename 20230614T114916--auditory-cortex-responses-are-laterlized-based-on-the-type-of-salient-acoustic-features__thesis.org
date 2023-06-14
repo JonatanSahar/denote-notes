@@ -1,0 +1,9 @@
+#+title:      auditory cortex responses are laterlized based on the type of salient acoustic features
+#+date:       [2023-06-14 Wed 11:49]
+#+filetags:   :thesis:
+#+identifier: 20230614T114916
+
+Since [[denote:20230614T110012][The left and right auditory cortices are structurally different]], each is better suited for processing different aspects of auditory stimuli: the left hemisphere preferentially processes temporal changes, while the right hemisphere preferentially processes spectral changes (i.e. differences in frequencies)
+
+/"Accordingly, in humans, varying acoustic stimuli independently in temporal or spectral dimensions differentially drive auditory responses in the left and right hemispheres, respectively. This phenomenon is observed whether the stimuli are pure-tone sequences alternating in pitch at different temporal rates (Zatorre & Belin, 2001; Jamison et al., 2006), systematically varying noise bands in spectral width and temporal rate of change (Schönwiesner et al., 2005), or concatenated narrowband noise stimuli varying in segment transition rates (Boemio et al., 2005). The asymmetric pattern observed is consistently lateralized to the left for temporal variations and to the right for spectral variations."/
+From [cite:@robertAuditoryHemisphericAsymmetry2023]

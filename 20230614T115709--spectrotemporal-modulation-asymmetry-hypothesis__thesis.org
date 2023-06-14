@@ -1,0 +1,11 @@
+#+title:      spectrotemporal modulation asymmetry hypothesis
+#+date:       [2023-06-14 Wed 11:57]
+#+filetags:   :thesis:
+#+identifier: 20230614T115709
+
+This theory argues that the left hemisphere is capable of integrating a wide range of
+temporal modulations, ranging from slow to fast, but has a limited ability to integrate
+high spectral modulations. In contrast, its right homolog can integrate a wide range of
+spectral modulations, ranging from low to high, but only slow temporal modulations
+(Flinker et al., 2019; Figure 1A).
+It explains the fact that [[denote:20230614T114916][auditory cortex responses are laterlized based on the type of salient acoustic features]].

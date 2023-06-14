@@ -1,0 +1,20 @@
+#+title:      The left and right auditory cortices are structurally different
+#+date:       [2023-06-14 Wed 11:00]
+#+filetags:   :thesis:
+#+identifier: 20230614T110012
+
+The left auditory cortex exhibits faster action potential transmission which is expressed as a greater temporal resolution/shorter temporal integration windows. This is based on the following structural differences:
+
+- The left auditory cortex is larger than the right auditory cortex.
+- The left auditory cortex has larger layer III magno-pyramidal cells.
+- The left auditory cortex has a higher density of dendrites, axons, and synaptic contacts.
+- The left auditory cortex has a larger width and number of cortical micro-columns.
+- The left auditory cortex has more widely spaced apart micro-columns.
+- The left auditory cortex has less inter-connected macro-columns.
+- The left auditory cortex has more developed myelination.
+- The left auditory cortex has a different network configuration and embedding within the connectome.
+  (from [cite:@robertAuditoryHemisphericAsymmetry2023])
+
+
+* see also:
+[[denote:20230614T111724][#laterality]]
