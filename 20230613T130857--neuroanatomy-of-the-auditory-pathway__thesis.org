@@ -1,0 +1,17 @@
+#+title:      neuroanatomy of the auditory pathway
+#+date:       [2023-06-13 Tue 13:08]
+#+filetags:   :thesis:
+#+identifier: 20230613T130857
+
+** general anatomical pathway
+Input from the cochlea enters the central nervous system via the auditory nerve (AN) and synapses at the cochlear nucleus (CN). After connecting through the superior olivary complex (not shown), fibers ascend contralaterally to the inferior colliculus (IC) of the midbrain. From there, connections proceed to the medial geniculate body (MGB) within the thalamus and thence to the auditory cortex (AC). Prominent efferent outputs also descend from higher to lower levels of the auditory hierarchy.
+[[file:c:/Users/Jonathan/notes/images/20230613T130857--neuroanatomy-of-the-auditory-pathway__thesis.org_20230613_131305_s9kZbH.png]]
+Drawing by E.B.J. Coffey, used with permission (© 2022 Emily B.J. Coffey).
+
+** what's lemniscal in the context of the auditory system in the brain?
+
+"Lemniscal" refers to a specific pathway within the auditory system of the brain that is involved in processing sound information from the cochlea to the auditory cortex.
+
+The auditory system is often divided into two main pathways: the "lemniscal" pathway and the "non-lemniscal" pathway. The lemniscal pathway is the main route for transmitting sound information from the cochlea to the cerebral cortex. It includes the cochlear nucleus, superior olivary complex, and the inferior colliculus, and terminates in the primary auditory cortex.
+
+The lemniscal pathway is called so because it primarily transmits "tonotopically organized" information, which means that different frequencies of sound are processed in different areas along the pathway. This pathway is responsible for processing the basic features of sound, such as frequency and intensity, and is involved in sound localization and speech perception. In contrast, the non-lemniscal pathway is involved in processing more complex aspects of sound, such as the emotional valence of a sound or its relevance to the listener.
