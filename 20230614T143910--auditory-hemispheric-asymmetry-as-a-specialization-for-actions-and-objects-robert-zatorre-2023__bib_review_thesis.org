@@ -1,0 +1,19 @@
+#+title:      Auditory Hemispheric Asymmetry as a Specialization for Actions and Objects, Robert & Zatorre 2023
+#+date:       [2023-06-14 Wed 14:39]
+#+filetags:   :bib:review:thesis:
+#+identifier: 20230614T143910
+#+reference:  robertAuditoryHemisphericAsymmetry2023
+The main points regarding the difference between the left and right hemisphere auditory processing, as outlined in the research paper, are as follows:
+
+1. *Asymmetrical Processing*: The research proposes that the identification of sound sources relies on two complementary acoustic invariants — actions and objects — that are processed asymmetrically in the brain. This means that the left and right hemispheres of the brain process these invariants differently.
+
+2. *Temporal and Spectral Modulations*: Environmental sounds are an independent combination of purely temporal and spectral acoustic modulations. Temporal modulations are related to changes in sound over time, while spectral modulations are related to changes in frequency.
+
+3. *Discrimination of Actions and Objects*: The research found that the discrimination of actions relied on temporal modulations, while the discrimination of objects relied on spectral modulations. This suggests that the two hemispheres process different aspects of sound.
+
+4. *Decoding in Left and Right Hemispheres*: Functional magnetic resonance imaging (fMRI) data showed that actions and objects are respectively decoded in the left and right hemispheres. This indicates that the left hemisphere is more involved in processing actions (temporal modulations), while the right hemisphere is more involved in processing objects (spectral modulations).
+
+5. *Efficient Categorization*: This asymmetry in processing supports the efficient categorization of actions and objects. It reflects a generic differential processing, through differential neural sensitivity to temporal and spectral modulations present in all environmental sounds.
+
+* see also:
+ [[denote:20230614T111724][#laterality]]

@@ -5,7 +5,31 @@
 
 A database of papers I may want to read.
 
-* DONE A review of contemporary ideomotor theory.
+* DONE Attention and prediction in human audition: a lesson from cognitive psychophysiology
+- link/cite: https://onlinelibrary.wiley.com/doi/10.1111/ejn.12816
+- type of paper: review/theoretical
+- why read it?
+  Centers on audition, relevant to prediction, predictive coding
+- figures:
+  [[file:images/_20230404_093725_Bs9HEK.png]]
+
+* DONE How Movement Modulates Hearing
+- link/cite: https://doi.org/10.1146/annurev-neuro-072116-031215
+- type of paper: review
+- why read it?
+  shows decoding of active hand from the auditory cortex - unstimulated - even before movement intiation
+- figures:
+[cite:@schneiderHowMovementModulates2018]
+
+* DONE Mechanisms of intentional binding and sensory attenuation: The role of temporal prediction, temporal control, identity prediction, and motor prediction.
+Hughes, 2013
+- link/cite: https://doi.org/10.1037/a0028566, [cite:@hughesMechanismsIntentionalBinding20120521]
+- type of paper: review
+- why read it?
+
+The study found that movement planning influences early sensory areas in the brain. Using fMRI, they showed that specific movement information can be decoded from neural activity in the early auditory cortex before the movement happens. This motor-related information is separate from sensory-related information and is present even when movements are visually cued. The findings suggest that action planning involves modulating sensory areas based on the intended action.
+
+* NEXT A review of contemporary ideomotor theory.
 - link/cite: https://doi.org/10.1037/a0020541
 - type of paper: review
 - why read it?
@@ -55,7 +79,7 @@ for actions and objects
 
 This paper investigates how motor-related signals from the motor cortex influence auditory cortical activity in mice, and the synaptic and circuit mechanisms underlying this interplay. The research findings suggest that a subset of neurons in the secondary motor cortex that innervate the auditory cortex and are active during movement drive motor-related changes in auditory cortical dynamics, likely facilitating hearing and auditory-guided behaviors. The study used in vivo intracellular recordings and optogenetics in mice.
 
-* READ Ideomotor Action Control: On The Perceptual Grounding Of Voluntary Actions And Agents
+* Read Ideomotor Action Control: On The Perceptual Grounding Of Voluntary Actions And Agents
 - Link/Cite: Https://Scholar.Google.Com/Scholar_lookup?Title=Ideomotor%20action%20control%3a%20on%20the%20perceptual%20grounding%20of%20voluntary%20actions%20and%20agents&Doi=10.7551%2fmitpress%2f9780262018555.003.0005&Publication_year=2013&Author=Hommel%2cb
 - Type Of Paper: Theoretical
 - Why Read It?
@@ -126,6 +150,15 @@ The study explores the neural mechanisms that allow us to distinguish sounds tha
   An electrophysiological basis for prediction of self-generated sounds (in mice)
 - figures:
   This paper discusses a study that explores the neural responses in the auditory cortex of mice to self-generated sounds and the accuracy of predicting both sensory features and timing of self-generated stimuli, as well as identifying distinct populations of auditory cortical neurons with movement, expectation, and error signals consistent with a learned internal model linking an action to its specific acoustic outcome.
+
+*  Expectation in perceptual decision making: neural and computational mechanisms
+- link/cite: https://doi.org/10.1038/nrn3838
+- type of paper: theoretical
+- why read it?
+  A theoretical discussion of the effect of expectation on perception (visual)
+- figures:
+
+The article discusses how expectations based on structure in sensory signals facilitate decision-making in visual perception, and explores the ways in which expectations modulate neural signals and behavior in humans and primates. It considers how expectations bias visual activity and how neural signals differ between expected and unexpected stimuli. The article also discusses how expectations may influence decision signals and their relationship with attention and adaptation.
 
 *  The temporal dynamics of the perceptual consequences of action-effect prediction
 
@@ -229,33 +262,3 @@ The paper discusses sensory attenuation, or the perception of self-generated act
 - figures:
 
 The brain shows less response to self-generated sounds compared to externally generated ones, possibly due to a mechanism that distinguishes the sensory consequence of one's own actions from other sensory input. However, it is unclear how this sensory suppression is related to judgments of agency. Results from the study suggest that N1 amplitude suppression to self-generated sounds is not affected by the timing of an action's effect, and does not influence agency judgments, but the suppression of the P2 component may be more directly related to the experience of agency.
-*  Expectation in perceptual decision making: neural and computational mechanisms
-- link/cite: https://doi.org/10.1038/nrn3838
-- type of paper: theoretical
-- why read it?
-  A theoretical discussion of the effect of expectation on perception (visual)
-- figures:
-
-The article discusses how expectations based on structure in sensory signals facilitate decision-making in visual perception, and explores the ways in which expectations modulate neural signals and behavior in humans and primates. It considers how expectations bias visual activity and how neural signals differ between expected and unexpected stimuli. The article also discusses how expectations may influence decision signals and their relationship with attention and adaptation.
-* SKIM Neurons along the auditory pathway exhibit a hierarchical organization of prediction error
-- link/cite: https://www.nature.com/articles/s41467-017-02038-6
-- type of paper: study
-- why read it?
-  it talks about predictive coding in the auditory pathway, and shows a "gradient" of the part of prediction and prediction error along the pathway. talking about the balance or interplay of prediction and low level input, bottom-up vs top-down
-- figures:
-
-The study investigated how single neurons in the auditory pathways of rats and mice respond to sequences of sounds, focusing on the aspect of predictive coding. Main findings of the study were:
-
-1. **Prediction Error is Hierarchical**: The neural responses associated with prediction error (when the brain's prediction does not match the actual sensory input) are organized hierarchically along the auditory pathway. The prediction error signals start being detectable in subcortical regions and progressively increase as the signals ascend towards the auditory cortex.
-
-2. **Correlation with Large-Scale Mismatch Responses**: The predictive activity of the neurons correlates with large-scale mismatch responses such as the Mismatch Negativity (MMN), which is a well-known neurological phenomenon observed when an auditory stimulus deviates from an expected pattern.
-
-3. **Involvement of Higher-order Regions**: The study highlights the involvement of higher-order auditory regions in predictive processes, with non-lemniscal (higher-order) divisions showing greater prediction error compared to lemniscal (first-order) divisions.
-
-4. **Influence from Prefrontal Cortices**: The study suggests that the prefrontal cortex might play a role in the generation of predictive activity, which is consistent with other human studies.
-
-5. **Generative Mechanism at Higher Levels**: While lower levels (subcortical, first-order nuclei) seemed to be mainly sensitive to global patterns, higher levels appeared to use a generative mechanism of Bayesian inference for processing the sounds.
-
-6. **Cross-Modal Generalization**: The study mentions that similar predictive activities have been found in other sensory modalities, suggesting a generalized predictive coding mechanism across different senses.
-
-The significance of these findings is manifold. Firstly, they provide evidence for the predictive coding framework within the auditory processing, wherein the brain is constantly making predictions about sensory input and adjusting based on the error between prediction and actual input. Secondly, the identification of hierarchical organization of predictive coding in auditory pathways sheds light on the complexity of auditory perception and processing. Lastly, by establishing and validating rodent models for studying predictive coding and mismatch responses, the findings open avenues for further research into the cellular mechanisms of neural disorders characterized by deficits in predictive coding, such as schizophrenia. This can have important implications for translational neuroscience and the development of treatments for such disorders.

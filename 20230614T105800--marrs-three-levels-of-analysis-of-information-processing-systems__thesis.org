@@ -1,0 +1,16 @@
+#+title:      Marr's three levels of analysis (of information processing systems)
+#+date:       [2023-06-14 Wed 10:58]
+#+filetags:   :thesis:
+#+identifier: 20230614T105800
+
+David Marr, in his influential book "Vision: A Computational Investigation into the Human Representation and Processing of Visual Information" published in 1982, proposed three levels of analysis for understanding vision systems. These levels are often referred to as Marr's levels of analysis. They are:
+
+1. Computational Level: This level focuses on the overall goals and functions of a vision system. It addresses questions such as what the system is trying to achieve and why. At this level, Marr was interested in understanding the problem that vision solves, the nature of the input and output representations, and the constraints and requirements of the task.
+
+2. Algorithmic Level: This level deals with the specific algorithms and representations that enable the vision system to achieve its computational goals. It explores the question of how the system performs its computations. Marr sought to identify the intermediate representations, transformations, and processes that underlie visual perception.
+
+3. Implementational Level: This level is concerned with the physical implementation of the vision system, including the neural mechanisms and hardware required to execute the algorithms proposed at the algorithmic level. It examines the biological, neural, or computational architecture that supports the algorithms and representations.
+
+Marr argued that these three levels are necessary for a comprehensive understanding of any information processing system, including vision. He believed that each level contributes unique insights and that a full explanation of a system requires addressing all three levels of analysis.
+
+It is worth noting that Marr's framework has been influential not only in the study of vision but also in other domains of cognitive science, providing a systematic way to analyze complex information processing systems.
