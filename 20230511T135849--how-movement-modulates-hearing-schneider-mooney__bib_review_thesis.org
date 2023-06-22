@@ -11,8 +11,8 @@ Since the auditory consequences of our actions are so varied, the canceling-type
 
 the auditory cortex receives a wide array of nonauditory afferents, including top-down inputs from frontal cortical regions important to motor planning and bottom-up inputs from neuromodulatory cell groups that facilitate experience-dependent auditory cortical plasticity.
 
-There is evidence that the auditory cortex is the region where self-generated other-generated vocalizations.
 The suppression of activation in the auditory cortex is heterogeneous - some areas show extensive suppression while others not so much. This implies that the source of the suppressing signal is cortical, rather than a general filter applied somewhere in the periphery.
+
 From electrophysiological recordings it seems that the areas being suppressed are the non-core areas - the belt and the parabelt, and that A1 responds relatively the same for self- vs other-generated vocalizations.
 
 (Vocalization)  The modulation of the auditory cortex is predictive, i.e. the modulation is targeting a specific, predicted auditory consequence. We know this because when the sound characteristics of the produced vocalization are changed, then the auditory cortex is excited instead of suppressed (marmosets), or suppressed to a lesser degree (humans).

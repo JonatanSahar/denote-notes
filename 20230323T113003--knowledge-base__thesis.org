@@ -3,7 +3,6 @@
 #+filetags:   :thesis:
 #+identifier: 20230323T113003
 
-
 * Reviews
 *** DONE Motor output, neural states and auditory perception
 - link/cite: 10.1016/j.neubiorev.2018.10.021[cite:@reznikMotorOutputNeural2019c]
@@ -27,7 +26,7 @@ Hughes, 2013
 - figures:
 
 This review article focuses on the sensory processing of action effects and how it differs from the processing of externally triggered stimuli. The article discusses intentional binding and sensory attenuation and their attribution to forward action models. The review systematically investigates the role of temporal prediction, temporal control, identity prediction, and motor prediction in previous reports of sensory attenuation and intentional binding. The authors propose avenues for future research to better understand the role of motor prediction in processing voluntary action effects and how these phenomena fit within a general predictive processing framework. The article also highlights the implications of this research for understanding disorders of agency in schizophrenia.
-* subcortical processing of auditory stimuli
+- subcortical processing of auditory stimuli
 ** SKIM Abstract rules drive adaptation in the subcortical sensory pathway
 - link/cite: https://elifesciences.org/articles/64501
 - type of paper: study
@@ -127,7 +126,11 @@ The significance of these findings is manifold. Firstly, they provide evidence f
 
 it discusses the idea and supporting evidence that the two hemispheres specialize in processing different aspects of an auditory stimulus, namely temporal vs frequecy-domain features, and derived from that - specialize in processing and recognizing object sounds and action sounds.
 * Action modulates processing
-*** Kavroulakis, E., van Kemenade, B. M., Arikan, B. E., Kircher, T., & Straube, B. (2022). The effect of self‐generated versus externally generated actions on timing, duration, and amplitude of blood oxygen level dependent response for visual feedback processing. Human Brain Mapping, 43(16), 4954-4969.
+*** notes
+[[denote:20230615T121240][Articulation of syllables produces activity in the auditory cortex even when sound is masked]]
+[[denote:20230618T125807][Action modulates perception through more than just prediction]]
+*** papers
+**** Kavroulakis, E., van Kemenade, B. M., Arikan, B. E., Kircher, T., & Straube, B. (2022). The effect of self‐generated versus externally generated actions on timing, duration, and amplitude of blood oxygen level dependent response for visual feedback processing. Human Brain Mapping, 43(16), 4954-4969.
 The study investigated the effect of self-generated versus externally generated actions on the timing, duration, and amplitude of the blood oxygen level dependent (BOLD) response for visual feedback processing (Kavroulakis et al., 2022). The authors found that self-generated movements resulted in earlier and shorter BOLD responses in multiple brain structures, including visual and somatosensory cortical areas, the cerebellum, basal ganglia, and thalamus. This indicates that the efference copy-based predictive mechanisms enabled earlier processing of action feedback in self-generated movements. The results also showed that the BOLD duration was shorter in cortical and subcortical brain regions in self-generated movements, which was correlated with reduced delay detection performance. The authors concluded that the timing and duration of BOLD responses are important to predict and understand human behavior, and that their results shed new light on the cortico-cerebellar-striatal loops involved in predictive perception of the visual feedback of one's own hand movements.
 
     •  The study tested the hypothesis that predictive mechanisms for self-generated actions lead to early and shorter neural processing compared with externally generated movements.
@@ -136,18 +139,20 @@ The study investigated the effect of self-generated versus externally generated 
     • This suggests that efference copy-based predictions enable quicker processing times between action & its sensory consequences leading to better understanding of how humans perceive their own actions differently from those performed by others
 
 
-*** Schafer, E. W., & Marcus, M. M. (1973). Self-stimulation alters human sensory brain responses. Science (New York, N.Y.), 181(4095), 175–177. https://doi.org/10.1126/science.181.4095.175
+**** Schafer, E. W., & Marcus, M. M. (1973). Self-stimulation alters human sensory brain responses. Science (New York, N.Y.), 181(4095), 175–177. https://doi.org/10.1126/science.181.4095.175
 In the study by Schafer and Marcus (1973), the authors investigated the effect of self-administered auditory and visual stimuli on human brain responses as measured by electrocortical potentials. The results showed that self-administered auditory and visual stimuli evoked smaller amplitude and faster post-stimulus timing compared to machine-delivered stimuli. The self-stimulation effect was found to be greater for auditory than visual responses, and greater at the vertex association area than over the occipital cortex for visual responses. These findings suggest that self-stimulation alters human sensory brain responses.
 
 
-*** Stenner, M. P., Bauer, M., Haggard, P., Heinze, H. J., & Dolan, R. (2014). Enhanced alpha-oscillations in visual cortex during anticipation of self-generated visual stimulation. Journal of cognitive neuroscience, 26(11), 2540-2551.
+
+**** Stenner, M. P., Bauer, M., Haggard, P., Heinze, H. J., & Dolan, R. (2014). Enhanced alpha-oscillations in visual cortex during anticipation of self-generated visual stimulation. Journal of cognitive neuroscience, 26(11), 2540-2551.
 The study found that the amplitude of alpha-oscillations in the visual cortex increased before the onset of a visual stimulus when the identity and onset of the stimulus were controlled by participants' motor actions. This prestimulus enhancement of alpha amplitude was paralleled by psychophysical judgments of reduced contrast for the stimulus. The findings suggest that alpha-oscillations in the visual cortex preceding self-generated visual stimulation are a likely neurophysiological signature of motor-induced sensory anticipation and mediate sensory attenuation. This is the first study to establish links between a psychophysical measure of sensory attenuation and physiological evidence of anticipatory sensory modulation during an action. (Stenner et al, 2014).
     • Participants were asked to identify the difference in brightness between two images, and their motor actions were determined when each image was presented.
     • The intensity of sensory stimuli is reduced when the observer causes them, and this phenomenon can be explained by forward models arising from motor processing.
     • Alpha oscillations in the visual cortex are enhanced before a stimulus if it was caused by participants' actions, which corresponds to judgments showing lower contrast for these stimuli.
     • Alpha oscillations likely mediate anticipatory modulation that reduces perceived intensity, potentially related to top down control mechanisms used for prioritizing or gating information.
 
-*** Reznik, D., Guttman, N., Buaron, B., Zion-Golumbic, E., & Mukamel, R. (2021). Action-locked neural responses in auditory cortex to self-generated sounds. Cerebral Cortex, 31(12), 5560-5569.
+
+**** Reznik, D., Guttman, N., Buaron, B., Zion-Golumbic, E., & Mukamel, R. (2021). Action-locked neural responses in auditory cortex to self-generated sounds. Cerebral Cortex, 31(12), 5560-5569.
 This MEG study investigates the role of voluntary actions in modulating neural activity in the auditory cortex and perception of sounds presented at auditory hearing threshold. The study shows evidence for efferent signals in human auditory cortex that are locked to voluntary actions coupled with future auditory consequences. The findings suggest that voluntary actions play an important role in perception by directly modulating neural activity in sensory circuits.
 
 - The main results of the paper are:
@@ -159,21 +164,23 @@ This MEG study investigates the role of voluntary actions in modulating neural a
 - citation: [cite:@ActionlockedNeuralResponses]
 
 
-*** SKIM Reznik, D., Simon, S., & Mukamel, R. (2018). Predicted sensory consequences of voluntary actions modulate amplitude of preceding readiness potentials. Neuropsychologia, 119, 302-307.
+**** READ Reznik, D., Simon, S., & Mukamel, R. (2018). Predicted sensory consequences of voluntary actions modulate amplitude of preceding readiness potentials. Neuropsychologia, 119, 302-307.
 This paper investigates the neural signature of voluntary actions and their associated sensory consequences. The authors recorded EEG data from healthy subjects while they performed self-paced button presses with their right index and middle fingers. Button-presses with one finger triggered a sound (motor+sound condition), while button-presses with the other finger did not (motor-only condition). Additionally, subjects listened to externally-generated sounds delivered in expected timings (sound-only condition).
 
 The main results of this paper are that the readiness potential (RP) amplitude was significantly more negative in the motor+sound compared with motor-only conditions, indicating that information regarding expected auditory consequences is represented in the RP preceding voluntary action execution. This study contributes to our understanding of the neural mechanisms underlying voluntary actions and their associated sensory consequences.
 - citation: [cite:@reznikPredictedSensoryConsequences2018b]
 
 
-*** READ Reznik, Henkin, Schadel, Mukamel (2014) Lateralized Enhancement of Auditory Cortex Activity and Increased Sensitivity to Self-Generated Sounds, Nature Communications.
+**** READ Reznik, Henkin, Schadel, Mukamel (2014) Lateralized Enhancement of Auditory Cortex Activity and Increased Sensitivity to Self-Generated Sounds, Nature Communications.
 
-This paper investigates how the brain processes sounds that are self-generated compared to sounds that are externally generated. The study found that when people produce sounds themselves, there is a stronger response in the auditory cortex of the brain compared to when they hear the same sound produced by someone else. This enhancement is stronger when the sound-producing hand is on the opposite side of the brain from the auditory cortex. The study also found that people are more sensitive to self-generated sounds, and that this effect is stronger in the ear opposite to the sound-producing hand. The results suggest that a corollary discharge sent from the motor cortex during voluntary actions enhances activity in the auditory cortex and increases perceptual sensitivity in a lateralized manner.
+This paper investigates how the brain processes sounds that are self-generated compared to sounds that are externally generated. The study found that when people produce sounds themselves, there is a stronger response in the auditory cortex compared to when they hear the same sound produced by someone else. This enhancement is stronger when the sound-producing hand is on the opposite side of the brain from the auditory cortex.
+The study also found that people are more sensitive to self-generated sounds, and that this effect is stronger in the ear opposite to the sound-producing hand. The results suggest that a corollary discharge sent from the motor cortex during voluntary actions enhances activity in the auditory cortex and increases perceptual sensitivity in a lateralized manner.
 
 - citation: [cite:@reznikLateralizedEnhancementAuditory2014]
 
 
-*** READ Reznik, Ossmy, Mukamel (2015) Enhanced Auditory Evoked Activity to Self-Generated Sounds Is Mediated by Primary and Supplementary Motor Cortices, Journal of Neuroscience.
+
+**** READ Reznik, Ossmy, Mukamel (2015) Enhanced Auditory Evoked Activity to Self-Generated Sounds Is Mediated by Primary and Supplementary Motor Cortices, Journal of Neuroscience.
 This paper discusses the modifications of responses in the auditory cortex to self-generated sounds and the potential mechanisms behind these modifications.
 The authors used functional magnetic resonance imaging (fMRI) to record brain activity of human subjects while they performed sound-producing actions with their right hand and compared it to passive listening to identical sounds.
 They found that motor output from the supplementary motor area and left primary motor cortex may be responsible for the modifications in auditory cortex during perception of self-generated sounds. The study also found that modifications in the auditory cortex were invariant to the amount of tactile feedback.
@@ -181,7 +188,8 @@ They found that motor output from the supplementary motor area and left primary 
 - citation: [cite:@reznikEnhancedAuditoryEvoked2015]
 
 
-*** [[denote:20230329T121953][Enhanced Auditory Evoked Activity to Self-Generated Sounds Reznik et. al]]
+
+[[denote:20230329T121953][Enhanced Auditory Evoked Activity to Self-Generated Sounds Reznik et. al]]
 #+transclude: [[denote:20230329T121953][Enhanced Auditory Evoked Activity to Self-Generated Sounds Reznik et. al]] :level 3
 
 
@@ -191,13 +199,15 @@ This paper investigates how the brain processes self-generated sounds compared t
 - Motor output from the supplementary motor area (SMA) and left primary motor cortex is the source of signal modification in auditory cortex during perception of self-generated sounds.
 - Tactile feedback does not seem to play a major role in the effect of signal modification in auditory cortex during perception of self-generated sounds.
 
-*** SKIM Attenuated human auditory middle latency response and evoked 40-Hz response to self-initiated sounds
+
+**** SKIM Attenuated human auditory middle latency response and evoked 40-Hz response to self-initiated sounds
 Baess, 2009
-- link/cite: https://doi.org/10.1111/j.1460-9568.2009.06683.x
+- link/cite: https://doi.org/10.1111/j.1460-9568.2009.06683.x [cite:@baessAttenuatedHumanAuditory2009]
 - type of paper: study
 - why read it?
   another support for attenuation of processing
 - figures:
+  Comparing specifically the low level auditory response (MLR, medium latency response, EEG) to self- vs externally generated stimuli, they found an attenuation of two ERP components. This supports the idea of suppression/modulation of low level processing by high-level top-down predictions.
 
 * Sharpening
 *** READ Action sharpens sensory representations of expected outcomes. 4288 Yon, D., Gilbert, S. J., de Lange, F. P., & Press, C. (2018).
@@ -211,8 +221,8 @@ In the study by Yon, Gilbert, de Lange, & Press (2018), the authors investigated
     • This supports a Bayesian model for sensorimotor prediction in which veridical perception is facilitated by sharper representation of anticipated outcomes.
 
 * Modulation works via an effernce copy
-
 *** Haggard, P., & Whitford, B. (2004). Supplementary motor area provides an efferent signal for sensory suppression. Brain research. Cognitive brain research, 19(1), 52–58. https://doi.org/10.1016/j.cogbrainres.2003.10.018
+[cite:@haggardSupplementaryMotorArea2004]
 Haggard and Whiteford (2004), found evidence that the SMA may provide an efferent signal which is used by other brain areas to modulate somatosensory activity during self-generated movement. This suggests that sensory suppression in voluntary actions can be explained through motor prediction, where a signal from motor areas cancels out any predicted reafferences as a consequence of movement.
 
     • Voluntary actions produce suppression of neural activity in sensory areas, resulting in reduced levels of conscious sensation. This phenomenon has been linked to motor prediction: an efferent signal from motor areas may cancel out the predicted reafferences as a consequence of movement.
@@ -243,28 +253,7 @@ The findings suggest that sensory regions not only code the sensory consequences
 [cite:@deryLearningAudiomotorSkill]
 
 
-
 * Papers from the lab
 
 
 references only
-
-
-* Categories
-*** Action modulates perception
-
-*** Action modulates processing
-
-*** Sharpening
-
-*** Modulation works via an effernce copy
-
-*** Action sensory modulation is learning based
-
-*** Stronger modulation in ipsilateral configuration
-
-*** Advantage in contralateral configuration
-
-*** Sensorymotor learning is sensitive to the lateral configuration
-
-*** Papers from the lab

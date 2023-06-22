@@ -2,8 +2,7 @@
 #+date:       [2023-03-29 Wed 12:19]
 #+filetags:   :bib:thesis:
 #+identifier: 20230329T121953
-#+reference:  reznikEnhancedAuditoryEvoked2015
-
+#+reference:  enhanced_reznik_2015
 This paper investigates how the brain processes self-generated sounds compared to externally generated sounds.
 The study suggests that motor output from the supplementary motor area and left primary motor cortex is the source of signal modification in auditory cortex during perception of self-generated sounds.
 

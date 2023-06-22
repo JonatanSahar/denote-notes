@@ -4,9 +4,8 @@
 #+identifier: 20230329T155402
 
 * Literature review
-** Structure I
-**** Intro
-***** why is it important to study sensory-motor interactions
+** Intro
+*** why is it important to study sensory-motor interactions
 + bullet points
     * motor action is the basis for our interaction with the world
     * motor learning is basic and crucial
@@ -15,12 +14,11 @@
     * this has been suggested and shown to rely on interactions between the motor system and the various sensory systems.
 
 Motor action is arguably at the basis of all of our interactions with the world: moving through our environment, manipulating it, speaking and even our directing our gaze to take in our surroundings. Motor learning, is therefore an essential process, basic to our existence and our experience as leaving things. Motor learning it turn is a process of sensorimotor integration - the ability of the CNS to match synchronize our actions and their perceived sensory consequences.
-The current understanding is/research over the past couple of decades suggests that the motor system and the various sensory systems are closely intertwined: it's been suggested that motor cortex activation is paramount in our understanding of observed action via the mirror neurons system,
-TODO: complete.
+The current understanding is/research over the past couple of decades suggests that the motor system and the various sensory systems are closely intertwined: it's been suggested that motor cortex activation is paramount in our understanding of observed action via the mirror neurons system, TODO: complete.
 
 There are findings showing both attenuation and enhancement (TODO: add citations), this study hopes to add to our understanding of why that is so.
 
-***** why is it important to study laterality?
+*** why is it important to study laterality?
 + bullet points
     * the motor and auditory systems are both lateralized, so laterality may make a difference
     * structural effects of shorter neural path between areas in the same hemisphere
@@ -28,7 +26,13 @@ There are findings showing both attenuation and enhancement (TODO: add citations
 
 Both the motor and the auditory and visual systems in the human brain are lateralized; i.e. they predominantly operate in one hemisphere. Stemming from this fact is the potentially pivotal role that laterality, i.e. the lateral relationship between (motor) affector and (sensory) effector may play in the interaction and integration between these systems. On the one hand, the structural advantages afforded by the shorter neural pathways between regions within the same hemisphere may facilitate more efficient communication and coordination between auditory and motor processing in the ipsilateral condition, an advantage which is particularly pertinent when considering the speed and precision required in audiomotor tasks such as playing a musical instrument. On the other hand, information which traverses between hemispheres, travels through a greater number of interconnected regions, which may contribute to enhanced integration of learned audio-motor associations. This kind of inter-hemispheric communication could be essential for complex tasks that require the coordination of sensory and motor information. Additionally, the study of hand-ear laterality can significantly contribute to our knowledge of hemispheric lateralization, which is a fundamental aspect of brain function and cognitive processing.  In an applied context, these insights could have implications for developing interventions and training protocols aimed at improving audio-motor performance, and potentially even for the development of strategies for rehabilitation in cases of brain injury or degenerative diseases.
 
-**** Theoretical models of sensory modulation - including empirical support for each
+** Theoretical models of sensory modulation - including empirical support for each
+*** forward model
+[cite:@motorevoked_reznik_2020] [cite:@reznikActionlockedNeuralResponses]
+*** TEC
+*** sharpening
+*** predictive coding
+*** Section Text
 + bullet points
     * the current understanding is that the motor system and the various sensory systems are closely intertwined.
     * the motor system is involved in our semantic representation of actions, both planned and perceived.
@@ -43,6 +47,9 @@ The relationship between the motor and different sensory systems has been the su
 One framework that has been proposed for understanding the connection between the motor and sensory systems is the Theory of Event Coding (TEC). TEC posits that perceptual and motor plans and their associated precepts are stored in a common representational format (event codes), and that the interaction between these representations allows for the formation of event files, representing events that involve both motor and sensory aspects, integrating information across different modalities and time TODO: citations. By encoding sensory and motor information in a common format, the brain can more easily integrate information to guide perception and action TODO: citations.
 
 Further elaborating on the relationship between sensory prediction and motor command is the Forward Model. The Forward Model suggests that when a motor command is issued, an “efference copy” of this command is sent to sensory regions of the brain. This efference copy essentially serves as a prediction of the sensory consequences of the action. By comparing the predicted sensory feedback with the actual sensory input, the brain can distinguish between self-generated stimuli and stimuli that originate from the external environment.
+[cite:@haggardSupplementaryMotorArea2004]
+Haggard and Whiteford (2004), found evidence that the SMA may provide an efferent signal which is used by other brain areas to modulate somatosensory activity during self-generated movement. This suggests that sensory suppression in voluntary actions can be explained through motor prediction, where a signal from motor areas cancels out any predicted reafferences as a consequence of movement.
+[cite:@ActionlockedNeuralResponses] (MEG) shows evidence for efferent signals in human auditory cortex that are locked to voluntary actions coupled with future auditory consequences. The findings suggest that voluntary actions play an important role in perception by directly modulating neural activity in sensory circuits.
 
 Embedded within this model is the concept of Predictive Coding, which has long emerged as the predominant principle governing the workings of the brain TODO: citations. Predictive coding posits that the brain is continuously generating predictions of incoming stimuli, both internal and external, based on a learned statistical "model" incorporating the current state of the organism and its environment as they are represented in the brain, as well as any motor actions being preformed TODO: citations. These predictions are generated in many levels of the processing hierarchy (for recent findings in in the auditory pathway specifically refer to [cite:@parrasNeuronsAuditoryPathway2017]), and are constantly compared against actual sensory information received through the various modalities. Discrepancies between predictions and actual sensory input produce prediction errors, which are then used to update the brain's model, it's estimation of the situation or both. These predictions and prediction errors serve to bias perception towards expected patterns, and also to give increased weight to unexpected events, assisting in allocating computational resources to relevant stimuli out of a vast number of irrelevant ones.
 
@@ -50,90 +57,73 @@ In this interplay between prediction and perception, neural sharpening is anothe
 
 In summary, the modulation of sensory processing and perception by the motor system is a multifaceted and dynamic process involving several intertwined theoretical frameworks. Through mechanisms such as the activation of mirror neurons, the formation of event codes in TEC, the efference copy in the Forward Model, and neural sharpening, the motor system is intrinsically involved in shaping our perception of the world and our interactions with it.
 
-***** forward model
-***** TEC
-The Theory of Event Coding (TEC) proposes that perceptual and motor representations are stored in a common      representational format, and that the interaction between these representations allows for the formation of event codes that integrate information across different modalities and time. This framework is particularly relevant in the context of the modulation of auditory processing by the motor cortex because it suggests that the motor system can influence auditory processing and perception by generating event codes that integrate information about both the motor and auditory aspects of an action. By encoding these representations in a common format, the brain may be able to more easily integrate information across different modalities and time, which can enhance perception and action. In addition, TEC proposes that event codes are not fixed, but are dynamically constructed and updated based on the current context and goals, which may allow for flexible modulation of auditory processing and perception based on the demands of the task.
+** Empirical results about the role of the motor cortex in modulating auditory processing and perception
+*** perception and processing in general (i.e. inc vision) in short
+[cite:@buaronVoluntaryActionsModulate2020] - batel's visual paper, also shows laterality. (And her MA thesis  [cite:@buaronbatelLateralizedModulationSelfTriggered])
 
-Event codes and event files in the context of Theory of Event Coding (TEC) refer to the neural representations of perceptual and motor events that share a common representational format. An event file is a temporary binding of these event codes, creating a single representation of an event that involves both motor and sensory aspects. This integration of motor and sensory information enables the brain to form complete representations of events and to use this information to guide perception and action. Event codes and files are not fixed but are dynamic and updated based on the task demands and the current context, allowing for flexible modulation of sensory processing and perception. Overall, the concept of event codes and event files in TEC provides a framework for understanding the integration of motor and sensory information in perception and action.
-***** sharpening
-***** predictive coding
-**** Empirical results about the role of the motor cortex in modulating auditory processing and perception
-***** perception and processing in vision (in short)
-***** auditory processing
-***** auditory perception
-**** Results specifically about hand-ear laterality and its impact on auditory processing
-**** Research goals and hypotheses
+According to a recent study by Kavroulakis et al. (2022) [cite:@kavroulakisEffectSelfgeneratedExternally2022], self-generated movements exhibit earlier and shorter BOLD responses across various brain structures such as the visual and somatosensory cortical areas, cerebellum, basal ganglia, and thalamus. These findings suggest that predictive mechanisms based on efference copy facilitate faster processing of action feedback in self-generated movements.
 
-** Structure II
-**** I. Introduction
-- Background: the importance of auditory-motor interactions and how they play a role in our ability to generate actions that create auditory consequences.
-- significance of studying the effect of hand-ear laterality on auditory processing: discuss the potential implications of this research for understanding auditory-motor integration mechanisms, and how it could contribute to our knowledge of hemispheric lateralization and multisensory integration.
-- Perception and processing of self-generated stimuli:
-  + key findings relating to the differences from externally generated stimuli
-  + key findings relating to affector/effector laterality and affector/cortex laterality
+In [cite:@stennerEnhancedAlphaoscillationsVisual2014] the authors found that the amplitude of alpha-oscillations in the visual cortex increased before the onset of a visual stimulus when the identity and onset of the stimulus were controlled by participants' motor actions. This prestimulus enhancement of alpha amplitude was paralleled by psychophysical judgments of reduced contrast for the stimulus. The findings suggest that alpha-oscillations in the visual cortex preceding self-generated visual stimulation are a likely neurophysiological signature of motor-induced sensory anticipation and mediate sensory attenuation.
 
-**** II. Auditory-motor interactions
-- Briefly review the basic neuroanatomy and neurophysiology of the auditory and motor cortices, and what is known about connections between them. For example, refer to feedforward and feedback mechanisms between the motor and auditory cortices and the role of inhibitory interneurons in the auditory cortex.
-- Theoretical models: Discuss the different theoretical models proposed to explain the interactions between the auditory and motor systems. For example, predictive coding, efference copy, neural sharpening, and the mirror neuron system.
-- Empirical evidence: Summarize key empirical findings about the role of the motor cortex in modulating auditory processing, and how motor information can influence auditory perception and vice versa. Provide examples of studies that have used different methods to explore these interactions, such as neuroimaging, transcranial magnetic stimulation (TMS), and behavioral experiments.
+[cite:@actionassociated_csifcsk_2019]
 
-**** III. Hand-ear laterality and its impact on auditory processing
-- Definition of laterality: Define what is meant by the terms contralateral and ipsilateral, and explain how they relate to auditory-motor interactions.
-- Literature review of studies examining the impact of hand-ear laterality on auditory processing:
-    + Describe the experimental designs and methodologies used in studies investigating laterality effects, and the different methods used to measure auditory processing, such as pure-tone audiometry, speech perception tests, and electrophysiological recordings.
-    + Summarize and compare the findings of different studies, identifying commonalities and differences in the effect of ipsi- and contralateral hand movements on the auditory system.
-    + Discuss the implications of these findings for our understanding of laterality effects in the auditory-motor system.
-- Evidence for and against the existence of contralateral and ipsilateral differences: Discuss the evidence both for and against the idea that contralateral and ipsilateral configurations may lead to different patterns of auditory-motor interactions. For example, some studies have reported that auditory-motor interactions are stronger when the ear and hand are on the same side, while others have found no difference between contralateral and ipsilateral configurations. Include results pertaining to audiomotor learning.
+*** auditory processing
 
-**** IV. Clinical implications of altered auditory-motor interactions and laterality effects
-- Review the current knowledge on clinical conditions associated with altered auditory-motor interactions.
-- Focus on the laterality effects observed in these conditions, and examine how they could be related to the modulation of the auditory cortex by the motor cortex in a laterality-dependent manner.
-- Highlight potential clinical implications for understanding laterality effects in the auditory-motor system.
+Papers demonstrating attenuation:
 
-**** V. Conclusion
-- Summary: Briefly summarize the key points discussed in the literature review, including the theoretical and empirical work on auditory-motor interactions, and the evidence for and against the impact of hand-ear laterality on these interactions.
-- Gaps and limitations: Discuss any gaps or limitations in the current understanding of these issues, and suggest areas for future research. For example, it may be important to investigate whether the effects of laterality on auditory-motor interactions vary depending on the type of auditory stimulus or motor action being performed.
-- Relevance to current research: Explain why this literature review is relevant to the current study, and how it informs the research question and hypotheses being tested.
+From [cite:@schneiderHowMovementModulates2018] we have that the suppression of activation in the auditory cortex is heterogeneous - some areas show extensive suppression while others not so much. This implies that the source of the suppressing signal is cortical, rather than a general filter applied in  somewhere low level in the periphery.
+From electrophysiological recordings it seems that the areas being suppressed are the non-core areas - the belt and the parabelt, and that A1 responds relatively the same for self- vs other-generated vocalizations. (Also from [cite:@schneiderHowMovementModulates2018])
 
-** Draft II
-**** I. Introduction
-- /Background: the importance of sensory-motor interactions, how they play a crucial role in our ability to perceive and generate actions that create auditory consequences./
-    + motor action is the basis for our interaction with the world
-    + motor learning is basic and crucial
-    + motor learning is a process of sensorimotor integration
-    + sensorimotor integration requires and implies differential processing of self generated vs externally generated stimuli
-    + this has been suggested and shown to rely on interactions between the motor system and the various sensory systems.
+[cite:@cortical_schneider_2018] presets an acoustic virtual reality device for mice, which creates an alternative sound associated with the mice' footsteps.  They show that with time, there is a selective attenuation of A1 activation specifiaclly in response to the frequency of the new footsteps' sound. In addition these acclimated mice have an increased ability to detect other (=non reafferent) sounds during their movement (showing an adaptive advantage to this attenuation)
 
-    Motor action is arguably at the basis of all of our interactions with the world: moving through our environment, manipulating it, speaking and even our directing our gaze to take in our surroundings. Motor learning, is therefore an essential process, basic to our existence and our experience as leaving things. Motor learning it turn is a process of sensorimotor integration - the ability of the CNS to match synchronize our actions and their perceived sensory consequences.
-    The current understanding is/research over the past couple of decades suggests that the motor system and the various sensory systems are closely intertwined: it's been suggested that motor cortex activation is paramount in our understanding of observed action via the mirror neurons system,
+[cite:@attenuation_rummell_2016] found that, in mice, there was an attenuation of auditory cortex activation caused by optogenetic activation of auditory thalamocortical connection - so completely bypassing the path from the ear to the thalamus! - supporting the idea that this attenuation is a top-down, cortical, affair.
 
-- /The significance of studying the effect of hand-ear laterality on auditory processing/.
-    + the motor and auditory systems are both lateralized, so laterality may make a difference
-    + structural effects of shorter neural path between areas in the same hemisphere
-    + better integration of learned audio-motor associations due to information passing through more regions when traveling between hemispheres
+TODO: go over these papers and add what's relevan[cite:@attenuation_rummell_2016;@selfinitiated_mifsud_2016;@actionassociated_csifcsk_2019;@hughesMechanismsIntentionalBinding2013;@haggardSupplementaryMotorArea2004] [cite:@motorinduced_aliu_2009;@horvathActionrelatedAuditoryERP2015;@cortical_schneider_2018;@cancelling_press_2023;@rousselPreactivationAccountSensory2013;@cerebellumlike_singla_2017;@vicarious_weiss_2012]
 
-    Both the motor and the auditory and visual systems in the human brain are lateralized; i.e. they predominantly operate in one hemisphere. Stemming from this fact is the potentially pivotal role that laterality, i.e. the lateral relationship between (motor) affector and (sensory) effector may play in the interaction and integration between these systems. On the one hand, the structural advantages afforded by the shorter neural pathways between regions within the same hemisphere may facilitate more efficient communication and coordination between auditory and motor processing in the ipsilateral condition, an advantage which is particularly pertinent when considering the speed and precision required in audiomotor tasks such as playing a musical instrument. On the other hand, information which traverses between hemispheres, travels through a greater number of interconnected regions, which may contribute to enhanced integration of learned audio-motor associations. This kind of inter-hemispheric communication could be essential for complex tasks that require the coordination of sensory and motor information. Additionally, the study of hand-ear laterality can significantly contribute to our knowledge of hemispheric lateralization, which is a fundamental aspect of brain function and cognitive processing.  In an applied context, these insights could have implications for developing interventions and training protocols aimed at improving audio-motor performance, and potentially even for the development of strategies for rehabilitation in cases of brain injury or degenerative diseases.
-
-**** II. Auditory-motor interactions
-- /Brief review of the basic neuroanatomy and neurophysiology of the auditory and motor cortices, and what is known about connections between them. For example, refer to feedforward and feedback mechanisms between the motor and auditory cortices and the role of inhibitory interneurons in the auditory cortex./
-
-- /Theoretical models/
-    + the current understanding is that the motor system and the various sensory systems are closely intertwined.
-    + the motor system is involved in our semantic representation of actions, both planned and perceived.
-    + mirror neurons are thought to facilitate our ability to understand the actions of others.
-    + according to Theory of event coding (TEC, and experimental support) action consequences share an underlying neural code/activation with the motor plan/command that engenders them.
-    + the forward model proposes the existence of an "efference copy": a copy of the motor command, sent from the motor system to a sensory system, allowing the latter to distinguish between self-generated stimuli (caused by the motor action), and external stimuli.
-    + predictive coding had long emerged as the predominant principle governing the workings of the brain: the constant prediction of incoming stimuli, internal and external, based on the brain's learned statistical model of the world, the current multidimensional state of the brain and the environment, and the constant comparison of those predictions to actual incoming stimuli - generating prediction errors, which are used to update either the brain's model, its estimation of the current state of the environment, or both.
-    + neural sharpening is the enhancement of the veridical perception of stimuli brought about by the narrowing of individual neurons' tuning curves (or receptive fields). According to [cite:@yonActionSharpensSensory218]] motor action may modulate perception and processing, at least in part, through this process of sharpening. While [cite:@reznikMotorOutputNeural2019] suggest that specifically in the auditory domain sharpening is achieved through the attenuation of auditory cortex pyramidal cells by inhibitory interneurons which receive input from the motor cortex.
+[cite:@reznikLateralizedEnhancementAuditory2014] found that there is a stronger response in the auditory cortex compared to when they hear the same sound produced by someone else.
 
 
-- /Empirical evidence, summarizing key empirical findings about the role of the motor cortex in modulating auditory processing/
-  [cite :@abbasiBetabandOscillationsPlay2020] suggest beta band oscillations play a role
+[cite:@reznikPredictedSensoryConsequences2018b] The main results of this paper are that the readiness potential (RP) amplitude was significantly more negative in the motor+sound compared with motor-only conditions, indicating that information regarding expected auditory consequences is represented in the RP preceding voluntary action execution.
 
-- /auditory-motor interactions, modulation of the processing and perception of action consequences in the auditory domain/
+[cite:@reznikEnhancedAuditoryEvoked2015] This paper discusses the modifications of responses in the auditory cortex to self-generated sounds and the potential mechanisms behind these modifications.
+They found stronger activation in the auditory cortex for self generated vs passive stimuli.
+They also found that motor output from the supplementary motor area and left primary motor cortex may be responsible for the modifications in auditory cortex during perception of self-generated sounds.
 
-**** III. Hand-ear laterality and its impact on auditory processing
-**** IV. Conclusion
+[cite:@baessAttenuatedHumanAuditory2009] Compared specifically the low level auditory response (MLR, medium latency response, EEG) to self- vs externally generated stimuli, and found an attenuation of two ERP components. This supports the idea of suppression/modulation of low level processing by high-level top-down predictions.
+
+[cite:@schneiderReflectionsActionSensory2020;@selfinitiated_mifsud_2016]
+
+[cite:@vicarious_weiss_2012], similarly to [[denote:20230618T115907][Batel's EEG paper]], tease apart the effect of action from that of prediction (here - prediction based on another's action), and find that action in itself contributes to modulation.
+
+
+To conclude, review the main high level ideas from daniel & roy's review in [cite:@reznikMotorOutputNeural2019].
+
+*** auditory perception
+[cite:@reznikLateralizedEnhancementAuditory2014]: lower (binaural) hearing threshold for self generated sounds
+
+[cite:@reznikActionlockedNeuralResponses] found a condition dependent modulation of perception of self generated stimuli compared to otherwise identical sounds perceived in a passive manner: an increased perceptual salience of faint (or near threshold) sounds, and an attenuation of salient (or above threshold) sounds. [cite:@selfgeneration_paraskevoudi_2021] showed a similar effect of conditions on perceptual modulation.
+
+From [cite:@schneiderHowMovementModulates2018] we have the the modulation of the auditory cortex is predictive, in the sense that the modulation is targeting a specific, predicted auditory consequence. We know this because when the sound characteristics of e.g. a produced vocalization are distorted, then the auditory cortex is excited instead of suppressed (marmosets), or suppressed to a lesser degree (humans).
+The specific attributes of the auditory consequence which is predicted based on motor action are the ones being suppressed through modulation. In humans, the suppression of vocalizations targets the sound of the average utterance of a given word - the more different the utterance is from the average, the less its processing will be affected. Does this support the idea of sharpening ([[denote:20230621T152224][Neural sharpening]])? It implies that only a specific subset of neurons are affected - those whos tuning curves are aligned with the expected stimulus.
+TODO: integrate more insights from [cite:@schneiderHowMovementModulates2018]
+
+[cite:@satoActionObservationModulates2008] finds that there /is/ a perceptual modulation  caused by the prediction that other people's actions afford (cf [cite:@vicarious_weiss_2012]). (But compares it to no-prediction, so this just shows the effect of prediction on perception). His case was actually that the sense of agency doesn't rely on perceptual attenuation, since there is no difference in attenuation between self and other's actions. Not sure if this relevant.
+
+** Results specifically about hand-ear laterality and its impact on auditory processing and perception
+TODO: find more lateral auditory studies *not* from our lab
+
+
+Several studies from our group demonstrated that the lateral configuration of the affector (e.g the hand producing the stimulus/sound) and the effector (the sense organ receiving it) is of significance. In most cases it seems that that residing in the same hemisphere imparts an advantage of sorts to the sensory-motor relationship.
+
+For example, [cite:@buaronVoluntaryActionsModulate2020] has shown that it's possible to decode the active hand from the visual cortex, underscoring the significance of the lateral relationship between the motor and visual systems. The same study demonstrated a stronger neural modulation in the ipsilateral configuration (active motor cortex and stimulated visual field).
+
+In the auditory domain, [cite:@reznikLateralizedEnhancementAuditory2014] found that there is a stronger response in subjects' auditory cortex to self-generated compared to externally generated sounds, and this enhancement was stronger in the auditory cortex ipsilateral to the active motor cortex. In addition, an increased sensitivity to self-generated sounds, expressed as a lower hearing threshold, was observed, and this effect was stronger when sounds were presented to the ear contralateral to the sound-producing hand, such that the active motor and auditory cortices were again ipsilateral.
+
+[cite:@enhanced_reznik_2015] found that there is an enhancement of auditory cortex activity in the self-generated case, and that this signal enhancement was stronger in the auditory cortex which resided in the same hemisphere as the active motor cortex (contralateral to the active hand)
+
+[cite:@mukamelHadarDeryPaper] (in prep) somewhat in contrast to the above, found that a contralateral hand-ear (and hence a contralateral motor- and auditory cortex) configuration differentially facilitated learning in an audio-motor task of learning a piano sequence in comparison to the ipsilateral condition.
+
+** Research goals and hypotheses
 
 * Methods
 ** Subjects

@@ -1,0 +1,6 @@
+#+title: Motor related modulation of auditory cortex activity was shown even without auditory pathway involvenment
+#+date:       [2023-06-21 Wed 13:27]
+#+filetags:   :thesis:
+#+identifier: 20230621T132718
+
+[cite:@attenuation_rummell_2016] fount that, in mice, there was an attenuation of auditory cortex activation caused by optogenetic activation of auditory thalamocortical connection - so completely bypassing the path from the ear to the thalamus! - supporting the idea that this attenuation is a top-down, cortical, affair.

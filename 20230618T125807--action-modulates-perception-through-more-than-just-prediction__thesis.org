@@ -1,0 +1,6 @@
+#+title:      Action modulates perception through more than just prediction
+#+date:       [2023-06-18 Sun 12:58]
+#+filetags:   :thesis:
+#+identifier: 20230618T125807
+
+See [[denote:20230618T115907][Batel's EEG paper]], which elegantly separates the effect of prediction from that of motor engagement.

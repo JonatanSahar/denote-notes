@@ -31,7 +31,6 @@ run motor-only 3rd level.
 *** 31.5
 Looking at motor only results, pretty clear that the left hand activates a much wider area of the cortex - probably because when you're an expert (all subs are R handed) you activate the required areas more specifically.
 
-TODO: read papers by bob zattore
 
 *** 2.6
 After running looking at the motor only and auditory only, it's pretty clear that the audiomotor condition, at this time and using GLM, doesn't differentially activate the auditory cortex

@@ -29,12 +29,6 @@ Hughes, 2013
 
 The study found that movement planning influences early sensory areas in the brain. Using fMRI, they showed that specific movement information can be decoded from neural activity in the early auditory cortex before the movement happens. This motor-related information is separate from sensory-related information and is present even when movements are visually cued. The findings suggest that action planning involves modulating sensory areas based on the intended action.
 
-* NEXT A review of contemporary ideomotor theory.
-- link/cite: https://doi.org/10.1037/a0020541
-- type of paper: review
-- why read it?
-- figures:
-
 * READ Reflections of action in sensory cortex
 - link/cite: https://doi.org/10.1016/j.conb.2020.02.004
 - type of paper: study
@@ -42,6 +36,12 @@ The study found that movement planning influences early sensory areas in the bra
 - figures:
 
 [cite:@schneiderReflectionsActionSensory2020]
+
+* READ A review of contemporary ideomotor theory.
+- link/cite: https://doi.org/10.1037/a0020541
+- type of paper: review
+- why read it?
+- figures:
 
 * READ Yon, D., Gilbert, S. J., de Lange, F. P., & Press, C. (2018). Action sharpens sensory representations of expected outcomes. Nature communications, 9(1), 4288.
 [cite:@yonActionSharpensSensory2018 ]

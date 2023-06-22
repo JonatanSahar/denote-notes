@@ -1,0 +1,6 @@
+#+title:      Neural sharpening
+#+date:       [2023-06-21 Wed 15:22]
+#+filetags:   :thesis:
+#+identifier: 20230621T152224
+
+Neural sharpening refers to a change in neural activity that increases the specificity and selectivity of neurons in response to a particular stimulus. In the context of auditory processing and the motor cortex, neural sharpening may occur when the motor cortex predicts the sensory consequences of an action. By predicting the sensory consequences of an action, the motor cortex enhances the neural representation of the expected auditory consequences, leading to stronger, more selective responses to relevant auditory signals. This effect is thought to be particularly strong for task-relevant auditory stimuli, and it can give rise to enhanced auditory processing and perception. However, as I mentioned earlier, the exact nature of the auditory-motor interaction is complex and can depend on a variety of factors.

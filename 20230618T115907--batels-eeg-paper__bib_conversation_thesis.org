@@ -1,0 +1,14 @@
+#+title:      Batel's EEG paper
+#+date:       [2023-06-18 Sun 11:59]
+#+filetags:   :bib:conversation:thesis:
+#+identifier: 20230618T115907
+
+There are two conditions that evolve over time, we're sort of looking at four conditions really:
+- visual cue beginning
+- visual cue end
+- motor action beginning
+- motor action end
+
+  In the beginning there is little-to-no expectation/prediction in both conditions, and in the end there should be perfect prediction.
+The main point is that the difference between the motor and visual conditions in the end, is the same at the difference between them at the beginning: this means that there is an added value for motor activation over and above the effect of expectation.
+They term it "agency", which I think means something a little different, but at any rate - it shows a modulation effect of our own actions on perception which is different than (merely) making the incoming stimuli more predictable.

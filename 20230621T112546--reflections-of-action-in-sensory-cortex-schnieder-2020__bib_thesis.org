@@ -1,0 +1,18 @@
+#+title:      Reflections of Action in Sensory Cortex, Schnieder 2020
+#+date:       [2023-06-21 Wed 11:25]
+#+filetags:   :bib:thesis:
+#+identifier: 20230621T112546
+#+reference:  schneiderReflectionsActionSensory2020
+
+* sensory cortices integrate information from non-sensory areas as well, and in particular from the motor cortex
+Integration of Sensory and Non-Sensory Inputs in Sensory Cortex: The sensory cortical areas receive inputs from a diverse set of brain regions, including higher order visual areas, retrosplenial cortex, and motor cortex. This suggests that sensory cortical areas integrate both sensory and non-sensory inputs.
+
+Prominent Direct Input from Regions Involved in Movement: Sensory cortical areas like V1, A1, and S1 receive prominent direct input from regions of the frontal cortex involved in movement, including primary motor cortex (M1), secondary motor cortex (M2), and anterior cingulate cortex (ACC). These motor cortical inputs are functionally important for modulating sensory cortical activity during behavior.
+
+Input from Regions Active During Behavior: Sensory cortex also receives strong input from regions that are not strictly motor, but which are active during behavior. For instance, cholinergic inputs from the basal forebrain innervate A1 and are active during many behaviors. In V1, cholinergic inputs are active during locomotion and are driven in part by a subcortical structure called the mesencephalic locomotor region (MLR).
+* motor modulation of sensory processing reflects expectations
+Many V1 neurons respond predominantly to self-generated visual cues as opposed to passively presented cues. A substantial fraction of neurons are most strongly responsive when the visual feedback is abruptly halted while the mouse is still locomoting, a perturbation that induces a sensory prediction error, or a mismatch between what the mouse expected and what it actually experienced.
+
+Motor-Related Signals Anticipate Sensory Consequences of Action: Closed-loop experiments in the auditory domain provide added support for the idea that motor-related signals can help anticipate the sensory consequences of action. When locomotion produces self-generated tones, many neurons in A1 reduce their responses to expected sound frequencies specifically during locomotion, but not during rest. This form of predictive suppression for expected self-generated sounds also occurs when mice operate a sound-producing lever.
+
+Predictive Processing Involves Plasticity of Motor Cortical Inputs: The predictive processing of self-generated sensations in V1 and A1 appears to involve plasticity of motor cortical inputs to sensory cortex. Imaging of frontal cortical axons in V1 reveals that the information provided by M2 and ACC changes with experience in visual AR environments on a time course consistent with learning-related changes in the activity of V1 neurons. In addition, motor cortical inputs to A1 become selectively capable of recruiting A1 interneurons that are tuned to the locomotion-associated sound frequency following acoustic AR experience, see [cite:@reznikMotorOutputNeural2019] for our suggested mechanism relating to A1 interneurons.

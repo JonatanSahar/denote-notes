@@ -1,0 +1,7 @@
+#+title:      Lateralized Modulation of Self-Triggered Visual Stimuli - Batel's MA thesis
+#+date:       [2023-06-19 Mon 14:22]
+#+filetags:   :bib:thesis:
+#+identifier: 20230619T142243
+#+reference:  buaronbatelLateralizedModulationSelfTriggered
+
+This is Batel's MA thesis, the paper is at [cite:@buaronVoluntaryActionsModulate2020].

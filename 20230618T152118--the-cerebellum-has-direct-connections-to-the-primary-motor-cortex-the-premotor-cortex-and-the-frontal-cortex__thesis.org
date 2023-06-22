@@ -1,0 +1,12 @@
+#+title: The cerebellum has direct connections to the primary motor cortex, the premotor cortex, and the frontal cortex
+#+date:       [2023-06-18 Sun 15:21]
+#+filetags:   :thesis:
+#+identifier: 20230618T152118
+
+- Cerebellar loops passing through the primary motor cortex adjust movement commands to compensate for movement dynamics.
+- Cerebellar loops passing through premotor cortex are involved in predicting the immediate consequences of intended movements.
+- Cerebellar loops passing through areas 46 and 9 of prefrontal cortex (areas implicated in higher cognitive functions, such as sensory integration, decision-making, and planning) may be involved in integrating current, memorized, and predicted sensory information to select effective actions.
+
+/"The cerebellum forms a set of discrete parallel loops with various parts of the fronto-parietal cerebral network responsible for movement production (Middleton & Strick 2000). Some of these loops pass through the primary motor cortex and are presumably involved in adjusting the descending motor command to compensate for movement dynamics, as discussed above. Other cerebellar loops pass through premotor cortex, and may be involved in predicting the immediate consequences of specific intended movements. Finally, still other cerebellar loops pass through areas 46 and 9 of the prefrontal cortex. These regions are implicated in higher cognitive functions such as sensory integration, working memory, decision-making, and planning (Bechara et al. 1998; Constantinidis et al. 2001; Fuster 2000; Kim & Shadlen 1999; Rowe et al. 2000; Wise & Murray 2000). From the context of the discussion above, they may be involved in integrating current, memorized, and predicted sensory information in order to allow effective selection of action."/
+
+From a response in [cite:@hommelTheoryEventCoding2001a]

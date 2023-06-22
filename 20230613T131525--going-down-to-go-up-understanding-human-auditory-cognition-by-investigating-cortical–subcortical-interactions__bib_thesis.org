@@ -1,0 +1,9 @@
+#+title:      Going down to Go up: Understanding Human Auditory Cognition by Investigating Cortical–Subcortical Interactions
+#+date:       [2023-06-13 Tue 13:15]
+#+filetags:   :bib:thesis:
+#+identifier: 20230613T131525
+#+reference:  zatorreGoingGoUnderstanding2022
+
+/"Identifying salient stimuli is thus essential. But to do so requires both low-level processes, such as release from adaptation to detect a change in the environment, as well as higher-order processes, such as predicting what should happen next based on stored internal representations. These processes are fundamental to a range of functions, but take special importance for pattern analysis of the sort that is critical for speech or music, because to be able to follow a sequence of sounds requires both the bottom-up inputs and the top-down predictions to work smoothly together. Building up the internal representations via statistical learning itself depends on the encoding of regularities in the pattern, hence requiring a subtle interplay between these inputs and outputs."/
+
+/"We do not fully understand how these processes play out, but one possibility is that afferent inputs from subcortical nuclei provide sensory information that serves as prediction error signals when there is an unexpected change, while efferent outputs from cortex represent the predictions coming from higher levels of the hierarchy."/

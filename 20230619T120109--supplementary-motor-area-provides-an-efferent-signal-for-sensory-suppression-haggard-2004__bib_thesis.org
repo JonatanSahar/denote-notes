@@ -1,0 +1,10 @@
+#+title: Supplementary Motor Area Provides an Efferent Signal for Sensory Suppression, Haggard 2004
+#+date:       [2023-06-19 Mon 12:01]
+#+filetags:   :bib:thesis:
+#+identifier: 20230619T120109
+#+reference:  haggardSupplementaryMotorArea2004
+
+Haggard and Whiteford (2004), found evidence that the SMA may provide an efferent signal which is used by other brain areas to modulate somatosensory activity during self-generated movement. This suggests that sensory suppression in voluntary actions can be explained through motor prediction, where a signal from motor areas cancels out any predicted reafferences as a consequence of movement.
+
+    • Voluntary actions produce suppression of neural activity in sensory areas, resulting in reduced levels of conscious sensation. This phenomenon has been linked to motor prediction: an efferent signal from motor areas may cancel out the predicted reafferences as a consequence of movement.
+    • The experiments conducted with eight normal subjects showed that when they made voluntary actions, they perceived the first test MEP to be smaller than on trials where no action was taken - demonstrating sensory suppression. Additionally, delivering prepulses over SMA 10 ms before producing the test pulse almost abolished any observed effects - suggesting that an efferent signal from motor areas is used by other brain regions to modulate somatosensory activity during self-generated movements.

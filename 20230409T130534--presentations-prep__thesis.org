@@ -32,8 +32,6 @@ The
 
 
 *** Introduction
-
-
 ***** Structure:
          - who I am, a word about the lab and motor learning
          - a word about sensorimotor integration

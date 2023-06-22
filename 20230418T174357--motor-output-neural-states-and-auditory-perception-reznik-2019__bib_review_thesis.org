@@ -2,7 +2,7 @@
 #+date:       [2023-04-18 Tue 17:43]
 #+filetags:   :bib:review:thesis:
 #+identifier: 20230418T174357
-#+reference:  reznikMotorOutputNeural2019c
+#+reference:  reznikMotorOutputNeural2019
 
 Lots of good references
 
@@ -24,7 +24,7 @@ The shift in population activity patterns is related to apparent enhancement of 
 
 
 Salient sounds:
-#+attr_org: :width 500
+#+attr_org: :width 400
 [[file:c:/Users/Jonathan/notes/images/20230418T174357--motor-output-neural-states-and-auditory-perception-reznik-2019__bib_review_thesis.org_20230424_111638_3Gb9jq.png]]
 
 
@@ -32,15 +32,23 @@ Faint sounds:
 #+attr_org: :width 500
 [[file:c:/Users/Jonathan/notes/images/20230418T174357--motor-output-neural-states-and-auditory-perception-reznik-2019__bib_review_thesis.org_20230424_111744_MCjfM4.png]]
 
+* gpt summary of reading notes:
+Despite the lack of known anatomical connections between primary motor and auditory cortices in humans, secondary areas have been found to be interconnected in mice, primates, and humans.
+
+The model proposed in the review paper suggests that in salient conditions, the overall activation of the auditory cortex is high. The motor cortex's inhibition attenuates this response and increases frequency differentiation. In contrast, in faint sound conditions, the overall activation of the auditory cortex is low, and the signal may be drowned out by environmental noise. The motor cortex's modulation nullifies activation due to environmental noise, leaving signal-related activation. Although this is also somewhat attenuated, the signal-to-noise ratio (SNR) is significantly increased, which may explain the increased volume at near-threshold conditions.
+
+On a neural level, synchronized activation and inhibition cause a change in firing pattern, moving from synchronized (phasic) to desynchronized (tonic), reflected in a change in the power spectrum from low-frequency to high-frequency. This desynchronized activity in the auditory cortex has been associated with higher SNR, higher reliability, and precision in stimulus representation.
+
+In salient conditions, many studies show perceptual attenuation, which aligns with a general attenuation in activity. In faint conditions, there's an increase in sensitivity, both in amplitude and in the temporal domain. Auditory processing with motor engagement in faint sound scenarios is "better" in two key aspects: SNR is higher, and there's a higher firing rate, and lower variability in the desynchronized mode versus the synchronized one. This background activity is stronger when there are synchronized low-frequency oscillations, and that's reduced by motor engagement.
 * reading notes
 ** intro
 Sensory perception is complex and dependent on the internal state and external situation in the environment (drift-diffusion for example).
 
-Modulation of self-generated stimuli may be useful in several ways: protecting he sensory pathway form overstimulation, sustaining the illusion of a stable and continuous sensory image (like with sacccades), supporting the sense of self and agency through corroborating our predictions related to our own actions.
+Modulation of self-generated stimuli may be useful in several ways: protecting he sensory pathway form overstimulation, sustaining the illusion of a stable and continuous sensory image (e.g. sacccades), supporting the sense of self and agency through corroborating our predictions which relate to our own actions.
 
-It's harder study speech sounds even though they are most ecological, because when we speak we hear ourselves through bone consuction in addition to air, and also the muscle movement alters the ear structure and the sound we hear.
+It's harder to study speech sounds even though they are most ecological, because when we speak we hear ourselves through bone conduction in addition to air, and also the muscle movement alters the ear structure and the sound we hear.
 
-There are no known anatomical connections between the primary motor and the primary auditory cortices in humans, but there are known anatomical connections between secondary areas (in mice), and also functional connectivity and  other anatomical connections in primates and humans.
+There are no known anatomical connections between the primary motor and the primary auditory cortices in humans, but there are known anatomical connections between secondary areas (in mice), and also functional connectivity and other anatomical connections in primates and humans.
 
 There are known connections between auditory and motor areas across the animal kingdom. Specifically in mice, motor neurons have excitatory connections to auditory pyramidal cells and also to auditory inhibitory cells which inhibit these pyramidal cells.
 

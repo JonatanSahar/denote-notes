@@ -1,0 +1,8 @@
+#+title:      Articulation of syllables produces activity in the auditory cortex even when sound is masked
+#+date:       [2023-06-15 Thu 12:12]
+#+filetags:   :thesis:
+#+identifier: 20230615T121240
+
+/"Articulation of syllables produces activity in posterior auditory areas even when sound input is masked."/
+
+From [cite:@zatorreWhenBrainPlays2007]

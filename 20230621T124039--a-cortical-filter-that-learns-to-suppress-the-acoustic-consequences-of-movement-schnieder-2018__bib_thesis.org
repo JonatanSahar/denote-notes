@@ -1,0 +1,10 @@
+#+title:      A Cortical Filter That Learns to Suppress the Acoustic Consequences of Movement, Schnieder 2018
+#+date:       [2023-06-21 Wed 12:40]
+#+filetags:   :bib:thesis:
+#+identifier: 20230621T124039
+#+reference:  cortical_schneider_2018
+
+This paper presets an acoustic virtual reality device for mice, which creates an alternative sound associated with the mice' footsteps.  They show that with time, there is a selective attenuation of A1 activation specifiaclly in response to the frequency of the new footsteps' sound. In addition these acclimates mice have an increased ability to detect other (=non reafferent) sounds during their movement (showing an adaptive advantage to this attenuation)
+
+* abstract
+Here we developed an acoustic virtual reality (aVR) system in which a mouse learned to associate a novel sound with its locomotor movements, allowing us to identify the neural circuit mechanisms that learn to suppress reafferent sounds and to probe the behavioural consequences of this predictable sensorimotor experience. We found that aVR experience gradually and selectively suppressed auditory cortical responses to the reafferent frequency, in part by strengthening motor cortical activation of auditory cortical inhibitory neurons that respond to the reafferent tone. This plasticity is behaviourally adaptive, as aVR-experienced mice showed an enhanced ability to detect non-reafferent tones during movement. Together, these findings describe a dynamic sensory filter that involves motor cortical inputs to the auditory cortex that can be shaped by experience to selectively suppress the predictable acoustic consequences of movement.
