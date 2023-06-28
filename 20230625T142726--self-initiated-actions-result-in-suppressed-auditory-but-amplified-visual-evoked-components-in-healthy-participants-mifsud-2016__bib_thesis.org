@@ -1,0 +1,7 @@
+#+title: Self-Initiated Actions Result in Suppressed Auditory but Amplified Visual Evoked Components in Healthy Participants. Mifsud 2016
+#+date:       [2023-06-25 Sun 14:27]
+#+filetags:   :bib:thesis:
+#+identifier: 20230625T142726
+#+reference:  selfinitiated_mifsud_2016
+
+This study discovered that self-suppression occurs in the auditory domain, with reduced N1 amplitudes for self-initiated tones. In contrast, self-initiated visual stimuli, specifically pattern reversals, resulted in amplified N145 components compared to externally initiated stimuli. Importantly, the predictability of the onset of externally initiated conditions did not influence the response amplitudes.

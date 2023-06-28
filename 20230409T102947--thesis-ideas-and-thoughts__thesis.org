@@ -3,7 +3,7 @@
 #+filetags:   :thesis:
 #+identifier: 20230409T102947
 
-Anything that has to do with my own thoughts and ideas about the project - ideas fro analyses, their meaning, connecting stuff from literature, preparing for writing.
+Anything that has to do with my own thoughts and ideas about the project - ideas from analysis, their meaning, connecting stuff from literature, preparing for writing.
 
 * What are we talking about?
 - The difference in modulation of the auditory cortex between ipsi and contralateral hand playing.
@@ -12,12 +12,9 @@ Anything that has to do with my own thoughts and ideas about the project - ideas
 - Efference copies and how they work.
 - Crosstalk between sensory and motor circuits
 - Sensorimotor integration.
-- how action affects/creates predictions/predictive coding: the modulation of the auditory cortex, if  h
+- how action affects/creates predictions/predictive coding: the modulation of the auditory cortex
+
+Actually, a lot of the research in the lab, including my own?, is trying to tease apart the roles of prediction and motor action in their effect on processing and perception - is the effect of self-generated actions only due to predictive processing, or is there an additional effect?
 
 * Why does it matter?
 - can say something about the mechanism of [[id:20221208T101618.833052][Efference copy]] efferent copies (look at [cite:@buaronVoluntaryActionsModulate2020])  for language about efferent copies and the connection.
-
-
-* Literature connections
-- both reznik papers ([cite:@reznikEnhancedAuditoryEvoked2015;@reznikLateralizedEnhancementAuditory2014])  show that there's more modulation of the auditory cortex when the hand is ipsilateral to the ear .
-- this is also supported by batel's visual paper ([cite:@buaronVoluntaryActionsModulate2020]) showing the same for hand-and-visual-field.

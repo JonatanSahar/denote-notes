@@ -1,0 +1,218 @@
+#+title: DEPRECATED Thesis draft
+#+date:       [2023-03-29 Wed 15:54]
+#+filetags:   :thesis:
+#+identifier: 20230329T155402
+
+* Introduction/Literature review
+** describe the phenomenon of sensory modulation
+** what are the theoretical attempts to explain it 
+** why is laterality relevant to this discussion (with results)
+** what this study is about (why we're doing it) and what does it include (how we're doing it)
+
+* Intro
+** why is it important to study sensory-motor interactions
++ bullet points
+    * motor action is the basis for our interaction with the world
+    * motor learning is basic and crucial
+    * motor learning is a process of sensorimotor integration
+    * sensorimotor integration requires and implies differential processing of self generated vs externally generated stimuli
+    * this has been suggested and shown to rely on interactions between the motor system and the various sensory systems.
+
+Motor action is arguably at the basis of all of our interactions with the world: moving through our environment, manipulating it, speaking and even our directing our gaze to take in our surroundings. Motor learning, is therefore an essential process, basic to our existence and our experience as leaving things. Motor learning it turn is a process of sensorimotor integration - the ability of the CNS to match synchronize our actions and their perceived sensory consequences.
+The current understanding is/research over the past couple of decades suggests that the motor system and the various sensory systems are closely intertwined: it's been suggested that motor cortex activation is paramount in our understanding of observed action via the mirror neurons system, TODO: complete.
+
+There are findings showing both attenuation and enhancement (TODO: add citations), this study hopes to add to our understanding of why that is so.
+
+*** why is it important to study laterality?
++ bullet points
+    * the motor and auditory systems are both lateralized, so laterality may make a difference
+    * structural effects of shorter neural path between areas in the same hemisphere
+    * better integration of learned audio-motor associations due to information passing through more regions when traveling between hemispheres
+
+Both the motor and the auditory and visual systems in the human brain are lateralized [cite:@kandelPrinciplesNeuralScience2000]; i.e. they predominantly operate in one hemisphere. Stemming from this fact is the potentially pivotal role that laterality, i.e. the lateral relationship between (motor) affector and (sensory) effector may play in the interaction and integration between these systems. On the one hand, the structural advantages afforded by the shorter neural pathways between regions within the same hemisphere may facilitate more efficient communication and coordination between auditory and motor processing in the ipsilateral condition, an advantage which is particularly pertinent when considering the speed and precision required in audiomotor tasks such as playing a musical instrument. On the other hand, information which traverses between hemispheres, travels through a greater number of interconnected regions, which may contribute to enhanced integration of learned audio-motor associations. This kind of inter-hemispheric communication could be essential for complex tasks that require the coordination of sensory and motor information. Additionally, the study of hand-ear laterality can significantly contribute to our knowledge of hemispheric lateralization, which is a fundamental aspect of brain function and cognitive processing.  In an applied context, these insights could have implications for developing interventions and training protocols aimed at improving audio-motor performance, and potentially even for the development of strategies for rehabilitation in cases of brain injury or degenerative diseases.
+
+"/Within the motor system, neural activity in some regions is strongly lateralized, while in other regions, neural activity is more balanced. For example, activations in primary motor cortex and the cerebellum are strongly lateralized—with neural activity in a particular cerebral/cerebellar hemisphere usually associated with control of contralateral/ipsilateral limbs, respectively (Kalaska and Rizzolatti 2013). Conversely, neural activity in premotor cortex and the supplementary motor area show a weaker laterality bias—with more balanced neural activity during control of ipsi/contra lateral limbs (Horenstein et al. 2009). Given the premise that the source of efference copies resides within the motor regions generating the action, it is plausible that the degree of sensory modulations would exhibit significant differences that depend on the identity of the stimulus-triggering hand. Such differences, if found, would better support a neuroanatomical source of efference copies in motor regions that exhibit a strong bias to hand identity. Furthermore, such differences would suggest that information conveyed by the motor pathways to sensory regions during voluntary movement is not restricted to the sensory consequences of the action but also contains information regarding the triggering effector. Therefore, probing hand-dependent differences in sensory modulations at the behavioral and neural levels may provide important insight with respect to the underlying mechanism and potential functional role of such signals. Indeed, in the auditory modality, we have recently reported perceptual and neural differences in the magnitude of sensory modulations that depend on the sound-triggering hand (right/left). Specifically, modulations in left/right auditory cortex were stronger if it resided within the same hemisphere as the active motor cortex generating the sound (Reznik et al. 2014)./
+
+/In light of these results, we hypothesized that different stimulus-triggering hands, engaging different motor pathways, will elicit different sensory modulations at the neural level that might also manifest as different perceptual reports. In the current study, we examined the hemispheric bias of sensory modulations in the visual domain, using behavioral and neural measures (fMRI) in healthy participants. To this end, we manipulated the relationship between the stimulated visual field (right vs. left visual field), causal agent generating the stimulus (self/external), and identity of the effector participants used to trigger the stimulus (right/left hand)./"
+from [cite:@buaronVoluntaryActionsModulate2020]
+
+** Theoretical models of sensory modulation - including empirical support for each
+*** forward model
+[cite:@motorevoked_reznik_2020] [cite:@reznikActionlockedNeuralResponses]
+*** TEC
+*** sharpening
+*** predictive coding
+*** Section Text
++ bullet points
+    * the current understanding is that the motor system and the various sensory systems are closely intertwined.
+    * the motor system is involved in our semantic representation of actions, both planned and perceived.
+    * mirror neurons are thought to facilitate our ability to understand the actions of others.
+    * according to Theory of event coding (TEC, and experimental support) action consequences share an underlying neural codeactivation with the motor plancommand that engenders them.
+    * the forward model proposes the existence of an "efference copy": a copy of the motor command, sent from the motor system to a sensory system, allowing the latter to distinguish between self-generated stimuli (caused by the motor action), and external stimuli.
+    * predictive coding had long emerged as the predominant principle governing the workings of the brain: the constant prediction of incoming stimuli, internal and external, based on the brain's learned statistical model of the world, the current multidimensional state of the brain and the environment, and the constant comparison of those predictions to actual incoming stimuli - generating prediction errors, which are used to update either the brain's model, its estimation of the current state of the environment, or both.
+    * neural sharpening is the enhancement of the veridical perception of stimuli brought about by the narrowing of individual neurons' tuning curves (or receptive fields). According to [cite:@yonActionSharpensSensory218]] motor action may modulate perception and processing, at least in part, through this process of sharpening. While [cite:@reznikMotorOutputNeural2019] suggest that specifically in the auditory domain sharpening is achieved through the attenuation of auditory cortex pyramidal cells by inhibitory interneurons which receive input from the motor cortex.
+
+The relationship between the motor and different sensory systems has been the subject of extensive research. Central to this relationship is the conception that the motor system is not an isolated entity, but rather it is both highly intertwined with the different sensory modalities and profoundly involved in our semantic understanding of the world TODO: citations. The theoretical background for the modulation of sensory processing and perception by the motor system is based on the idea that the motor system is not only responsible for the generation of movements, but also contributes to the predictions of the sensory consequences of those movements. This predictive ability allows the motor cortex to modulate sensory processing and perception in real time, enhancing the relevance of sensory information and shaping perception TODO: citations.
+
+One framework that has been proposed for understanding the connection between the motor and sensory systems is the Theory of Event Coding (TEC). TEC posits that perceptual and motor plans and their associated precepts are stored in a common representational format (event codes), and that the interaction between these representations allows for the formation of event files, representing events that involve both motor and sensory aspects, integrating information across different modalities and time TODO: citations. By encoding sensory and motor information in a common format, the brain can more easily integrate information to guide perception and action TODO: citations.
+
+Further elaborating on the relationship between sensory prediction and motor command is the Forward Model. The Forward Model suggests that when a motor command is issued, an “efference copy” of this command is sent to sensory regions of the brain. This efference copy essentially serves as a prediction of the sensory consequences of the action. By comparing the predicted sensory feedback with the actual sensory input, the brain can distinguish between self-generated stimuli and stimuli that originate from the external environment.
+[cite:@haggardSupplementaryMotorArea2004]
+Haggard and Whiteford (2004), found evidence that the SMA may provide an efferent signal which is used by other brain areas to modulate somatosensory activity during self-generated movement. This suggests that sensory suppression in voluntary actions can be explained through motor prediction, where a signal from motor areas cancels out any predicted reafferences as a consequence of movement.
+[cite:@ActionlockedNeuralResponses] (MEG) shows evidence for efferent signals in human auditory cortex that are locked to voluntary actions coupled with future auditory consequences. The findings suggest that voluntary actions play an important role in perception by directly modulating neural activity in sensory circuits.
+Using transcranial magnetic stimulation (TMS), it has been shown that even during motor preparation (that is, before the actual motor act) sensitivity to sensory stimuli is already reduced [cite:@vossSensorimotorAttenuationCentral2006]
+
+Embedded within this model is the concept of Predictive Coding, which has long emerged as the predominant principle governing the workings of the brain TODO: citations. Predictive coding posits that the brain is continuously generating predictions of incoming stimuli, both internal and external, based on a learned statistical "model" incorporating the current state of the organism and its environment as they are represented in the brain, as well as any motor actions being preformed TODO: citations. These predictions are generated in many levels of the processing hierarchy (for recent findings in in the auditory pathway specifically refer to [cite:@parrasNeuronsAuditoryPathway2017]), and are constantly compared against actual sensory information received through the various modalities. Discrepancies between predictions and actual sensory input produce prediction   errors, which are then used to update the brain's model, it's estimation of the situation or both. These predictions and prediction errors serve to bias perception towards expected patterns, and also to give increased weight to unexpected events, assisting in allocating computational resources to relevant stimuli out of a vast number of irrelevant ones.
+
+In this interplay between prediction and perception, neural sharpening is another noteworthy mechanism. It refers to the enhancement of perception through the narrowing of the receptive fields or tuning curves of individual neurons. The process increases the distinctiveness of neural responses to relevant sensory stimuli. Studies cited as [cite:@yonActionSharpensSensory218] indicate that motor action may modulate sensory processing, partly through neural sharpening. Moreover, research cited as [cite:@reznikMotorOutputNeural2019] suggests that in the auditory domain, this sharpening is achieved through the attenuation of auditory cortex pyramidal cells by inhibitory interneurons that receive input from the motor cortex. This indicates that the motor cortex has a direct influence on the processing in the auditory cortex, possibly optimizing it for relevant auditory stimuli.
+
+In summary, the modulation of sensory processing and perception by the motor system is a multifaceted and dynamic process involving several intertwined theoretical frameworks. Through mechanisms such as the activation of mirror neurons, the formation of event codes in TEC, the efference copy in the Forward Model, and neural sharpening, the motor system is intrinsically involved in shaping our perception of the world and our interactions with it.
+** Empirical results about the role of the motor cortex in modulating auditory processing and perception
+- outline
+    + the majority of previous studies report an attenuation of both processing and perception
+        [cite:@selfinitiated_mifsud_2016] found that self-suppression occurs in the auditory domain, with reduced N1 amplitudes for self-initiated tones. In contrast, self-initiated visual stimuli, specifically pattern reversals, resulted in amplified N145 components compared to externally initiated stimuli. Importantly, the predictability of the onset of externally initiated conditions did not influence the response amplitudes.
+
+        [cite:@rousselPreactivationAccountSensory2013] Presents a lower discrimination (visual, gabors) for self-generated stimuli
+
+        [cite:@baessAttenuatedHumanAuditory2009] Compared specifically the low level auditory response (MLR, medium latency response, EEG) to self- vs externally generated stimuli, and found an attenuation of two ERP components. This supports the idea of suppressionmodulation of low level processing by high-level top-down predictions.
+
+        Invasive studies in patients, using electrocorticography show mostly suppressed responses in superior temporal gyrus (STG) to self-vocalization versus passive listening to similar speech sounds [cite:@flinkerSingleTrialSpeechSuppression2010][cite:@greenleeHumanAuditoryCortical2011]
+        A suppressed response to self-vocalizations was also found using MEG and EEG [cite:@fordSynchYouSpeak2007][cite:@houdeModulationAuditoryCortex2002].
+
+    + there is also increasing evidence for conditions in which voluntary actions enhance or improve processing and perception
+
+        Functional imaging data on the other hand are more mixed, with some studies showing enhancement, others showing attenuation, and yet others showing both phenomena in different brain regions within the same subjects
+
+        using positron-emission tomography it has been shown that increases in speech production rate result in increased cerebral blood flow in auditory cortices even when auditory feedback was blocked by white noise that was kept constant across rates
+
+        [cite:@reznikLateralizedEnhancementAuditory2014] found that there is a stronger response in the auditory cortex compared to when they hear the same sound produced by someone else.
+
+        using positron-emission tomography it has been shown that increases in speech production rate result in increased cerebral blood flow in auditory cortices even when auditory feedback was blocked by white noise that was kept constant across rates [cite:@pausModulationCerebralBlood1996]/
+
+         /the fMRI signal in the auditory cortex during active speaking (relative to passive listening) has been shown to be attenuated in STG but enhanced in superior temporal sulcus of the same subjects [cite:@christoffelsNeuralCorrelatesVerbal2007]/
+
+        [cite:@reznikPredictedSensoryConsequences2018b] The main results of this paper are that the readiness potential (RP) amplitude was significantly more negative in the motor+sound compared with motor-only conditions, indicating that information regarding expected auditory consequences is represented in the RP preceding voluntary action execution.
+
+        [cite:@reznikEnhancedAuditoryEvoked2015] This paper discusses the modifications of responses in the auditory cortex to self-generated sounds and the potential mechanisms behind these modifications.
+        They found stronger activation in the auditory cortex for self generated vs passive stimuli.
+        They also found that motor output from the supplementary motor area and left primary motor cortex may be responsible for the modifications in auditory cortex during perception of self-generated sounds.
+
+        [cite:@reznikLateralizedEnhancementAuditory2014]: lower (binaural) hearing threshold for self generated sounds
+
+        [cite:@hughesERPCorrelatesAction2011]  - an increased P1 component (EEG) in response to self-triggered visual stimuli
+        [cite:@ackerleyFMRIStudyCortical2012] - stronger positive BOLD for self-touch vs negative BOLD for passive touch
+
+    + With respect to the underlying mechanism, it's unclear which factors contribute to this modulation of neural response
+
+        - examples of the different processes involved
+                For a review of different hypotheses regarding the underlying mechanism of attenuation see [cite:@horvathActionrelatedAuditoryERP2015].
+
+                In [cite:@hughesMechanismsIntentionalBinding2013] the authors suggest that sensory attenuation is driven by both temporal control and motor identity prediction (= the ability to predict what kind of stimulus, e.g. which sound, will be presented based on our motor actions), and is influenced by the belief in the causal relationship between the action and its consequences.
+
+        - evidence in support of predictive processing:
+                [cite:@cortical_schneider_2018] presents an acoustic virtual reality device for mice, which creates an alternative sound associated with the mice' footsteps.  They show that with time, there is a selective attenuation of A1 activation specifically in response to the frequency of the new footsteps' sound. In addition these acclimated mice have an increased ability to detect other (=non reafferent) sounds during their movement (showing an adaptive advantage to this attenuation)
+
+                [cite:@motorinduced_aliu_2009] found that motor induced suppression (MIS) develops rapidly for zero delays but doesn't apply to nonzero delays, although it can develop for 100-msec delays within 300 trials, exceeding simple auditory habituation (Experiment 2).
+
+                From [cite:@schneiderHowMovementModulates2018] we have the the modulation of the auditory cortex is predictive, in the sense that the modulation is targeting a specific, predicted auditory consequence. We know this because when the sound characteristics of e.g. a produced vocalization are distorted, then the auditory cortex is excited instead of suppressed (marmosets), or suppressed to a lesser degree (humans).
+                The specific attributes of the auditory consequence which is predicted based on motor action are the ones being suppressed through modulation. In humans, the suppression of vocalizations targets the sound of the average utterance of a given word - the more an utterance differs from the average, the less its processing will be affected.
+
+        - evidence in support of a unique role for motor action (in addition to it's predictive power):
+                TODO: Cite batel's paper as "in prep"?
+                [cite:@vicarious_weiss_2012], similarly to [[denote:20230618T115907][Batel's EEG paper]], tease apart the effect of action from that of prediction (here - prediction based on another's action), and find that action in itself contributes to modulation.
+
+    + it's also not clear whether this attenuation is not in fact sharpening, past data having been misread. cite press etc. and explain about that.
+        See [cite:@cancelling_press_2023] and [cite:@yonActionSharpensSensory2018]for a discussion of sharpening as an explanatory mechanism, and what it implied for previous research.
+
+        [cite:@reznikActionlockedNeuralResponses] found a condition dependent modulation of perception of self generated stimuli compared to otherwise identical sounds perceived in a passive manner: an increased perceptual salience of faint (or near threshold) sounds, and an attenuation of salient (or above threshold) sounds.
+        [cite:@selfgeneration_paraskevoudi_2021] showed a similar effect of conditions on perceptual modulation.
+
+        Regarding sharpening: are only neurons "in the direction" of the expected stimulus sharpened, or are all of them? See the note about [cite:@schneiderHowMovementModulates2018] above
+
+    + as a predictive mechanism, it's assumed to rely on top-down modulation of incoming low-level stimuli.
+
+        In [cite:@attenuation_rummell_2016] the authors recorded auditory cortex activity from mice and found that this activity was consistently attenuated in response to self generated sounds, both in pyramidal cells and interneurons. In addition they found that there was an attenuation of auditory cortex activation even when that activation was due to an optogenetic activation of auditory thalamocortical connection triggered by the animal - so completely bypassing the path from the ear to the thalamus - supporting the idea that this attenuation originates at least in part from a purely cortical source.
+
+        From [cite:@schneiderHowMovementModulates2018] we have that the suppression of activation in the auditory cortex is heterogeneous - some areas show extensive suppression while others not so much. This implies that the source of the suppressing signal is cortical, rather than a general filter applied in  somewhere low level in the periphery.
+
+        [cite:@baessAttenuatedHumanAuditory2009] Compared specifically the low level auditory response (MLR, medium latency response, EEG) to self- vs externally generated stimuli, and found an attenuation of two ERP components. This supports the idea of suppression/modulation of low level processing by high-level top-down predictions.
+
+        From electrophysiological recordings it seems that the areas being suppressed are the non-core areas - the belt and the parabelt, and that A1 responds relatively the same for self- vs other-generated vocalizations. (Also from [cite:@schneiderHowMovementModulates2018])
+
+    + To conclude, review the main high level ideas from Daniel & Roy's review in [cite:@reznikMotorOutputNeural2019].
+
+*** perception and processing in general (i.e. inc vision) in short
+[cite:@buaronVoluntaryActionsModulate2020] - batel's visual paper, also shows laterality. (And her MA thesis  [cite:@buaronbatelLateralizedModulationSelfTriggered])
+
+According to a recent study by Kavroulakis et al. (2022) [cite:@kavroulakisEffectSelfgeneratedExternally2022], self-generated movements exhibit earlier and shorter BOLD responses across various brain structures such as the visual and somatosensory cortical areas, cerebellum, basal ganglia, and thalamus. These findings suggest that predictive mechanisms based on efference copy facilitate faster processing of action feedback in self-generated movements.
+
+In [cite:@stennerEnhancedAlphaoscillationsVisual2014] the authors found that the amplitude of alpha-oscillations in the visual cortex increased before the onset of a visual stimulus when the identity and onset of the stimulus were controlled by participants' motor actions. This prestimulus enhancement of alpha amplitude was paralleled by psychophysical judgments of reduced contrast for the stimulus. The findings suggest that alpha-oscillations in the visual cortex preceding self-generated visual stimulation are a likely neurophysiological signature of motor-induced sensory anticipation and mediate sensory attenuation.
+
+[cite:@actionassociated_csifcsk_2019] the authors examined the degree of ERP attenuation (self- vs externally-generated) in the visual domain, and checked the effect of three parameters:
+1. naturalistic vs abstract images
+2. how predictable was the specific presented stimulus
+3. laterality (which hand - all subjects were R handed)
+They found that motor related predictive mechanisms attenuate very early visual responses, but found an enhancement of slightly later P1 response, which they attribute to the effect of increased attention.  This enhancement was dependent on predictability, but only for naturalistic stimuli.
+
+*** auditory processing
+*** auditory perception
+TODO: integrate more insights from [cite:@schneiderHowMovementModulates2018]
+ Does this support the idea of sharpening ([[denote:20230621T152224][Neural sharpening]])? It implies that only a specific subset of neurons are affected - those whos tuning curves are aligned with the expected stimulus.
+
+[cite:@satoActionObservationModulates2008] finds that there /is/ a perceptual modulation caused by the prediction that other people's actions afford (cf [cite:@vicarious_weiss_2012]). (But compares it to no-prediction, so this just shows the effect of prediction on perception). His case was actually that the sense of agency doesn't rely on perceptual attenuation, since there is no difference in attenuation between self and other's actions. Not sure if this relevant.
+
+* Results specifically about hand-ear laterality and its impact on auditory processing and perception
+
+    TODO: find more lateral auditory studies *not* from our lab
+
+    /anatomical evidence suggesting stronger connectivity between motor and auditory cortices residing in the same hemisphere [cite:@pandyaIntraInterhemisphericConnections1969]/
+
+    Several studies from our group demonstrated that the lateral configuration of the affector (e.g the hand producing the stimulus/sound) and the effector (the sense organ receiving it) is of significance. In most cases it seems that that residing in the same hemisphere imparts an advantage of sorts to the sensory-motor relationship.
+
+    For example, [cite:@buaronVoluntaryActionsModulate2020] has shown that it's possible to decode the active hand from the visual cortex, underscoring the significance of the lateral relationship between the motor and visual systems. The same study demonstrated a stronger neural modulation in the ipsilateral configuration (active motor cortex and stimulated visual field).
+
+    In the auditory domain, [cite:@reznikLateralizedEnhancementAuditory2014] found that there is a stronger response in subjects' auditory cortex to self-generated compared to externally generated sounds, and this enhancement was stronger in the auditory cortex ipsilateral to the active motor cortex. In addition, an increased sensitivity to self-generated sounds, expressed as a lower hearing threshold, was observed, and this effect was stronger when sounds were presented to the ear contralateral to the sound-producing hand, such that the active motor and auditory cortices were again ipsilateral.
+
+    [cite:@enhanced_reznik_2015] found that there is an enhancement of auditory cortex activity in the self-generated case, and that this signal enhancement was stronger in the auditory cortex which resided in the same hemisphere as the active motor cortex (contralateral to the active hand)
+
+    [cite:@mukamelHadarDeryPaper] (in prep) somewhat in contrast to the above, found that a contralateral hand-ear (and hence a contralateral motor- and auditory cortex) configuration differentially facilitated learning in an audio-motor task of learning a piano sequence in comparison to the ipsilateral condition.
+
+** Research goals and hypotheses
+
+Actually, a lot of the research in the lab, including my own?, is trying to tease apart the roles of prediction and motor action in their effect on processing and perception - is the effect of self-generated actions only due to predictive processing, or is there an additional effect ?
+
+
+/"Therefore, probing hand-dependent differences in sensory modulations at the behavioral and neural levels may provide important insight with respect to the underlying mechanism and potential functional role of such signals. Indeed, in the auditory modality, we have recently reported perceptual and /neural/ differences in the magnitude of sensory modulations that depend on the sound-triggering hand. Specifically, modulations in the  auditory cortex were stronger if it resided within the same hemisphere as the active motor cortex generating the sound (Reznik et al. 2014)."/
+
+    "In light of these results, we hypothesized that different stimulus-triggering hands, engaging different motor pathways, will elicit different sensory modulations at the neural level that might also manifest as different perceptual reports. In the current study, we examined the hemispheric bias of sensory modulations in the auditory domain, using neural measures (fMRI) in healthy participants. To this end, we manipulated the relationship between the stimulated visual field (right vs. left visual field), causal agent generating the stimulus (self/external), and identity of the effector participants used to trigger the stimulus (right/left hand)."
+
+** Implicatons for clinical work
+Schizophrenia:
+[cite:@shergillFunctionalMagneticResonance2014], [cite:@pynnFunctionEfferenceCopy2013]
+* Methods
+** Subjects
+Thirty-three participants were recruited, all of them healthy, right handed (self-reported, Edinburgh Handedness Inventory),
+and had normal or corrected to normal vision.
+The study conformed to the guidelines that were approved by the ethical committee in Tel-Aviv University and the Helsinki Committee of the Sheba Medical Center. All participants provided written informed consent to participate in the study and were compensated for their time.
+** fMRI Session
+The aim of this session was to examine whether neural activations in auditory cortex, evoked by action-triggered auditory consequences, depend on the stimulus-triggering hand. To this end, participants triggered identical visual stimuli using either their right or left hand.
+
+The fMRI session included one anatomical run and a total of eight functional runs: two motor-only runs, two auditory-only runs, and four audiomotor experimental runs.
+Auditory-only runs were meant for localizing the auditory pathway, motor-only runs were meant for localizing the motor cortex and to examine the a-priory modulating effect of the motor cortex on the auditory system (i.e. In the absence of auditory stimuli), and the audiomotor runs were designed to examine the differential effect of triggering auditory stimuli using the right versus the left hand per ear (i.e. activating the sound with the contralateral vs ipsilateral hand with regards to the ear).
+
+All functional runs were organized in a block design, and all consisted of 20 blocks with an 8s rest period before the first block and between each consecutive block pair. During the rest period participants were requested to fixate on a black cross in the middle of the screen, and block onset was cued by the cross' color changing to green. Before the color changed, either the letter "R" or the letter "L" were displayed for 1s, replacing the cross.
+In the motor-only and the audiomotor conditions the appearance of the green cross was the cue for the participants to initiate a set of eight button presses with either their left or right thumbs, as indicated by the presented letter. Once eight button presses were completed, the screen's background flashed green as an indication to stop pressing. In the audiomotor condition each button press triggered a single monaural tone of a fixed 400ms duration, while in the motor-only condition button presses were unaccompanied by sound. In the auditory-only condition, participants were instructed to listen without pressing, while eight tones (identical to the ones in the audiomotor condition) were played to either their left or right ears, again terminating with the screen flashing green.
+
+Participants always underwent the motor-only condition first, and the auditory-only condition second, in order to avoid creating an association between the motor action and its consequences that would affect brain activation during motor-only runs.
+
+The order of right and left hand blocks in the motor-only and audiomotor conditions, and of right and left ear blocks in the auditory-only condition were randomized.
+Within each audiomotor run the stimulated ear was kept constant while the active hand changed between blocks.
+There were a total of 20 blocks per hand in the motor-only condition, and 20 blocks per ear in the auditory-only condition. In the audiomotor condition there were two runs per ear, totaling 40 blocks per ear, and 20 blocks per hand-ear combination.
+
+Stimuli were presented on a 32" monitor and viewed by the participants through a mirror placed on the MRI head coil.
+
+ In order to keep participants attentive, in case the wrong hand was used the screen flashed red, and they were requested to pay more attention at the end of the run.
+ Blocks in which the wrong hand was used, or not all eight button presses were performed, or too many button presses were performed were excluded from the analysis.
+
+** fMRI Data Acquisition TODO: verify pulse sequence parameters
+ Functional imaging was performed on a Siemens Magnetom Prisma 3T Scanner (Siemens Healthcare)with a 64-channel head coil at the Tel-Aviv University Strauss Center for Computational Neuroimaging. In all functional scans, an interleaved multiband gradient-echo echo-planar pulse sequence was used. 66 slices were acquired for each volume, providing whole-brain coverage (slice thickness 2 mm; voxel size 2 mm isotropic; TR = 1000 ms; TE = 30 ms; flip angle = 82. ; field of view= 192 mm; acceleration factor = 2). For anatomical reference, a whole-brain high resolution T1-weighted scan (slice thickness 1 mm; voxel size 1 mm isotropic; TR = 1000 ms; TE = 2. 99 ms; flip angle = 7. ; field of view= 224 mm) was acquired for each participant.

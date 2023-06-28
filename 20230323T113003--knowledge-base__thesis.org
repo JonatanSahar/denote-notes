@@ -4,20 +4,20 @@
 #+identifier: 20230323T113003
 
 * Reviews
-*** DONE Motor output, neural states and auditory perception
+** DONE Motor output, neural states and auditory perception
 - link/cite: 10.1016/j.neubiorev.2018.10.021[cite:@reznikMotorOutputNeural2019c]
 - type of paper: review
 - why read it?
   Daniel and Roy's review of sensorimotor integration
 - figures:
-*** DONE How Movement Modulates Hearing
+** DONE How Movement Modulates Hearing
 - link/cite: https://doi.org/10.1146/annurev-neuro-072116-031215
 - type of paper: review
 - why read it?
   David schneider
 - figures:
 [cite:@schneiderHowMovementModulates2018]
-*** DONE Mechanisms of intentional binding and sensory attenuation: The role of temporal prediction, temporal control, identity prediction, and motor prediction.
+** DONE Mechanisms of intentional binding and sensory attenuation: The role of temporal prediction, temporal control, identity prediction, and motor prediction.
 Hughes, 2013
 - link/cite: https://doi.org/10.1037/a0028566
 - type of paper: review
@@ -27,6 +27,13 @@ Hughes, 2013
 
 This review article focuses on the sensory processing of action effects and how it differs from the processing of externally triggered stimuli. The article discusses intentional binding and sensory attenuation and their attribution to forward action models. The review systematically investigates the role of temporal prediction, temporal control, identity prediction, and motor prediction in previous reports of sensory attenuation and intentional binding. The authors propose avenues for future research to better understand the role of motor prediction in processing voluntary action effects and how these phenomena fit within a general predictive processing framework. The article also highlights the implications of this research for understanding disorders of agency in schizophrenia.
 - subcortical processing of auditory stimuli
+** READ Cancelling cancellation? Sensorimotor control, agency, and prediction
+- link/cite: https://www.sciencedirect.com/science/article/pii/S0149763422005012?via%3Dihub
+- type of paper: theoretical
+- why read it?
+  Discusses the implications for accumulated research of moving away from the idea of consequences being "canceled from perception" to neural sharpening
+- figures:
+
 ** SKIM Abstract rules drive adaptation in the subcortical sensory pathway
 - link/cite: https://elifesciences.org/articles/64501
 - type of paper: study
@@ -116,6 +123,20 @@ The study investigated how single neurons in the auditory pathways of rats and m
 6. **Cross-Modal Generalization**: The study mentions that similar predictive activities have been found in other sensory modalities, suggesting a generalized predictive coding mechanism across different senses.
 
 The significance of these findings is manifold. Firstly, they provide evidence for the predictive coding framework within the auditory processing, wherein the brain is constantly making predictions about sensory input and adjusting based on the error between prediction and actual input. Secondly, the identification of hierarchical organization of predictive coding in auditory pathways sheds light on the complexity of auditory perception and processing. Lastly, by establishing and validating rodent models for studying predictive coding and mismatch responses, the findings open avenues for further research into the cellular mechanisms of neural disorders characterized by deficits in predictive coding, such as schizophrenia. This can have important implications for translational neuroscience and the development of treatments for such disorders.
+** SKIM Action-related auditory ERP attenuation: Paradigms and hypotheses
+- link/cite: https://www.sciencedirect.com/science/article/pii/S0006899315002735?via%3Dihub
+- type of paper: review
+- why read it?
+  a review of different explanations of attenuation
+- figures:
+
+This review article discusses the phenomenon of auditory N1 event-related potential (ERP) attenuation, which is often observed in self-induced or self-generated sounds. The traditional explanation is that this attenuation reflects the cancellation of auditory re-afference through internal forward modeling of predictable sensory outcomes of an action. However, the article presents two additional hypotheses:
+
+1. The attention hypothesis posits that auditory ERP attenuation occurs due to a temporary split of attention between the action and the auditory stimulation.
+2. The pre-activation hypothesis suggests that attenuation is a result of the activation of a sensory template during action initiation, which then interferes with the incoming stimulation.
+
+The review argues that although each hypothesis explains some of the findings, none fully encompasses all the observed results. For a more comprehensive understanding, systematic investigations should consider types of actions, degree of action-effect contingency, and temporal characteristics of action-effect contingency representation-buildup and -deactivation.
+
 * laterality in the auditory system
 ** SKIM Auditory hemispheric asymmetry as a specialization for actions and objects
 - link/cite: https://www.biorxiv.org/content/10.1101/2023.04.19.537361v1

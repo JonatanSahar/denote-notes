@@ -6,7 +6,7 @@
 
 
 * short summary:
-The authors of the study suggest that other conditions can be contrasted to isolate the specific processes involved in sensory attenuation, as the contrast between self- and externally-generated stimuli cannot distinguish between temporal control and motor identity prediction. They also suggest that sensory attenuation is driven by both temporal control and motor identity prediction, and is influenced by the belief in the causal relationship between the action and its consequences. However, almost no studies have been able to distinguish between the effect of temporal control and motor identity prediction on sensory attenuation.
+The authors of the study suggest that other conditions can be contrasted to isolate the specific processes involved in sensory attenuation, as the contrast between self- and externally-generated stimuli cannot distinguish between temporal control and motor identity prediction (= the ability to predict what kind of stimulus, e.g. which sound, will be presented based on our motor actions). They also suggest that sensory attenuation is driven by both temporal control and motor identity prediction, and is influenced by the belief in the causal relationship between the action and its consequences. However, almost no studies have been able to distinguish between the effect of temporal control and motor identity prediction on sensory attenuation.
 
 * reading notes
 This review is asking specifically about intentional binding and sensory attenuation - are they really caused by the brain's (successful) prediction of the action's effect.

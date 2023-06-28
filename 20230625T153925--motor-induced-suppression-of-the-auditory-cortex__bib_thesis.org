@@ -1,0 +1,7 @@
+#+title: Motor-Induced Suppression of the Auditory Cortex
+#+date:       [2023-06-25 Sun 15:39]
+#+filetags:   :bib:thesis:
+#+identifier: 20230625T153925
+#+reference:  motorinduced_aliu_2009
+
+The study conducted three MEG experiments and found that motor-induced suppression (MIS) develops rapidly for zero delays but doesn't apply to nonzero delays (Experiment 1). It also found that MIS can develop for 100-msec delays within 300 trials, exceeding simple auditory habituation (Experiment 2). Lastly, unlike MIS for zero delays, MIS for nonzero delays lacks sensitivity to sensory, delay, or motor-command changes (Experiment 3).

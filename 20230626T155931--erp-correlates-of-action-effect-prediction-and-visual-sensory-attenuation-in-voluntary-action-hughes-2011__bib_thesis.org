@@ -1,0 +1,7 @@
+#+title: ERP Correlates of Action Effect Prediction and Visual Sensory Attenuation in Voluntary Action, Hughes 2011
+#+date:       [2023-06-26 Mon 15:59]
+#+filetags:   :bib:thesis:
+#+identifier: 20230626T155931
+#+reference:  hughesERPCorrelatesAction2011
+
+The study found that sensory attenuation of visual action effects is marked by a reduced activation of a frontoparietal network from 150 ms after a stimulus, extending prior findings on auditory and somatosensory domains. Differences in lateralized motor potentials were observed between actions that triggered a stimulus and those that didn't, potentially reflecting the cortical correlates of action effect prediction. The study also noted a re-activation of lateralized motor activity following the onset of the action effect, suggesting a shared representation of action effects in visual and motor cortices.

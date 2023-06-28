@@ -1,4 +1,4 @@
-#+title:      Interesting papers
+* #+title:      Interesting papers
 #+date:       [2023-04-02 Sun 13:36]
 #+filetags:   :thesis:
 #+identifier: 20230402T133604
@@ -262,3 +262,15 @@ The paper discusses sensory attenuation, or the perception of self-generated act
 - figures:
 
 The brain shows less response to self-generated sounds compared to externally generated ones, possibly due to a mechanism that distinguishes the sensory consequence of one's own actions from other sensory input. However, it is unclear how this sensory suppression is related to judgments of agency. Results from the study suggest that N1 amplitude suppression to self-generated sounds is not affected by the timing of an action's effect, and does not influence agency judgments, but the suppression of the P2 component may be more directly related to the experience of agency.
+* SKIM Cancelling cancellation? Sensorimotor control, agency, and prediction
+- link/cite: https://www.sciencedirect.com/science/article/pii/S0149763422005012?via%3Dihub
+- type of paper: theoretical
+- why read it?
+  it discusses what todo with all the accumulated research which assumed predicted consequence are "cancelled from perception" in light of recent ideas about sharpening
+- figures:
+* SKIM Cancelling cancellation? Sensorimotor control, agency, and prediction
+- link/cite: https://www.sciencedirect.com/science/article/pii/S0149763422005012?via%3Dihub
+- type of paper: theoretical
+- why read it?
+  discusses the theoretical implications of moving away from the idea that predicted consequences are "cancelled from perception" to the idea of neural sharpening
+- figures:

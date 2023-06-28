@@ -4,7 +4,8 @@
 #+identifier: 20230416T164124
 #+reference:  rousselPreactivationAccountSensory2013
 
+Presents a lower discrimination (visual, gabors) for self-generated stimuli + a suggested mechanism
+
 * reading notes
-they suggest a new model of attenuation: proposing that voluntary action preactivates previously learned action–effects.
+they suggest a mechanism to support the ideas of [[denote:20230619T104021][Theory of event coding (TEC)]] in modeling attenuation: proposing that voluntary action preactivates previously learned action–effects.
 they review results from Cardoso-Leite et al. (2010) which show that for self generated visual stimuli (low contrast gabors) there is a greater overlap between the signal and noise distributions (d', signal detection theory).
-in reference to the TOC ([cite:@hommelTheoryEventCoding2019a]) they say that since actions and their sensory consequences share an underlying neural code, then the execution of an action constitutes a preactivation of the sensory circuit that will experience it.
